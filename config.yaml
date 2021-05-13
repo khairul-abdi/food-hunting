@@ -1,0 +1,57 @@
+baseURL: https://neztra.com
+languageCode: id-ID
+defaultContentLanguage: id
+title: Neztra
+theme: blog-lt
+disqusShortname: neztra
+enableRobotsTXT: true
+canonifyURLs: true
+
+params:
+  subtitle: Resep Masakan Mudah & Praktis
+  description: Saya menulis setiap hari tentang masakan rumahan kekinian, yang mudah dibuat dan cocok untuk masakan sehari-hari.
+  signature: Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
+  author: Neztra
+  email: neztra.phun@gmail.com
+  facebook: https://www.facebook.com/neztraa/
+  instagram: https://www.instagram.com/neztraa1/
+  twitter: https://twitter.com/neztraa/
+  googleAnalytics: G-P0WW95WJ14
+  ads: false
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Resep
+      url: /resep/
+      weight: 2
+    - name: Artikel
+      url: /artikel/
+      weight: 3
+
+outputs:
+  home: ["HTML", "JSON", "RSS"]
+
+imaging:
+  quality: 95
+
+caches:
+  assets:
+    dir: :resourceDir/_gen
+    maxAge: -1
+  images:
+    dir: :resourceDir/_gen
+    maxAge: -1
+
+server:
+  headers:
+  - for: /**.html
+    values:
+      Cache-Control: max-age=0, must-revalidate, public
+
+minify:
+  minifyOutput: true
+
+timeout: 100000

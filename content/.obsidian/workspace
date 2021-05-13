@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2c8463e873fcd919",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9fbe5bda2c70d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "resep/ayam-goreng-crispy/index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13bced53d57a4462",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8eff0ad12584334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03f916b8258d76e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86d3ef2fa545b69d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Ayam Goreng Crisp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331
+  },
+  "right": {
+    "id": "c310a4d4ff100904",
+    "type": "split",
+    "children": [
+      {
+        "id": "664946074b0feece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "827cf7b037fe1502",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resep/ayam-goreng-crispy/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d9fbe5bda2c70d9",
+  "lastOpenFiles": [
+    "resep/ayam-goreng-crispy/index.md",
+    "resep/ayam-popcorn/banner.png",
+    "resep/ayam-goreng-ungkep/banner.png",
+    "resep/ayam-goreng-ungkep/index.md",
+    "resep/daging-sapi-bumbu-bali/index.md",
+    "resep/ayam-bakar-madu/index.md",
+    "artikel/8-tips-cara-memulai-diet-keto/index.md",
+    "resep/tumis-kacang-panjang/index.md",
+    "resep/ayam-goreng-ketumbar/index.md",
+    "resep/nasi-goreng-mawut-lada-hitam/banner.png"
+  ]
+}
