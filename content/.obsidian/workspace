@@ -7,10 +7,9 @@
         "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "resep/ayam-goreng-crispy/index.md",
-            "mode": "source"
+            "file": "resep/ayam-popcorn/banner.png"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ayam Goreng Crisp",
+                "query": "Burger Ayam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/ayam-goreng-crispy/index.md",
+                "file": "resep/ayam-popcorn/banner.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/ayam-goreng-crispy/index.md",
     "resep/ayam-popcorn/banner.png",
-    "resep/ayam-goreng-ungkep/banner.png",
-    "resep/ayam-goreng-ungkep/index.md",
-    "resep/daging-sapi-bumbu-bali/index.md",
-    "resep/ayam-bakar-madu/index.md",
-    "artikel/8-tips-cara-memulai-diet-keto/index.md",
-    "resep/tumis-kacang-panjang/index.md",
-    "resep/ayam-goreng-ketumbar/index.md",
-    "resep/nasi-goreng-mawut-lada-hitam/banner.png"
+    "resep/burger-ayam-crispy/index.md",
+    "resep/ampela-goreng-ungkep/index.md",
+    "resep/ayam-popcorn/index.md",
+    "resep/sayur-tempe/index.md",
+    "resep/pangsit-rebus-udang-ayam/index.md",
+    "resep/sup-udang-tahu-santan/index.md",
+    "resep/semur-ayam/index.md",
+    "resep/pangsit-rebus-udang-ayam/banner.png",
+    "resep/semur-ayam/banner.png"
   ]
 }
