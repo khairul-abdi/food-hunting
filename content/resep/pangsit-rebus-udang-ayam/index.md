@@ -1,6 +1,6 @@
 ---
 title: "Pangsit Rebus Udang Ayam"
-date: 2021-05-18T09:09:18+02:00
+date: 2021-05-18T07:09:18+02:00
 draft: false
 
 # post thumb
@@ -37,7 +37,7 @@ Pangsit rebus ayam udang yang lezat dihidangkan bersama kuah. Masakan rumahan pa
 
 ## Apa itu pangsit rebus ayam udang?
 
-Pangsit rebus ayam udang adalah makanan berupa daging cincang yang di bungkus di lembaran kulit wantan. Direbus sebentar, dan dihidangkan dengan kuah. Menjadikan olahan ini begitu segar lezat sangat menggugah selera.
+Pangsit rebus ayam udang adalah makanan berbahan daging cincang. Daging dicampur dengan bumbu dan bahan lain lalu di bungkus di lembaran kulit wantan. Direbus sebentar, dan dihidangkan dengan kuah. Menjadikan olahan ini begitu segar lezat sangat menggugah selera.
 
 ## Mulai memasak
 
@@ -65,7 +65,7 @@ Cara membuat pangsit rebus ini tergolong mudah dan praktis. Bahannya simple juga
 
 ### Kuah
 
--   1,5 L Air kaldu tulang (sapi/ayam)
+-   1,5 L air kaldu tulang (sapi/ayam)
 -   1 sdm kaldu jamur
 -   1 sdm garam (sesuai selera)
 -   4 siung bawang merah haluskan
@@ -80,7 +80,7 @@ Cara membuat pangsit rebus ini tergolong mudah dan praktis. Bahannya simple juga
 
 {{< steps title="Cara membuat">}}
 -   Dalam wadah campurkan semua bahan aduk hingga rata. Kecuali kulit wantan dan 1 L air. Tes rasa.
--   Ambik sesendok adonan, bungkus dengan kulit wantan sisihkan.
+-   Ambil satu sendok adonan, bungkus dengan kulit wantan sisihkan.
 -   Didihkan 2 liter air, rebus pangsit hingga mengapung dan matang. Angkat, tiriskan.
 -   Rebus kaldu tulang dalam panci hingga mendidih.
 -   Panaskan wajan masukan mentega. Tumis bawang merah dan bawang putih hingga harum.

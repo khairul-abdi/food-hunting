@@ -31,9 +31,6 @@ time: "20 menit"
 
 # serving
 serving: 2
-
-# is trending
-trending: true
 ---
 Menu hidangan nasi goreng udang yang lezat. Nasi goreng udang termasuk menu favorit masyarakat Indonesia.
 

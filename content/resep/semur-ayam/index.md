@@ -11,15 +11,14 @@ description: "Resep semur ayam yang mudah, gurih dan lezat. Pelajari disini cara
 
 # taxonomies
 categories:
-  - ""
+  - "Cara Membuat"
+  - "Makanan Bergizi"
+  - "Masakan Rumahan"
 
 # post tags
 tags:
-  - "keto"
-  - "vegan"
   - "bebas-susu"
-  - "bebas-gula"
-  - "vegetarian"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -28,24 +27,24 @@ type: "post"
 recipe: true
 
 # prep time
-time: ""
+time: "1 jam"
 
 # serving
-serving: 1
+serving: 8
 ---
-Semur ayam merupakan masakan nusantara yang di sukai masyarakat Indonesia. Menu masakan rumahan ini sangat enak, gurih dan lezat. Sangat pas dihidangkan bersama keluarga tercinta.
+Semur ayam merupakan masakan nusantara yang disukai masyarakat Indonesia. Menu masakan rumahan ini sangat enak, gurih dan lezat. Sangat pas dihidangkan bersama keluarga tercinta.
 
 ## Apa itu semur ayam?
 
-Semur ayam adalah olahan ayam berkuah hitam. Ayam di masak hingga empuk dengan bumbu rempah dan kecap. Sehingga menghasilkan rasa manis legit dna gurih.
+Semur ayam adalah olahan ayam berkuah hitam. Ayam dimasak hingga empuk dengan bumbu rempah dan kecap. Sehingga menghasilkan rasa manis legit dan gurih.
 
 ## Mulai memasak
 
-Cara membuat semur ayam ini tergolong mudah dan simpel. Bahanya mudah di dapatkan, sangat cocok menjaid menu sehari-hari.
+Cara membuat semur ayam ini tergolong mudah dan simpel. Bahanya mudah didapatkan, sangat cocok menjadi menu sehari-hari.
 
-20 40 60 8
+{{< post-info prep="20 menit" cook="40 menit" total="1 jam" serving="8">}}
 
-Bahan
+### Bahan
 
 -   1 kg sayap ayam (bisa menggunakan bagian ayam lainnya)
 -   3 sdm air jeruk nipis
@@ -57,7 +56,7 @@ Bahan
 -   500 ml air
 -   1 sdm bawang goreng
 
-Bumbu halus in
+### Bumbu halus
 
 -   5 bawang putih
 -   8 siung bawang merah
@@ -68,16 +67,16 @@ Bumbu halus in
 -   50 gr gula merah sisir
 -   1 sdm kaldu jamur
 -   1 sdt garam
+{{< /post-info>}}
 
-Cara
-
+{{< steps title="Cara membuat">}}
 -   Cuci ayam, lumuri dengan air jeruk, diamkan 5 menit. Bilas hingga bersih.
 -   Panaskan wajan masukan minyak, tumis bumbu halus, laos dan jahe hingga harum.
 -   Masukan ayam, kecap manis dan air, masak ayam hingga empuk.
 -   Masukan daun bawang, tes rasa, angkat.
 -   Hidangkan semur ayam selagi hangat dengan taburan bawang goreng.
+{{< /steps>}}
 
+{{< blockquote>}}
 Bisa menambahkan kentang, tahu atau telur rebus bila suka.
-{{< post-info prep="" cook="" total="" serving="">}}
-
-{{< /post-info>}}
+{{< /blockquote>}}

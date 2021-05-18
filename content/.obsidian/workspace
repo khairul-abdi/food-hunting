@@ -7,9 +7,10 @@
         "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "resep/ayam-popcorn/banner.png"
+            "file": "resep/siomay-ayam-udang/index.md",
+            "mode": "source"
           }
         }
       }
@@ -38,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Burger Ayam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/ayam-popcorn/banner.png",
+                "file": "resep/siomay-ayam-udang/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/ayam-popcorn/banner.png",
-    "resep/burger-ayam-crispy/index.md",
-    "resep/ampela-goreng-ungkep/index.md",
-    "resep/ayam-popcorn/index.md",
-    "resep/sayur-tempe/index.md",
-    "resep/pangsit-rebus-udang-ayam/index.md",
-    "resep/sup-udang-tahu-santan/index.md",
-    "resep/semur-ayam/index.md",
-    "resep/pangsit-rebus-udang-ayam/banner.png",
-    "resep/semur-ayam/banner.png"
+    "resep/siomay-ayam-udang/index.md",
+    "resep/sayur-ketupat/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/nasi-goreng-udang/index.md",
+    "resep/nasi-goreng-udang/banner.png",
+    "resep/ayam-goreng-ungkep/index.md",
+    "resep/ayam-goreng-ungkep/banner.png",
+    "resep/tumis-kacang-panjang/index.md",
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md",
+    "resep/pentol-bakso-ayam/index.md"
   ]
 }

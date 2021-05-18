@@ -31,6 +31,9 @@ time: "1 jam"
 
 # serving
 serving: 8
+
+# is favorite
+favorite: true
 ---
 Pentol bakso ayam masakan rumahan yang ramah di kantong tapi rasanya sangat menggugah selera. Menu hidangan ini sangat enak dicocol dengan saus sambal maupun saus kacang.
 

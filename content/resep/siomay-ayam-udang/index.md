@@ -31,6 +31,9 @@ time: "1 jam 30 menit"
 
 # serving
 serving: 14
+
+# is trending
+trending: true
 ---
 Siomay ayam udang atau dikenal dengan simomay dimsum sangat menggugah selera. Menu masakan rumahan ini sangat pas di cocol dengan saus sambal.
 

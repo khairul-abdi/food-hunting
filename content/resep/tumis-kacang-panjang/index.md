@@ -37,9 +37,6 @@ time: "20 menit"
 
 # serving
 serving: 3
-
-# is trending
-trending: true
 ---
 Tumis kacang panjang hidangan sederhana yang lezat. Cocok untuk dijadikan menu hidangan sehari-hari.
 

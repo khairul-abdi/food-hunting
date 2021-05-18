@@ -16,8 +16,8 @@ categories:
 # post type
 type: "post"
 
-# is favorite
-favorite: true
+# is trending
+trending: true
 ---
 
 232 Daftar nama berbagai jenis makanan dan minuman terlengkap.  Kita wajib mengetahui produk makanan yang akan kita beli ketika memulai diet keto.

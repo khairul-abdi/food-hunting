@@ -30,9 +30,6 @@ time: "1 jam"
 
 # serving
 serving: 10
-
-# is trending
-trending: true
 ---
 Sayur ketupat hidangan yang tak asing bagi kita semua. Rasanya yang nikmat sangat pas dinikmati di waktu lebaran tiba bersama keluarga.
 
