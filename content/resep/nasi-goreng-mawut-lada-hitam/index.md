@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep nasi goreng mawut lada hitam, masakan rumahan yang enak dan bergizi. Mempunyai rasa yang lezat segar dan hangat dari lada hitam sangat menggugah selera"
+description: "Resep nasi goreng mawut lada hitam, masakan rumahan yang enak dan bergizi. Mempunyai rasa yang lezat segar dan hangat dari lada hitam sangat menggugah selera."
 
 # taxonomies
 categories:

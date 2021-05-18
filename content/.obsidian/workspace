@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/siomay-ayam-udang/index.md",
+            "file": "resep/nasi-goreng-mawut-lada-hitam/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/siomay-ayam-udang/index.md",
+                "file": "resep/nasi-goreng-mawut-lada-hitam/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
+    "resep/nasi-goreng-mawut-lada-hitam/index.md",
     "resep/siomay-ayam-udang/index.md",
     "resep/sayur-ketupat/index.md",
     "resep/pentol-bakso-sapi-halus/index.md",
@@ -96,7 +97,6 @@
     "resep/ayam-goreng-ungkep/index.md",
     "resep/ayam-goreng-ungkep/banner.png",
     "resep/tumis-kacang-panjang/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md",
-    "resep/pentol-bakso-ayam/index.md"
+    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md"
   ]
 }
