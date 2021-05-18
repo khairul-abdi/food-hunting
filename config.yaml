@@ -55,4 +55,4 @@ server:
 minify:
   minifyOutput: true
 
-timeout: 100000
+timeout: 1000000

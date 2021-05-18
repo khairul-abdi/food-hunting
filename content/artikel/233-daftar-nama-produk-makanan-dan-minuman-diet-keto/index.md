@@ -4,7 +4,7 @@ date: "2021-04-26T13:43:40+00:00"
 draft: false
 
 # meta description
-description: "Daftar nama makanan, minuman dan semua jenis produk untuk diet keto terlengkap."
+description: "Daftar nama makanan, minuman dan semua jenis produk untuk diet keto terlengkap. Baca selengkapnya disini."
 
 # featured image
 feature: "banner.png"
@@ -87,7 +87,7 @@ Agar diet keto kita berhasil, yuk! Simak daftar makanan yang boleh dikonsumsi da
 {{< /list>}}
 
 {{< blockquote>}}
-Semua jenis sayuran hijau adalah sayuran terbaik untuk diet keto.
+Semua jenis sayuran hijau baik untuk diet keto.
 {{< /blockquote>}}
 
 ## 8 Daftar nama sayuran yang harus dihindari untuk diet keto:
@@ -106,7 +106,7 @@ Semua jenis sayuran hijau adalah sayuran terbaik untuk diet keto.
 {{< /list>}}
 
 {{< blockquote>}}
-Semua jenis umbi-umbian harus dihindari karena mengandung banyak karbohidrat.
+Semua jenis umbi-umbian harus dihindari karena tinggi karbohidrat/buruk untuk diet keto.
 {{< /blockquote>}}
 
 ## 16 Daftar nama kacang-kacangan dan biji-bijian untuk diet keto:
@@ -133,7 +133,7 @@ Semua jenis umbi-umbian harus dihindari karena mengandung banyak karbohidrat.
 {{< /list>}}
 
 {{< blockquote>}}
-Kacang dan biji-bijian sehat untuk jantung. Tinggi serat dan membantu proses penuaan lebih sehat.
+Kacang dan biji-bijian sehat untuk jantung dan kulit.
 {{< /blockquote>}}
 
 ## 14 Daftar nama kacang-kacangan dan biji-bijian yang harus dihindari untuk diet keto:
@@ -158,7 +158,7 @@ Kacang dan biji-bijian sehat untuk jantung. Tinggi serat dan membantu proses pen
 {{< /list>}}
 
 {{< blockquote>}}
-Kacang mente,pistachio dan chestnuts harus dihindari karena mengandung banyak karbohidrat.
+Kacang mente, pistachio dan chestnuts harus dihindari karena tinggi karbohidrat.
 {{< /blockquote>}}
 
 ## 16 Daftar nama buah untuk diet keto:
@@ -264,7 +264,7 @@ Kacang mente,pistachio dan chestnuts harus dihindari karena mengandung banyak ka
 {{< /list>}}
 
 {{< blockquote>}}
-Ketika membeli gula, pilihlah gula rendah kalori, karbohidrat, dan glikemik indeks.
+Pilihlah gula rendah kalori, karbohidrat, dan glikemik indeks.
 {{< /blockquote>}}
 
 ## 11 Daftar nama gula dan jenis produk yang harus dihindari untuk diet keto:
@@ -303,7 +303,7 @@ Semua jenis gula tinggi kalori dan karbohidrat harus hindari.
 {{< /list>}}
 
 {{< blockquote>}}
-Minyak kelapa membantu meningkatkan produksi keton. Membantu meningkatkan laju metabolisme dan membantu penurunan berat badan maupun lemak di perut.
+Minyak kelapa meningkatkan produksi keton dan membantu penurunan berat badan/lemak di perut.
 {{< /blockquote>}}
 
 ## 11 Daftar nama minyak yang harus dihindari untuk diet keto.
@@ -353,7 +353,8 @@ Minyak kelapa membantu meningkatkan produksi keton. Membantu meningkatkan laju m
 {{< /list>}}
 
 {{< blockquote>}}
-Minuman Kopi dan teh tanpa pemanis tidak mengandung karbohidrat. Juga dapat mengurangi risiko diabetes.
+Kopi dan teh tanpa pemanis terbaik untuk diet keto karena tidak mengandung karbohidrat. 
+
 {{< /blockquote>}}
 
 ## 21 Daftar nama minuman yang harus dihindari untuk diet keto:
@@ -422,7 +423,7 @@ Hindari semua jenis minuman beralkohol dan soda. Juga semua produk minuman jenis
 {{< /list>}}
 
 {{< blockquote>}}
-Keju mengandung kaya akan protein, kalsium dan asam lemak yang baik. Keju hanya mengandung sedikit karbohidrat.
+Keju makanan terbaik untuk keto karena hanya mengandung sedikit karbohidrat.
 {{< /blockquote>}}
 
 ## 17 Daftar nama daging dan tulang untuk diet keto:
@@ -450,7 +451,7 @@ Keju mengandung kaya akan protein, kalsium dan asam lemak yang baik. Keju hanya 
 {{< /list>}}
 
 {{< blockquote>}}
-Jenis daging dan unggas yang segar tidak mengandung karbohidrat. Kaya akan vitamin B dan beberapa mineral yang penting.
+Daging dan unggas yang segar terbaik untuk diet keto karena tidak mengandung karbohidrat.
 {{< /blockquote>}}
 
 ## 15 Daftar nama ikan dan makanan untuk diet keto:
@@ -461,7 +462,7 @@ Jenis daging dan unggas yang segar tidak mengandung karbohidrat. Kaya akan vitam
 - Salmon
 - Tuna
 - Makarel
-- Sardine
+- Sarden
 - Ikan fillet berwarna putih
 - Ikan kering (ikan asin)
 - Scallops
@@ -476,7 +477,7 @@ Jenis daging dan unggas yang segar tidak mengandung karbohidrat. Kaya akan vitam
 {{< /list>}}
 
 {{< blockquote>}}
-Kerang memiliki berbagai jenis karbohidrat yang berbeda-beda. Penting untuk memperhitungkan karbohidrat sebelum mengkonsumsi kerang.
+Perhitungkan karbohidrat sebelum mengkonsumsi kerang, karena  kerang memiliki jenis karbohidrat yang berbeda-beda. 
 {{< /blockquote>}}
 
 ## 17 Daftar nama bumbu dan rempah untuk diet keto:
@@ -524,7 +525,7 @@ Produk shirataki sangat ramah untuk diet keto.
 {{< img src="telur.png" alt="telur" >}}
 
 {{< list >}}
-- Mayonaise
+- Mayones
 - Guacamole
 - Aioli
 - Mustard

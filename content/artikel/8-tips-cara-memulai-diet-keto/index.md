@@ -23,6 +23,8 @@ Tips memulai diet keto agar aman dan kesehatan tubuh tetap terjaga. Tubuh tidak 
 ## Apa itu diet keto?
 Diet keto adalah diet mengkonsumsi tinggi lemak & rendah karbohidrat agar tubuh menggapai ketosis. Ketosis ini bekerja membakar lemak didalam tubuh dan menggantikan lemak sebagai sumber energy.
 
+Sebelum memulai diet keto alangkah baiknya kita mencari tau tentang tips-tipsnya terlebih dahulu. Karena lebih aman dan nyaman jika kita sudah tahu persis dan mempraktekannya.
+
 ## 8 Tips cara memulai diet keto.
 
 Hingga saat ini masih banyak sekali perdebatan tentang diet keto. Meski banyak pro & kontra, tapi beberapa studi mengatakan diet keto masih tergolong aman.

@@ -7,10 +7,9 @@
         "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "resep/nasi-goreng-mawut-lada-hitam/index.md",
-            "mode": "source"
+            "file": "resep/rendang-daging/banner.png"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rendang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/nasi-goreng-mawut-lada-hitam/index.md",
+                "file": "resep/rendang-daging/banner.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/nasi-goreng-mawut-lada-hitam/index.md",
-    "resep/siomay-ayam-udang/index.md",
-    "resep/sayur-ketupat/index.md",
-    "resep/pentol-bakso-sapi-halus/index.md",
-    "resep/nasi-goreng-udang/index.md",
-    "resep/nasi-goreng-udang/banner.png",
-    "resep/ayam-goreng-ungkep/index.md",
-    "resep/ayam-goreng-ungkep/banner.png",
-    "resep/tumis-kacang-panjang/index.md",
-    "artikel/233-daftar-nama-produk-makanan-dan-minuman-diet-keto/index.md"
+    "resep/rendang-daging/banner.png",
+    "resep/rendang-daging/index.md",
+    "resep/cap-cay-goreng/index.md",
+    "resep/udang-balado/index.md",
+    "resep/rujak-tahu/index.md",
+    "resep/rempeyek-kacang/index.md",
+    "resep/rujak-mangga-muda/index.md",
+    "resep/rujak-tahu/banner.png",
+    "resep/bandeng-bakar-cabut-duri/index.md",
+    "resep/bandeng-bakar-cabut-duri/banner.png"
   ]
 }

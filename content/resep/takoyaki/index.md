@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep membuat takoyaki jajanan asli jepang yang enak. Baca selengkapnya disini."
+description: "Resep membuat takoyaki jajanan asli jepang yang enak. Pelajari cara membuat selengkapnya disini."
 
 # taxonomies
 categories:
@@ -30,15 +30,15 @@ time: "30 menit"
 # serving
 serving: 5
 ---
-Siapa yang tidak kenal dengan takoyaki? Jajanan asli jepang yang enak sangat menggugah selera. Jajanan enak untuk dikonsumsi setiap saat.
+Siapa yang tidak kenal dengan takoyaki? Jajanan asli jepang yang enak sangat menggugah selera. Jajanan takoyaki ini juga digemari oleh masyarakat Indonesia.
 
 ## Apa itu takoyaki
 
-Takoyaki merupakan camilan yang berasal dari Jepang. Takoyaki terbuat dari adonan tepung terigu dan diberikan isian didalamnya. Bentuk takoyaki ini bulat dengan diameter sekitar 3-5 cm.
+Takoyaki merupakan camilan yang berasal dari negeri sakura alias Jepang. Takoyaki terbuat dari adonan tepung terigu dan diberikan isian didalamnya. Bentuk takoyaki ini bulat dengan diameter sekitar 3-5 cm.
 
 ## Mulai memasak
 
-Cara membuat takoyaki ini tergolong mudah. Yuk simak resepnya di bawah ini.
+Cara membuat takoyaki ini tergolong mudah. Bahannya mudah di dapat dan ramah dikantong. Yuk simak resepnya di bawah ini.
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="5">}}
 
@@ -66,18 +66,16 @@ Cara membuat takoyaki ini tergolong mudah. Yuk simak resepnya di bawah ini.
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Aduk semua bahan adonan hingga tercampur rata.
--   Panaskan wajan cetakan takoyaki. Oles sedikit minyak di lubang masing-masing.
--   Masukan 1 sdm adonan di setiap cetakan, tunggu sampai sedikit mengeras.
--   Masukan 1 potong keju dan sosis di setiap adonan.
--   Tutup sosis keju dengan adonan baru sampai penuh.
+-   Campurkan semua bahan adonan hingga tercampur rata.
+-   Oles sedikit minyak di lubang cetakan takoyaki, nyakan kompor.
+-   Masukan 1 sdm adonan di setiap cetakan, masak sampai setengah matang.
+-   Masukan sepotong keju dan sosis di setiap adonan. Lalu tutup sosis keju dengan adonan baru sampai penuh.
 -   Balik adonan, masak hingga berwarna coklat. Angkat.
 -   Hidangkan takoyaki selagi hangat bersama mayones / saus sesuai selera.
 {{< /steps>}}
 
 {{< blockquote>}}
-Ketika mengaduk adonan bisa menggunakan blender tapi jangan masukan daun bawang.
+Ketika mengaduk adonan bisa menggunakan blender,masukan semua bahan kecuali daun bawang.
 {{< /blockquote>}}
 
 Camilan takoyaki yang enak dan bisa dikonsumsi setiap saat. Jajanan yang pas dihidangkan bersama keluarga.
-
