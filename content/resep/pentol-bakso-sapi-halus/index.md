@@ -33,8 +33,8 @@ time: "1 jam 30 menit"
 # serving
 serving: 12-16
 
-# is trending
-trending: true
+# is favorite
+favorite: true
 ---
 Menu hidangan pentol bakso yang sangat digemari masyarakat Indonesia. Rasanya yang begitu kenyal membuat lidah ketagihan.
 

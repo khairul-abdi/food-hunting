@@ -34,6 +34,9 @@ time: "1 jam"
 
 # serving
 serving: 8
+
+# is trending
+trending: true
 ---
 
 Ayam goreng ketumbar merupakan kreasi masakan rumahan ayam goreng bumbu berempah. Harum wangi gurih dari bumbu ketumbar sangat lezat dan bikin lidah ketagihan.

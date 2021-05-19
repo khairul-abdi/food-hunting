@@ -32,15 +32,15 @@ time: "35 menit"
 # serving
 serving: 4
 ---
-Udang balado adalah salah satu kreasi masakan udang yang lezat dan bergizi. Kalo sudah bingung ada udang mau di masak apa, coba resep masakan rumahan yang gurih dan lezat ini.
+Udang balado adalah salah satu kreasi masakan udang yang bergizi dan pedas. Masakan rumahan udang balado ini sangat disukai masyrakat Indonesia. Rasa dari balado udang yang lezat ini sangat menggugah selera.
 
 ## Apa itu udang balado?
 
-Udang balado adalah olahan berbahan udang yang dimasak pedas. Udang digoreng lalu dimasak dengan bumbu balado yang pedas. Sehingga menghasilkan warna merah dan rasa yang lezat. Citarasa khas udang balado ini asin gurih cenderung pedas.
+Udang balado adalah olahan berbahan udang yang dimasak pedas. Udang digoreng lalu dimasak dengan bumbu balado yang pedas. Sehingga menghasilkan warna merah dan rasa yang lezat. Citarasa khas udang balado ini asin gurih cenderung sedikit pedas.
 
 ## Mulai memasak
 
-Cara membuat udang balado ini tergolong mudah dan cepat. Bahannya mudah didapatkan dan sangat layak disajikan sehari-hari.
+Cara membuat udang balado ini tergolong mudah dan cepat. Kalo bingung ada udang mau di masak apa? coba resep masakan rumahan yang gurih dan lezat ini. Bahannya mudah didapatkan dan sangat layak disajikan sehari-hari.
 
 {{< post-info prep="15 menit" cook="20 menit" total="35 menit" serving="4">}}
 
@@ -59,6 +59,7 @@ Cara membuat udang balado ini tergolong mudah dan cepat. Bahannya mudah didapatk
 
 -   3 siung bawang putih
 -   5 siung bawang merah
+-   1/2 sdt terasi bakar
 -   1 buah tomat
 -   5 biji cabe merah buang bijinya
 -   5 cabe rawit merah (sesuai selera)
@@ -69,7 +70,7 @@ Cara membuat udang balado ini tergolong mudah dan cepat. Bahannya mudah didapatk
 -   Siapkan wajan masukan minyak, goreng udang setengah matang, angkat tiriskan.
 -   Bersihkan wajan, masukan 3 sdm minyak zaitun. Tumis bumbu halus sampai harum dan agak mengering.
 -   Masukan udang, gula, kaldu jamur dan garam, aduk rata tambahkan air. Masak sampai air agak menyusut, tes rasa, angkat.
--   Sajikan udang balado selagi hangat.
+-   Hidangkan udang balado selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

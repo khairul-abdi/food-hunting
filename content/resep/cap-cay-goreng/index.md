@@ -46,13 +46,13 @@ Cara membuat capcay gurih lezat yang mudah dan praktis. Kreasi masakan capcay bi
 
 ### Bahan
 
--   5 buah pentol bakso sapi/ayam (iris belah menjadi 4 bagian)
+-   5 buah pentol bakso sapi/ayam (iris menjadi 4 bagian)
 -   1 ikat sawi hijau
 -   2 buah wortel ukuran sedang
 -   5 lembar sawi putih
--   segenggam arcis
+-   Segenggam arcis
 -   1 butir telur kocok lepas
--   100 ml air
+-   100 ml air (secukupnya)
 -   3 sdm minyak untuk menumis
 
 ### Bumbu
@@ -60,7 +60,7 @@ Cara membuat capcay gurih lezat yang mudah dan praktis. Kreasi masakan capcay bi
 -   4 siung bawang putih cincang halus
 -   1/2 sdt lada bubuk
 -   1 sdt minyak wijen
--   1 buah bawang bombay (ukuran kecil)
+-   1 buah bawang bombay iris-iris (ukuran kecil)
 -   1 sdm saus tiram
 -   1 sdt gula pasir
 -   1/2 sdt lada bubuk
@@ -69,10 +69,13 @@ Cara membuat capcay gurih lezat yang mudah dan praktis. Kreasi masakan capcay bi
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Potong-potong sawi hijau dan sawi putih, cuci bersih,sisihkan. Kupas wortel potong sesuai selera cuci bersih sisihkan. Siangi arcis cuci bersih tiriskan.
--   Panaskan wajan masukan minyak. Tumis bawang putih dan bawang bombay hingga harum lalu masukan telur. Masak hingga telur matang sambil diaduk-aduk.
+-   Potong-potong sawi hijau dan sawi putih, cuci bersih, sisihkan.
+-   Kupas wortel potong sesuai selera cuci bersih sisihkan. Siangi arcis cuci bersih tiriskan.
+-   Panaskan wajan masukan minyak. Tumis bawang putih dan bawang bombay hingga harum lalu masukan telur.
+-   Masak telur sambil diaduk-aduk hingga telur padat.
 -   Masukan wortel tambahkan air, masak hingga wortel matang.
--   Masukan sawi hijau, sawi putih dan arcis aduk-aduk. Tambahkan sisa bumbu, masak hingga matang. tes rasa, angkat.
+-   Masukan sawi hijau, sawi putih dan arcis aduk-aduk. Tambahkan semua bahan sisa bumbu, masak hingga matang. Tes rasa, angkat.
+-   Hidangkan capcay goreng selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

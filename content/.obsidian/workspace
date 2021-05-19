@@ -7,9 +7,10 @@
         "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "resep/rendang-daging/banner.png"
+            "file": "resep/udang-balado/index.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/rendang-daging/banner.png",
+                "file": "resep/udang-balado/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/rendang-daging/banner.png",
-    "resep/rendang-daging/index.md",
-    "resep/cap-cay-goreng/index.md",
     "resep/udang-balado/index.md",
     "resep/rujak-tahu/index.md",
-    "resep/rempeyek-kacang/index.md",
-    "resep/rujak-mangga-muda/index.md",
-    "resep/rujak-tahu/banner.png",
-    "resep/bandeng-bakar-cabut-duri/index.md",
-    "resep/bandeng-bakar-cabut-duri/banner.png"
+    "resep/rendang-daging/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/cap-cay-goreng/index.md",
+    "resep/cap-cay-goreng/banner.png",
+    "resep/ayam-goreng-ketumbar/banner.png",
+    "resep/ayam-goreng-ketumbar/index.md",
+    "resep/cumi-bumbu-kuning/index.md",
+    "resep/rujak-tahu/banner.png"
   ]
 }

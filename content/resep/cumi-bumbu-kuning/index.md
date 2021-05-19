@@ -36,8 +36,8 @@ time: "35 menit"
 # serving
 serving: 4
 
-# is favorite
-favorite: true
+# is trending
+trending: true
 ---
 Cumi bumbu kuning yang mempunyai aroma gurih dan sedap. Menu cumi bumbu kuning sangat layak menjadi menu hidangan setiap hari.
 
