@@ -14,6 +14,7 @@ categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
+  - "Salad"
 
 # post tags
 tags:

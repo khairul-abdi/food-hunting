@@ -53,7 +53,7 @@ Cara membuat udang balado ini tergolong mudah dan cepat. Kalo bingung ada udang 
 -   1 sdt garam (sesuai selera)
 -   Minyak goreng kelapa (secukupnya untuk menggoreng udang)
 -   3 sdm minyak zaitun
--   2 00 ml air (secukupnya)
+-   200 ml air (secukupnya)
 
 ### Bumbu halus
 

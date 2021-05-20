@@ -15,7 +15,7 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Makanan Bergizi"
-  - "Sayur Lodeh"
+  - "Sayur"
   
 # post tags
 tags:

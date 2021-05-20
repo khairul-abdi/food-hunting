@@ -16,6 +16,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Mie Goreng"
+  - "Shirataki Noodles"
   
 # post tags
 tags:

@@ -19,6 +19,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
+  - "Salad"
   
 # post tags
 tags:

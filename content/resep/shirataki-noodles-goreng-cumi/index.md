@@ -17,6 +17,7 @@ categories:
   - "Makanan Bergizi"
   - "Mie Goreng"
   - "Masak Cumi"
+  - "Shirataki Noodles"
   
 # post tags
 tags:

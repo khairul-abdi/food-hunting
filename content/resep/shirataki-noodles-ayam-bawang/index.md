@@ -16,6 +16,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
+  - "Shirataki Noodles"
   
 # post tags
 tags:

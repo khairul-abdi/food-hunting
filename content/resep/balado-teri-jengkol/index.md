@@ -43,7 +43,7 @@ Balado teri jengkol adalah khusus penggemar jengkol yang suka pedas. Jengkol dio
 
 Cara membuat jengkol teri balado yang gurih, sedap dan pedas. Masakan rumahan ini sangat cocok dinikmati setiap hari.
 
-{{< post-info prep="20" cook="55 menit" total="1 jam 15 menit" serving="4">}}
+{{< post-info prep="20 menit" cook="55 menit" total="1 jam 15 menit" serving="4">}}
 
 ### Bahan
 

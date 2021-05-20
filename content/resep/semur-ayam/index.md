@@ -14,6 +14,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Masakan Rumahan"
+  - "Semur"
 
 # post tags
 tags:
