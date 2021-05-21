@@ -87,5 +87,3 @@ Untuk hasil kacang panjang yang berwarna hijau. Sebelum dimasak rebus kacang den
 {{< /blockquote>}}
 
 Tumis kacang panjang ini sangat cocok menjadi menu hidangan setiap hari. Dengan disandingkan nasi shirataki dan lauk lainya.
-
-Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :)

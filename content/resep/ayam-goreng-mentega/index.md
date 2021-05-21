@@ -84,7 +84,6 @@ Cara membuat ayam goreng mentega ala diet keto ini mudah. Bahanya simple dan ras
 -   Hidangkan ayam goreng mentega ketika masih hangat.
 {{< /steps>}}
 
-
 {{< blockquote>}}
 Jangan menggoreng daging ayam terlalu lama. Agar tekstur daging ayam tetap empuk.
 {{< /blockquote>}}

@@ -77,8 +77,5 @@ Cara membuat cumi goreng tepung yang sehat, mudah dan praktis. Pelajari selengka
 {{< /steps>}}
 
 {{ < blockquote> }}
-Goreng cumi dengan minyak banyak dan panas secara bergantian.
-{{ < /blockquote> }}
-{{ < blockquote> }}
-Goreng cumi selama 2 menit agar tidak alot.
+Goreng cumi dengan minyak banyak dan panas secara bergantian. Goreng cumi selama 2 menit agar tidak alot.
 {{ < /blockquote> }}

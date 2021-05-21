@@ -85,8 +85,8 @@ Berikut simak resepnya di bawah ini.
 {{< blockquote>}}
 Menggiling daging bisa menggunakan blender atau food processor. Juga bisa menggunakan mesin penggilingan lainnya yang tersedia.
 {{< /blockquote>}}
-{{< blockquote>}}
-Giling daging sapi hingga benar-benar halus merata agar hasil pentol halus sempurna.
-{{< /blockquote>}}
+
+- Giling daging sapi hingga benar-benar halus merata agar hasil pentol halus sempurna.
+- Gunakan 100 gr tepung tapioka untuk 1 kg daging sapi jika ingin pentol yang kress.
 
 Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan disandingkan bersama mie, tahu rebus atau dengan lontong, sesuai selera :)

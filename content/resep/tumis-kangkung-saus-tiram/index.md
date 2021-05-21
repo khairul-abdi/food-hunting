@@ -81,5 +81,3 @@ Masak cah kangkung tidak lebih dari 3 menit.
 {{< /blockquote>}}
 
 Menu hidangan ini sangat cocok dihidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah semangka.
-
-Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa di share ya :) 

@@ -15,6 +15,7 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Masakan Bergizi"
+  - "Salmon"
 
 # post tags
 tags:
@@ -68,5 +69,3 @@ Cara membuat salmon saus kari ini tergolong mudah dan praktis. Bahannya minim ta
 {{< blockquote>}}
 Ketika mau membalik ikan salmon. Balik dengan perlahan dan hati-hati agar tidak mudah hancur.
 {{< /blockquote>}}
-
-Demikian artikel resep dari saya, semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share :)

@@ -80,5 +80,3 @@ Keju feta bisa diganti dengan keju lainnya, tapi tambahkan sejumput garam himala
 Menu hidangan ini sangat lezat di mulut. Perpaduan dari rasa kol ungu dan buncis yang segar. Ditambah keju feta dan telur yang gurih sangat menggugah selera.
 
 Menu hidangan ini sangat cocok di hidangkan di pagi maupun malam hari. Dengan disandingkan secangkir kaldu sapi.
-
-Demikian artikel resep dari saya, semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share:)

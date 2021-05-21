@@ -71,7 +71,7 @@ Cara membuat manisan mangga muda ini tergolong simple dan mudah. Mari pelajari s
 {{< steps title="Cara membuat">}}
 - Cuci bersih cabe merah iris-iris.
 - Kupas mangga dan potong bentuk batangan (sesuai selera).
-- Siapkan panci masukan air, gula, cabe merah dan garam. Rebus hingga mendidih selama 3 menit, matikan, biarkan hangat.
+- Siapkan panci masukan air, gula, cabe merah dan garam. Rebus hingga mendidih selama 3 menit, matikan api, biarkan dingin.
 - Masukan mangga muda dan air jeruk nipis, aduk-aduk. Masukan ke dalam kulkas sekitar 1-2 jam.
 - Ambil manisan mangga dari kulkas ke dalam mangkuk. Hidangkan manisan mangga selagi dingin.
 {{< /steps>}}

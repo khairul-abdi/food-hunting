@@ -35,7 +35,7 @@ Rujak mangga muda yang memiliki rasa asin asam manis dan segar. Sangat pas dimak
 
 ## Apa itu rujak mangga muda?
 
-Rujak mangga muda adalah semacam salad buah. Terbuat dari mangga muda dengan saus manis pedas yang menggugah selera.
+Rujak mangga muda adalah semacam salad buah. Terbuat dari mangga muda dengan saus manis pedas yang menggugah selera. Cirarasa rujak mangga muda ini asin, asam, pedas cenderung manis dari gula merah.
 
 ## Manfaat mangga muda
 
