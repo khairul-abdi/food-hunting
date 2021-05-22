@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/salmon-bayam-creamy/index.md",
+            "file": "resep/saus-tomat/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/salmon-bayam-creamy/index.md",
+                "file": "resep/saus-tomat/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/salmon-bayam-creamy/index.md",
-    "resep/manisan-stroberi/index.md",
-    "resep/ayam-rica-rica/index.md",
-    "resep/ampela-goreng-ungkep/index.md",
-    "resep/asem-asem-bandeng-bumbu-iris/index.md",
-    "resep/ayam-bakar-madu/index.md",
-    "resep/ayam-geprek/index.md",
-    "resep/ayam-goreng-crispy/index.md",
-    "resep/ayam-goreng-ketumbar/index.md",
-    "resep/ayam-goreng-mentega/index.md"
+    "resep/saus-tomat/index.md",
+    "resep/tumis-sayur-warna-warni/index.md",
+    "resep/sayur-ketupat/index.md",
+    "resep/saus-tomat/banner.png",
+    "resep/tumis-kol-daging-sapi/index.md",
+    "resep/tumis-kacang-panjang/index.md",
+    "resep/tumis-sayur-warna-warni/banner.png",
+    "resep/Pentol-cilok-ayam/index.md",
+    "resep/Pentol-cilok-ayam/banner.png",
+    "resep/pentol-bakso-ayam/banner.png"
   ]
 }
