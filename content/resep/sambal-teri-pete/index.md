@@ -15,6 +15,7 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Makanan Bergizi"
+  - "Sambal"
   
 # post tags
 tags:

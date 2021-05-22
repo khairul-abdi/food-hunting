@@ -16,6 +16,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
+  - "Sup"
   
 # post tags
 tags:

@@ -14,6 +14,7 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Makanan Bergizi"
+  - "Sup"
 
 # post tags
 tags:
