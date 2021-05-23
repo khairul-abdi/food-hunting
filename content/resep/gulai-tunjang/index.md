@@ -85,12 +85,12 @@ Cara membuat gulai tunjang ini membutuhkan ketelatenan. Tapi hasilnya sangat ena
 - Siapkan wajan masukan minyak. Tumis bumbu halus, serai, laos, daun salam dan daun jeruk hingga harum.
 - Siapkan panci, masukan kaki sapi dan air baru hingga kaki sapi terendam.
 - Masukan bumbu halus, masak sampai mendidih.
-- Masukan santan, kaldu jamur, gula dan garam. Masak sambil terus diaduk sampai kuah mendidih.
+- Masukan santan, kaldu jamur, gula dan garam. Masak sambil terus diaduk sampai kuah mendidih lagi.
 - Kecilkan api, masak selama 15 menit sambil terus diaduk. Tes rasa, angkat.
 - Hidangkan gulai tunjang selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}
-Merebus kaki sapi tanpa presto membutuhkan waktu 2-3 jam.
+Merebus kaki sapi tanpa presto membutuhkan waktu 2-3 jam. Bisa menggunakan metode 5-30-7 agar lebih cepat.
 {{< /blockquote>}}
 

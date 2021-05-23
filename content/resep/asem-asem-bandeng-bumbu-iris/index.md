@@ -15,6 +15,7 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Masakan Bergizi"
+  - "Masak Ikan"
 
 # post tags
 tags:

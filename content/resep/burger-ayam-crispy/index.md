@@ -15,6 +15,7 @@ categories:
  - "Makanan Bergizi"
  - "Masakan Rumahan"
  - "Burger"
+ - "Masak Ayam"
 
 # post tags
 tags:

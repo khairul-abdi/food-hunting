@@ -13,6 +13,7 @@ description: "Resep membuat opor ayam yang gurih dan lezat. Hidangan spesial unt
 categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
+  - "Masak Ayam"
 
 # post tags
 tags:

@@ -15,6 +15,7 @@ categories:
   - "Makanan Bergizi"
   - "Cara Membuat"
   - "Sup"
+  - "Masak Udang"
 
 # post tags
 tags:

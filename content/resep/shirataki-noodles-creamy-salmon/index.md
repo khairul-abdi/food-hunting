@@ -16,6 +16,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Shirataki Noodles"
+  - "Masak Ikan"
   
 # post tags
 tags:

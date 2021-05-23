@@ -16,6 +16,7 @@ categories:
   - "Masakan Rumahan"
   - "Makanan Bergizi"
   - "Pentol"
+  - "Masak Ayam"
 
 # post tags
 tags:

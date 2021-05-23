@@ -13,6 +13,7 @@ description: "Resep balado teri jengkol yang gurih dan pedas. Pelajari selengkap
 categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
+  - "Masak Ikan"
 
 # post tags
 tags:

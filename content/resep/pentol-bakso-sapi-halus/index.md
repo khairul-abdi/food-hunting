@@ -54,7 +54,7 @@ Berikut simak resepnya di bawah ini.
 ### Bahan
 
 -   1 kg daging sapi murni.
--   250 gr tepung tapioca
+-   250 gr tepung tapioka
 -   500 gr es batu (secukupnya)
 -   Putih telur (dari 2 butir telur)
 -   Secukupnya air untuk merebus
@@ -79,7 +79,7 @@ Berikut simak resepnya di bawah ini.
 - Setelah semua adonan di bentuk bulat, diamkan pentol dalam air panas selama 15-30 menit.
 - Angkat pentol, siram atau rendam dengan air es hingga dingin (bisa langsung disimpan di freezer).
 - Masak lagi pentol bakso dengan kuah bakso atau dikukus sesuai selera.
-- Hidangkan ketika masih panas.
+- Hidangkan pentol bakso halus selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

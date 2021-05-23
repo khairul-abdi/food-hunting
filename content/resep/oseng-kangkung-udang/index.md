@@ -17,6 +17,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
+  - "Masak Udang"
   
 # post tags
 tags:

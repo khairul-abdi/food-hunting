@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep sambal hjau yang mudah dan lezat. Cara membuatnya sangat mudah di pelajari, hasilnya sangat menggugah selera."
+description: "Resep sambal hijau yang mudah dan lezat. Cara membuatnya sangat mudah dipelajari, hasilnya sangat menggugah selera."
 
 # taxonomies
 categories:
@@ -65,10 +65,9 @@ Cara membuat sambal hijau yang mudah dan gampang untuk dipelajari. Sambal ini ra
 -   Siapkan panci masukan air, rebus cabe hingga empuk. Angkat tiriskan.
 -   Ambil cobek, masukan garam kaldu jamur dan cabai, ulek kasar.
 -   Panaskan wajan masukan minyak, goreng sambal hingga matang. Tes rasa, matikan api.
--   Tuang sambal ke lepek, sambal hijau yang lezat siap untuk dinikmati.
+-   Tuang sambal hijau ke dalam lepek, sambal hijau yang lezat siap untuk dinikmati.
 {{< /steps>}}
 
 {{< blockquote>}}
-1.   Masak sambal dengan api sedang sambil terus diaduk hingga matang.
-2.  Kurangi cabe rawit dan tambahkan cabe hijau besar jika suka rasa yang tidak pedas.
+Masak sambal dengan api sedang sambil terus diaduk hingga matang. Kurangi cabe rawit dan tambahkan cabe hijau besar jika suka rasa yang tidak pedas.
 {{< /blockquote>}}

@@ -16,6 +16,7 @@ categories:
   - "Cara Membuat"
   - "Masakan Bergizi"
   - "Ayam Goreng"
+  - "Masak Ayam"
   
 # post tags
 tags:

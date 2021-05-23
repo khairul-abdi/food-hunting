@@ -33,7 +33,7 @@ time: "25 menit"
 # serving
 serving: 4
 ---
-Pentol saus mentega merupakan kerasi masakan rumahan yang mudah dan lezat. Jika kamu suka dengan makanan pentol kamu bisa mencoba resep ini. Rasanya sangat lezat bikin lidah ketagihan.
+Pentol saus mentega merupakan kreasi masakan rumahan yang mudah dan lezat. Jika kamu suka dengan makanan pentol kamu bisa mencoba resep ini. Rasanya sangat lezat bikin lidah ketagihan.
 
 ## Apa itu pentol saus mentega?
 
@@ -41,7 +41,7 @@ Pentol saus mentega adalah olahan berbahan pentol dan mentega. Pentol di goreng 
 
 ### Mulai memasak
 
-Cara membuat pentol saus mentega ini snagat mudah dan cepat. Bahannya mudah di dapatkan dan sangat layak dihidangkan sehari-hari.
+Cara membuat pentol saus mentega ini sangat mudah dan cepat. Bahannya mudah didapatkan dan sangat layak dihidangkan sehari-hari.
 
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="4">}}
 

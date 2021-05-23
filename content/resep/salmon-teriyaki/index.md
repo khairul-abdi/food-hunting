@@ -15,6 +15,7 @@ categories:
   - "Cara Membuat"
   - "Masak Salmon"
   - "Makanan Bergizi"
+  - "Masak Ikan"
 
 # post tags
 tags:

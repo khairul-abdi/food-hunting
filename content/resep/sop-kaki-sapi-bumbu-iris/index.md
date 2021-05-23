@@ -41,7 +41,7 @@ Sop kaki sapi bumbu iris adalah olahan berbahan dari kaki sapi yang simpel. Kaki
 
 ## Mulai memasak
 
-Cara membuat sop kaki sapi ini sangat mudah simpel. Caranya mudah di pelajari dan hasilnya sangat lezat.
+Cara membuat sop kaki sapi ini sangat mudah simpel. Caranya mudah dipelajari dan hasilnya sangat lezat.
 
 {{< post-info prep="15 menit" cook="45 menit" total="1 jam" serving="5">}}
 
@@ -80,8 +80,8 @@ Cara membuat sop kaki sapi ini sangat mudah simpel. Caranya mudah di pelajari da
 -   Siapkan panci, masukan kaki sapi, air dan bumbu iris (kecuali daun bawang dan seledri). Masak hingga mendidih.
 -   Masukan wortel dan kol kubis, masak hingga sayuran matang.
 -   Tambahkan seledri, daun bawang, lada, pala, kaldu jamur, gula dan garam. Aduk rata masak selama 1 menit.
--   Tes rasanya, angkat tuang ke dalam mangkuk.
--   Sop kaki sapi bumbu iris siap untuk dinikmati.
+-   Tes rasanya, angkat, tuang sop kaki sapi ke dalam mangkuk.
+-   Sop kaki sapi bumbu iris siap untuk dinikmati selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

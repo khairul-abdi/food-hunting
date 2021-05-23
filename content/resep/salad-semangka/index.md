@@ -15,7 +15,7 @@ categories:
   - "Salad Buah"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
-  - "Salad"
+  - "Salad Buah"
 
 # post tags
 tags:

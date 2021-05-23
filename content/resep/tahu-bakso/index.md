@@ -13,6 +13,7 @@ description: "Resep membuat tahu bakso yang lezat. Cara membuatnya mudah dan gam
 categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
+  - "Masak Ayam"
 
 # post tags
 tags:

@@ -17,6 +17,7 @@ categories:
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
   - "Salad"
+  - "Masak Ayam"
 
 # post tags
 tags:

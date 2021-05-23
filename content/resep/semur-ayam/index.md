@@ -15,6 +15,7 @@ categories:
   - "Makanan Bergizi"
   - "Masakan Rumahan"
   - "Semur"
+  - "Masak Ayam"
 
 # post tags
 tags:

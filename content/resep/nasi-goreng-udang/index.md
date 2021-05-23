@@ -15,6 +15,7 @@ categories:
   - "Nasi Goreng"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
+  - "Masak Udang"
 
 # post tags
 tags:

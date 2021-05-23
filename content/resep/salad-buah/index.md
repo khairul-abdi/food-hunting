@@ -12,7 +12,7 @@ description: "Resep membuat salad buah yang segar dan lezat. Masakan rumahan cep
 # taxonomies
 categories:
   - "Cara Membuat"
-  - "Salad"
+  - "Salad Buah"
   - "Masakan Rumahan"
 
 # post tags

@@ -12,6 +12,7 @@ description: "Resep petis ikan tuna yang gurih dan sedap. Pelajari disini cara m
 # taxonomies
 categories:
   - ""
+  - "Masak Ikan"
 
 # post tags
 tags:

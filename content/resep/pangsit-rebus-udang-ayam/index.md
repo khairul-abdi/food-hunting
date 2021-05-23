@@ -15,6 +15,7 @@ categories:
   - "Pangsit Rebus"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
+  - "Masak Ayam"
 
 # post tags
 tags:

@@ -14,7 +14,7 @@ categories:
   - "Cara Membuat"
   - "Masakan rumahan"
   - "Makanan Bergizi"
-  - "Ayam"
+  - "Masak Ayam"
 
 # post tags
 tags:

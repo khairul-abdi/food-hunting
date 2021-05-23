@@ -16,6 +16,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Sambal"
+  - "Masak Ikan"
   
 # post tags
 tags:

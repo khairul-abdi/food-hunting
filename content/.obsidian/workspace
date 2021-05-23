@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9fbe5bda2c70d9",
+        "id": "bc45331af98f4248",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "resep/pentol-saus-mentega/banner.png"
+            "file": "resep/gulai-tunjang/index.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388
+    "width": 331
   },
   "right": {
     "id": "c310a4d4ff100904",
@@ -68,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/pentol-saus-mentega/banner.png",
+                "file": "resep/gulai-tunjang/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -84,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/pentol-saus-mentega/banner.png",
-    "resep/pentol-saus-mentega/index.md",
-    "resep/pentol-bakso-sapi-halus/index.md",
-    "resep/sambal-hijau/index.md",
-    "resep/sop-kaki-sapi-bumbu-iris/index.md",
+    "resep/gulai-tunjang/index.md",
+    "resep/badeng-bakar-cabut-duri/index.md",
     "resep/sup-ikan-dori/index.md",
-    "resep/sup-udang-tahu-santan/index.md",
-    "resep/sup-jantung-pisang/index.md",
-    "resep/sambal-hijau/banner.png",
-    "resep/tumis-kacang-panjang/index.md"
+    "resep/shirataki-noodles-creamy-salmon/index.md",
+    "resep/sambal-teri-telur-puyuh/index.md",
+    "resep/sambal-teri-pete/index.md",
+    "resep/salmon-teriyaki/index.md",
+    "resep/salmon-saus-kari/index.md",
+    "resep/salmon-bayam-creamy/index.md",
+    "resep/salad-salmon/index.md"
   ]
 }

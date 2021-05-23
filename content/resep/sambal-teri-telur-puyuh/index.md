@@ -15,6 +15,7 @@ categories:
   - "Masakan Rumahan"
   - "Makanan Bergizi"
   - "Sambal"
+  - "Masak Ikan"
 
 # post tags
 tags:

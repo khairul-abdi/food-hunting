@@ -17,6 +17,7 @@ categories:
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
   - "Salad"
+  - "Masak Ikan"
 
 # post tags
 tags:

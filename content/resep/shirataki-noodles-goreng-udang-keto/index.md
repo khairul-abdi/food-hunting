@@ -17,6 +17,7 @@ categories:
   - "Makanan Bergizi"
   - "Mie Goreng"
   - "Shirataki Noodles"
+  - "Masak Udang"
   
 # post tags
 tags:
