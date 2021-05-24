@@ -78,7 +78,7 @@ Cara membuat ayam rica-rica ini tidaklah sulit. Bumbunya juga bisa di blender ka
 -   Panaskan wajan masukan minyak. Goreng ayam hingga berubah warna kecoklatan. Angkat, tiriskan.
 -   Ulangi menggoreng sampai selesai.
 -   Masih dengan wajan sama, kurangi minyaknya. Tumis bumbu ulek kasar, serai, jahe, laos, daun jeruk dan salam hingga harum.
--   Masukan ayam dan daun bawang aduk rata. Tambahkan air, masak hingga ayam empuk dan air menyusut.
+-   Masukan ayam dan daun bawang aduk rata. Tambahkan air, masak hingga ayam empuk dan air menyusut. Tambahkan air lagi jika ayam belum empuk.
 -   Tambahkan kemangi, aduk rata, tes rasa, angkat.
 -   Hidangkan ayam rica-rica selagi hangat.
 {{< /steps>}}

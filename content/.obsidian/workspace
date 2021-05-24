@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/gulai-tunjang/index.md",
+            "file": "resep/hot-dog/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/gulai-tunjang/index.md",
+                "file": "resep/hot-dog/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/gulai-tunjang/index.md",
-    "resep/badeng-bakar-cabut-duri/index.md",
-    "resep/sup-ikan-dori/index.md",
-    "resep/shirataki-noodles-creamy-salmon/index.md",
+    "resep/hot-dog/index.md",
+    "resep/udang-goreng-gurih/index.md",
+    "resep/telur-puyuh-bumbu-kecap/index.md",
+    "resep/telur-puyuh-bumbu-kecap/banner.png",
+    "resep/telur-orak-arik/index.md",
     "resep/sambal-teri-telur-puyuh/index.md",
-    "resep/sambal-teri-pete/index.md",
-    "resep/salmon-teriyaki/index.md",
-    "resep/salmon-saus-kari/index.md",
-    "resep/salmon-bayam-creamy/index.md",
-    "resep/salad-salmon/index.md"
+    "resep/udang-balado/index.md",
+    "resep/kari-udang/index.md",
+    "resep/sup-udang-tahu-santan/index.md",
+    "resep/hamburger/index.md"
   ]
 }

@@ -16,6 +16,7 @@ categories:
   - "Makanan Bergizi"
   - "Sambal"
   - "Masak Ikan"
+  - "Masak Telur"
 
 # post tags
 tags:
