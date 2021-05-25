@@ -14,7 +14,8 @@ categories:
   - "Cara Membuat"
   - "Nasi Goreng"
   - "Masakan Rumahan"
-  - "Masakan Bergizi"
+  - "Makanan Bergizi"
+  - "Masak Daging Sapi"
 
 # post tags
 tags:

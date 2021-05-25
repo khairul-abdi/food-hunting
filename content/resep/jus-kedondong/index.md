@@ -12,8 +12,7 @@ description: "Resep membuat jus kedondong yang simple dan segar. Pelajari cara m
 # taxonomies
 categories:
   - "Minuman"
-  - "Vegan"
-  - "Vegetarian"
+  - "Cara Membuat"
 
 # post tags
 tags:

@@ -13,7 +13,7 @@ description: "Resep membuat saus tomat ala rumahan yang aman dan lezat. Pelajari
 categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Masakan Bergizi"
+  - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
   - "Saus"
 

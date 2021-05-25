@@ -13,7 +13,6 @@ description: "Resep membuat salmon teriyaki yang lezat. Cocok menjadi menu andal
 categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Masak Salmon"
   - "Makanan Bergizi"
   - "Masak Ikan"
 

@@ -13,6 +13,7 @@ description: "Resep membuat bakwan sayur yang renyah dan tahan lama. Bakwan sayu
 categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
+  - "Masak Sayur"
   - "Makanan Bergizi"
 
 # post tags

@@ -14,6 +14,8 @@ categories:
  - "Cara Membuat"
  - "Makanan Bergizi"
  - "Masakan Rumahan"
+ - "Masak Sayur"
+ - "Masak Pentol"
 
 # post tags
 tags:

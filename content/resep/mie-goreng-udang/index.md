@@ -20,6 +20,7 @@ categories:
 # post tags
 tags:
   - "kuliner"
+  - "bebas susu"
   
 # post type
 type: "post"

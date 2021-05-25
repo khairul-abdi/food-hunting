@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/hot-dog/index.md",
+            "file": "resep/tumis-daging-tomat/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/hot-dog/index.md",
+                "file": "resep/tumis-daging-tomat/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/hot-dog/index.md",
-    "resep/udang-goreng-gurih/index.md",
-    "resep/telur-puyuh-bumbu-kecap/index.md",
-    "resep/telur-puyuh-bumbu-kecap/banner.png",
-    "resep/telur-orak-arik/index.md",
-    "resep/sambal-teri-telur-puyuh/index.md",
-    "resep/udang-balado/index.md",
-    "resep/kari-udang/index.md",
-    "resep/sup-udang-tahu-santan/index.md",
-    "resep/hamburger/index.md"
+    "resep/tumis-daging-tomat/index.md",
+    "resep/tumis-daging-tomat/banner.png",
+    "resep/tumis-buncis-tempe/index.md",
+    "resep/sop-kaki-sapi-bumbu-iris/index.md",
+    "resep/semur-iga-sapi/index.md",
+    "resep/sayur-lodeh/index.md",
+    "resep/sayur-tempe/index.md",
+    "resep/sayur-ketupat/index.md",
+    "resep/kaldu-tulang-sapi/index.md",
+    "resep/hot-dog/index.md"
   ]
 }

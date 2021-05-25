@@ -12,13 +12,11 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Resep Keto"
-  - "Resep Vegan"
-  - "Resep Vegetarian"
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Masakan Bergizi"
+  - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
-  - "Tumis Kangkung"
+  - "Masak Sayur"
   
 # post tags
 tags:

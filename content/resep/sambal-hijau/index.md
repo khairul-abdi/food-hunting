@@ -14,7 +14,6 @@ categories:
   - "Resep Keto"
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Masakan Bergizi"
   - "Makanan Rendah Kalori"
   - "Sambal"
 

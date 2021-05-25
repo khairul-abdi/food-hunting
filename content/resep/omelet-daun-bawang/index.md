@@ -13,10 +13,11 @@ feature: "banner.png"
 categories:
   - "Resep Keto"
   - "Masakan Rumahan"
-  - "Resep Masakan"
   - "Cara Membuat"
   - "Makanan Bergizi"
-  - "Makanan Redah Kalori"
+  - "Makanan Rendah Kalori"
+  - "Omelet"
+  
   
 # post tags
 tags:

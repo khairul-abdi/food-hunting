@@ -14,7 +14,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Masakan Rumahan"
-  - "Sayur"
+  - "Masak Sayur"
 
 # post tags
 tags:

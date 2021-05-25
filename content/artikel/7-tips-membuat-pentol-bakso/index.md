@@ -11,7 +11,7 @@ description: "Tips cara membuat pentol bakso halus anti gagal. Pelajari selengka
 
 # taxonomies
 categories:
-  - "Membuat Pentol"
+  - "Tips Membuat Pentol"
 
 # post tags
 tags:

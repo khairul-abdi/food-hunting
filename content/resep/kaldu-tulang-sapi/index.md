@@ -14,6 +14,7 @@ categories:
   - "Resep Keto"
   - "Masakan Rumahan"
   - "Cara Membuat"
+  - "Masak Daging Sapi"
   - "Makanan Bergizi"
   
 # post tags

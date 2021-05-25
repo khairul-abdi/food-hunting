@@ -14,7 +14,8 @@ categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
-  - "Gulai"
+  - "Masak Gulai"
+  - "Masak Cumi"
 
 # post tags
 tags:

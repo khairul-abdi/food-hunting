@@ -21,6 +21,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
+  - "Omelet"
   
 # post tags
 tags:

@@ -14,7 +14,6 @@ categories:
   - "Manisan"
   - "Rujak"
   - "Cara Membuat"
-  - "Masakan Rumahan"
 
 # post tags
 tags:

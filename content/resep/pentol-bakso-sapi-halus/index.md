@@ -15,7 +15,7 @@ categories:
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Masak Daging Sapi"
-  - "Pentol"
+  - "Masak Pentol"
 
 # post tags
 tags:

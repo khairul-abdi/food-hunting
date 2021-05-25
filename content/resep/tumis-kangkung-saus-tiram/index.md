@@ -15,11 +15,12 @@ categories:
   - "Masakan Rumahan"
   - "Makanan Bergizi"
   - "Makanan Rendah kalori"
-  - "Tumis Kangkung"
+  - "Masak Sayur"
 
 # post tags
 tags:
    - "kuliner"
+   - "Bebas susu"
 
 # post type
 type: "post"

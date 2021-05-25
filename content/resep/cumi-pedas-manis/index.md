@@ -13,11 +13,13 @@ description: "Resep cumi pedas manis bikin lidah ketagihan. layak dijadikan menu
 categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Makanan Berigizi"
+  - "Makanan Bergizi"
+  - "Masak Cumi"
 
 # post tags
 tags:
   - "kuliner"
+  - "bebas susu"
 
 # post type
 type: "post"

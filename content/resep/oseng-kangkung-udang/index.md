@@ -13,11 +13,11 @@ feature: "banner.png"
 categories:
   - "Resep Keto"
   - "Masakan Rumahan"
-  - "Tumis Kangkung"
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
   - "Masak Udang"
+  - "Masak Sayur"
   
 # post tags
 tags:

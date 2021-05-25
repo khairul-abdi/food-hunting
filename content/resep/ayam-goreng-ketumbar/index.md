@@ -11,6 +11,7 @@ description: "Resep ayam goreng ketumbar yang wangi gurih ketumbar sangat menggu
 
 # taxonomies
 categories:
+  - "Resep Keto"
   - "Cara Membuat"
   - "Masakan Rumahan"
   - "Makanan Bergizi"

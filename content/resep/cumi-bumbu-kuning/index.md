@@ -15,7 +15,7 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
+  - "Masak Cumi"
 
 # post tags
 tags:

@@ -14,11 +14,13 @@ categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
-  - "Gulai"
+  - "Masak Daging Sapi"
+  - "Masak Gulai"
 
 # post tags
 tags:
   - "kuliner"
+  - "bebas susu"
 
 # post type
 type: "post"

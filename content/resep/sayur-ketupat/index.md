@@ -13,7 +13,8 @@ description: "Resep membuat sayur ketupat ala rumahan yang lezat. Pelajari selen
 categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
-  - "Sayur"
+  - "Makanan Bergizi"
+  - "Masak Sayur"
 
 # post tags
 tags:

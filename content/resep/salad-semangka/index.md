@@ -12,10 +12,8 @@ description: "Resep membuat salad semangka hidangan yang segar dan cepat saji. B
 # taxonomies
 categories:
   - "Cara Membuat"
-  - "Salad Buah"
-  - "Masakan Rumahan"
   - "Makanan Bergizi"
-  - "Salad Buah"
+  - "Salad"
 
 # post tags
 tags:

@@ -14,8 +14,9 @@ categories:
   - "Resep Keto"
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Masakan Bergizi"
+  - "Makanan Bergizi"
   - "Masak Ikan"
+  - "Masak Sayur"
 
 # post tags
 tags:

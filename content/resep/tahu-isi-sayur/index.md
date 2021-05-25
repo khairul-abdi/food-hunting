@@ -13,6 +13,8 @@ description: "Resep tahu isi sayur yang renyah dan kriuk sangat menggugah selera
 categories:
   - "Cara Membuat"
   - "Masakan Rumahan"
+  - "Masak Sayur"
+  - "Makanan Bergizi"
 
 # post tags
 tags:

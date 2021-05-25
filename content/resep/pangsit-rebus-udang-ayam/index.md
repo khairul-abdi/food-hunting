@@ -12,7 +12,6 @@ description: "Resep membuat pangsit rebus yang enak. Menu ini merupakan salah sa
 # taxonomies
 categories:
   - "Cara Membuat"
-  - "Pangsit Rebus"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
   - "Masak Ayam"

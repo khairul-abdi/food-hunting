@@ -14,6 +14,7 @@ categories:
   - "Cara membuat"
   - "Masakan Rumahan"
   - "Makanan Bergizi"
+  - "Masak Daging Sapi"
 
 # post tags
 tags:

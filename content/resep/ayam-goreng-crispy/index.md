@@ -14,7 +14,7 @@ categories:
   - "Resep Keto"
   - "Masakan Rumahan"
   - "Cara Membuat"
-  - "Masakan Bergizi"
+  - "Makanan Bergizi"
   - "Ayam Goreng"
   - "Masak Ayam"
   

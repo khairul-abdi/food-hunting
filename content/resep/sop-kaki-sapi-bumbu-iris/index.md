@@ -15,6 +15,8 @@ categories:
   - "Makanan Bergizi"
   - "Cara Membuat"
   - "Sup"
+  - "Masak Daging Sapi"
+  - "Masak Sayur"
 
 # post tags
 tags:

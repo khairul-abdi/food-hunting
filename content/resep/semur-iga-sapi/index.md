@@ -15,7 +15,6 @@ categories:
   - "Cara Membuat"
   - "Masak Daging sapi"
   - "Makanan Bergizi"
-  - "Semur"
 
 # post tags
 tags:

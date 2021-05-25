@@ -16,6 +16,7 @@ categories:
   - "Masak Daging sapi"
   - "Makanan Bergizi"
   - "Makanan Rendah Kalori"
+  - "Masak Sayur"
   
 # post tags
 tags:

@@ -12,10 +12,7 @@ description: "Cara membuat minuman smoothie hijau yang segar dan sehat. Menu min
 # taxonomies
 categories:
   - "Minuman"
-  - "smoothie"
-  - "Keto"
-  - "Vegan"
-  - "Vegetarian"
+  - "Smoothie"
 
 # post tags
 tags:
