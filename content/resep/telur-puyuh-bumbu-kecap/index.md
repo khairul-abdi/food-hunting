@@ -66,13 +66,13 @@ Cara membuat telur puyuh bumbu kecap ini begitu mudah. Bahannya simpel dan mudah
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Siapkan panci, didihkan air, masukan telur masak selama 2 menit. Matikan api diamkan 3 menit, angkat.
+-   Siapkan panci, didihkan air, masukan telur masak selama 2 menit. Matikan api diamkan telur dalam air panas selama 3 menit, angkat.
 -   Rendam telur dengan air dingin, kupas kulitnya, sisihkan.
 -   Panaskan wajan masukan minyak, tumis bumbu halus dan jahe hingga harum.
--   Masukan telur, kecap manis, kaldu jamur, garam, lada, garam dan air. Aduk rata.
--   Masak telur hingga kuah menyusut, tes rasa, angkat.
+-   Masukan telur, kecap manis, kaldu jamur, garam, lada, garam dan air, aduk rata.
+-   Masak telur hingga kuahnya menyusut, tes rasa, angkat.
 -   Tata brokoli diatas piring, tambahkan telur puyuh di tengahnya.
--   Telur puyuh bumbu kecap siap untuk dinikmati.
+-   Telur puyuh bumbu kecap yang lezat siap untuk dinikmati.
 {{< /steps>}}
 
 {{< blockquote>}}

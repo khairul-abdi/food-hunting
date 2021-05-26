@@ -42,7 +42,7 @@ Tumis daun wortel masakan rumahan yang lezat dan bergizi. Bagi kamu yang suka ma
 
 ## Apa itu tumis daun wortel?
 
-Tumis daun wortel adalah olahan berbahan dasar daun wortel. Daun wortel disiangi di ambil yang mudah saja. Lalu ditumis bersama bawang, cabe dan minyak wijen. Sehingga membuat hidangan ini terasa asin gurih sedap sangat menggugah selera.
+Tumis daun wortel adalah olahan berbahan dasar daun wortel. Daun wortel disiangi di ambil yang mudah saja. Lalu ditumis bersama bawang, cabe dan minyak wijen. Sehingga membuat hidangan ini terasa asin, gurih, sedap sangat menggugah selera.
 
 ## Manfaat daun wortel
 

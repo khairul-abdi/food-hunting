@@ -61,7 +61,7 @@ Cara membuat sambal hijau yang mudah dan gampang untuk dipelajari. Sambal ini ra
 
 {{< steps title="Cara membuat">}}
 -   Petik/buang tangkai semua cabe, cuci bersih dengan air mengalir.
--   Siapkan panci masukan air, rebus cabe hingga empuk. Angkat tiriskan.
+-   Siapkan panci masukan air, rebus cabe hingga empuk, angkat tiriskan.
 -   Ambil cobek, masukan garam kaldu jamur dan cabai, ulek kasar.
 -   Panaskan wajan masukan minyak, goreng sambal hingga matang. Tes rasa, matikan api.
 -   Tuang sambal hijau ke dalam lepek, sambal hijau yang lezat siap untuk dinikmati.

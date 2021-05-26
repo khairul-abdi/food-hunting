@@ -35,11 +35,11 @@ time: "1 jam"
 # serving
 serving: 5
 ---
-Sop kaki sapi merupakan salah satu kreasi masakan kaki sapi. Sop kaki sapi ini sangat segar dan menggugah selera. Rasa dari kaki sapi yang kenyal dan sayur yang segar membuat hidangan ini sangat lezat.
+Sop kaki sapi merupakan salah satu kreasi masakan dari kaki sapi. Sop kaki sapi ini sangat segar dan menggugah selera. Rasa dari kaki sapi yang kenyal dan sayur yang segar membuat hidangan ini sangat lezat.
 
 ## Apa itu sop kaki sapi bumbu iris?
 
-Sop kaki sapi bumbu iris adalah olahan berbahan dari kaki sapi yang simpel. Kaki sapi di rebus hingga empuk lalu di masak sop. Dibumbui dengan lada hitam, penyedap garam, seledri dan daun bawang. Ditambahkan sayur wortel dan kol kubis sehingga rasanya sangat segar.
+Sop kaki sapi bumbu iris adalah olahan berbahan dari kaki sapi yang simpel. Kaki sapi di rebus hingga empuk lalu di masak sop. Dibumbui dengan lada hitam, penyedap garam, seledri dan daun bawang. Ditambahkan sayur wortel dan kol kubis sehingga rasanya sangat segar, gurih dan mantap.
 
 ## Mulai memasak
 
@@ -49,7 +49,7 @@ Cara membuat sop kaki sapi ini sangat mudah simpel. Caranya mudah dipelajari dan
 
 ### Bahan
 
--   500 gr kaki sapi potong-potong waktu membeli
+-   500 gr kaki sapi (potong-potong waktu membeli)
 -   1 buah jeruk nipis ambil airnya
 -   300 gr kol kubis
 -   4 buah wortel potong-potong
@@ -83,7 +83,7 @@ Cara membuat sop kaki sapi ini sangat mudah simpel. Caranya mudah dipelajari dan
 -   Masukan wortel dan kol kubis, masak hingga sayuran matang.
 -   Tambahkan seledri, daun bawang, lada, pala, kaldu jamur, gula dan garam. Aduk rata masak selama 1 menit.
 -   Tes rasanya, angkat, tuang sop kaki sapi ke dalam mangkuk.
--   Sop kaki sapi bumbu iris siap untuk dinikmati selagi hangat.
+-   Sop kaki sapi bumbu iris yang sedap dan gurih, siap untuk dinikmati selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

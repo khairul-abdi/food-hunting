@@ -36,7 +36,7 @@ time: "30 menit"
 # serving
 serving: 3
 ---
-Udang goreng gurih merupakan salah satu masakan kreasi udang. Masakan rumahan ini sangat mudah dan lezat. Layak dijadikan menu hidangan sehari-hari.
+Udang goreng gurih merupakan salah satu masakan kreasi udang. Masakan rumahan ini sangat mudah di buat dan rasanya sangat lezat. Layak dijadikan menu hidangan sehari-hari.
 
 ## Apa itu udang goreng gurih?
 
@@ -44,7 +44,7 @@ Udang goreng gurih adalah olahan yang berbahan dasar udang. Udang dibumbui, digo
 
 ## Mulai memasak
 
-Cara membuat udang goreng gurih yang mudah dan simpel. Menu hidangan ini sangat cocok menjadi menu hidangan sehari-hari.
+Cara membuat udang goreng gurih yang mudah dan simpel. Menu hidangan ini sangat sehat dan bergizi.
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="3">}}
 
@@ -67,7 +67,7 @@ Cara membuat udang goreng gurih yang mudah dan simpel. Menu hidangan ini sangat 
 -   Panaskan wajan masukan minyak. Goreng udang sampai berubah warna dan kering. Angkat.
 -   Bersihkan wajan masukan mentega. Tumis bawang bombay dan bawang putih hingga harum dan layu.
 -   Masukan udang, masak dengan api kecil sambil terus diaduk. Tes rasa, angkat.
--   Hidangkan udang goreng gurih selagi hangat.
+-   Hidangkan udang goreng gurih yang lezat selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

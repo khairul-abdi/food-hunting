@@ -14,7 +14,6 @@ categories:
   - "Masakan Rumahan"
   - "Cara Membuat"
   - "Makanan Bergizi"
-  - "Ayam Goreng"
   - "Masak Ayam"
 
 # post tags
@@ -72,12 +71,12 @@ Cara membuat ayam goreng ungkep ini begitu mudah. Berikut simak resepnya di bawa
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci ayam, lumuri dengan air jeruk diamkan 10 menit. Cuci bersih.
--   Masukan ayam, bumbu halus dan air ke dalam panci. Rebus hingga mendidih.
+-   Cuci ayam, lumuri dengan air jeruk diamkan 10 menit, bilas hingga bersih.
+-   Masukan ayam, bumbu halus dan air ke dalam panci, rebus hingga mendidih.
 -   Masukan daun jeruk, salam, laos, lada, gula merah dan garam. Aduk-aduk tutup kembali.
--   Ukep ayam selama 45 menit dengan api sedang. Angkat tiriskan.
+-   Ukep ayam selama 45 menit dengan api sedang, angkat tiriskan.
 -   Panaskan wajan masukan minyak hingga panas.
--   Masukan potongan ayam, goreng hingga berwarna keemasan/coklat. Angkat tiriskan.
+-   Masukan potongan ayam, goreng hingga berwarna keemasan/coklat, angkat tiriskan.
 -   Ulangi menggoreng sampai selesai.
 -   Hidangkan ayam goreng ungkep ketika masih hangat.
 {{< /steps>}}

@@ -47,7 +47,7 @@ Tumis sayur warna warni adalah olahan dari berbagai macam sayuran. Sesuai dengan
 
 ## Mulai memasak
 
-Cara membuat tumis sayur warna warni ini begitu mudah. Bahannya simpel dan mudah di dapatkan di pasar. Sangat cocok dijadikan menu pendamping nasi maupun bekal makanan.
+Cara membuat tumis sayur warna warni ini begitu mudah. Bahannya simpel dan mudah di dapatkan di pasar. Sangat cocok dijadikan menu pendamping nasi maupun bekal untuk makanan.
 
 {{< post-info prep="15 menit" cook="15 menit" total="30 menit" serving="4">}}
 
@@ -81,7 +81,7 @@ Cara membuat tumis sayur warna warni ini begitu mudah. Bahannya simpel dan mudah
 -   Masukan bawang bombay aduk-aduk masak sampai bawang bombay layu.
 -   Masukan air dan semua sayuran. Masak sambil terus diaduk hingga air menyusut dan sayur matang.
 -   Masukan paprika, lada hitam, gula, kaldu jamur, dan garam. Aduk semua hingga tercampur rata, tes rasa, angkat.
--   Hidangkan tumis sayuran warna warni selagi hangat.
+-   Hidangkan tumis sayuran warna warni yang sedap selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

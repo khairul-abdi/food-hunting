@@ -11,7 +11,6 @@ description: "Resep ayam popcorn yang renyah dan cocok dijadikan bekal maupun ca
 
 # taxonomies
 categories:
-  - "Ayam Goreng"
   - "Cara Membuat"
   - "Makanan Bergizi"
   - "Masakan Rumahan"

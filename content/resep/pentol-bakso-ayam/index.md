@@ -51,8 +51,8 @@ Cara membuat pentol bakso ayam yang padat dan kenyal. Bahannya simple dan ramah 
 
 ### Bahan
 
--   1 buah dada fillet ayam tanpa kulit
--   7 sdm tepung tapioka
+-   500 gr dada fillet ayam tanpa kulit
+-   100 gr tepung tapioka
 -   1 butir telur
 -   Air secukupnya untuk merebus
 -   Air es secukupnya untuk menyiram
@@ -75,7 +75,7 @@ Cara membuat pentol bakso ayam yang padat dan kenyal. Bahannya simple dan ramah 
 -   Biarkan pentol dalam air panas selama 15-30 menit (jangan nyalakan api).
 -   Angkat pentol siram atau rendam dengan air es hingga dingin.
 -   Pentol yang sudah dingin bisa disimpan dalam wadah kedap udara dan masukan ke dalam freezer. Juga bisa dimasak lagi pentol dengan kuah atau dikukus sesuai selera.
--   Hidangkan selagi hangat.
+-   Hidangkan pentol bakso ayam yang padat dan kenyal selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

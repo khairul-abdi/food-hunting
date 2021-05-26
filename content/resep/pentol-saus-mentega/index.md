@@ -68,7 +68,7 @@ Cara membuat pentol saus mentega ini sangat mudah dan cepat. Bahannya mudah dida
 -   Masukan pentol aduk rata, tambahkan air, masak hingga mendidih.
 -   Masukan kecap manis, saus sambal, kecap asin, minyak wijen, lada hitam dan kaldu jamur.
 -   Aduk semua hingga tercampur rata hingga kuah menyusut. Tes rasa, angkat.
--   Pentol saus mentega siap dinikmati selagi hangat.
+-   Pentol saus mentega yang gurih dan lezat siap untuk dinikmati selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

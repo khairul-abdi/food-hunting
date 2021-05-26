@@ -1,4 +1,3 @@
-
 ---
 title: "Terong Penyet Sambal Santan"
 date: 2021-05-25T06:30:57+02:00
@@ -62,13 +61,13 @@ Cara membuat terong penyet sambal santan yang mudah. Bahan sangat simpel, makana
 -   1 sdt gula tropicana slim
 -   1/2 sdt garam himalaya
 -   5 biji cabe rawit (sesuai selera)
--   100 ml santan encer (jangan terlalu kental)
+-   100 ml santan (agak sedikit kental)
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
 -   Cuci bersih buah terong, belah menjadi 2 bagian.
 -   Rebus/kukus terong dan telur sampai matang, angkat sisihkan.
--   Siapkan panci kecil, rebus santan hingga mendidih matikan.
+-   Siapkan panci kecil, rebus santan hingga mendidih matikan api.
 -   Siapkan cobek, haluskan semua bahan sambal kecuali santan.
 -   Masukan santan aduk secara perlahan, tes rasanya.
 -   Jika rasa sudah pas, masukan terong dan telur lalu penyet.
@@ -76,5 +75,5 @@ Cara membuat terong penyet sambal santan yang mudah. Bahan sangat simpel, makana
 {{< /steps>}}
 
 {{< blockquote>}}
-Bakar terong jika ingin rasa yang lebih gurih dan mantap. Sambal santan juga enak disandingkan dengan tahu dan tempe.
+Bakar terong jika ingin rasa yang lebih gurih dan lebih mantap. Sambal santan juga enak disandingkan dengan tahu dan tempe.
 {{< /blockquote>}}

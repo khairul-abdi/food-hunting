@@ -1,7 +1,6 @@
-
 ---
 title: "Tumis Daging Tomat"
-date: 2021-05-25T206:32:58+02:00
+date: 2021-05-25T06:32:58+02:00
 draft: false
 
 # post thumb
@@ -69,9 +68,9 @@ Cara membuat tumis daging tomat ini tergolong mudah. Bahannya simpel dan mudah d
 -   Panaskan wajan, masukan minyak zaitun. Tumis bawang putih dan bawang bombay hingga harum.
 -   Masukan daging, air, saus tiram, kecap manis dan saus sambal. Masak hingga kuah menyusut.
 -   Masukan garam, kaldu jamur, tomat dan seledri, aduk rata, tes rasa, angkat.
--   Hidangkan tumis daging tomat selagi hangat.
+-   Hidangkan tumis daging tomat yang lezat selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}
-Jangan memotong daging khas dalam terlalu tebal agar mudah empuk. Jika menggunakan daging biasa, rebus daging hingga empuk.
+Jangan memotong daging khas dalam terlalu tebal agar mudah empuk. Jika menggunakan daging biasa, rebus daging hingga empuk terlebig dahulu.
 {{< /blockquote>}}
