@@ -1,0 +1,105 @@
+---
+title: "Bakso Urat Ati Ampela"
+date: 2021-05-27T08:22:17+02:00
+draft: false
+
+# post thumb
+feature: "banner.png"
+
+# meta description
+description: "Resep pentol urat ati ampela yang enak, terasa padat dan kenyal. Buat pecinta pentol bakso wajib mencoba resep saya ini. Bulineran ini sangat lezat, pokoknya rekomen baksonya."
+
+# taxonomies
+categories:
+  - "Cara Membuat"
+  - "Masakan Rumahan"
+  - "Makanan Bergizi"
+  - "Masak Pentol"
+  - "Masak Ayam"
+
+# post tags
+tags:
+  - "bebas-susu"
+  - "kuliner"
+
+# post type
+type: "post"
+
+# Is Recipe
+recipe: true
+
+# prep time
+time: "1 jam 30 menit"
+
+# serving
+serving: 10
+---
+
+Bakso urat ati ampela salah satu kreasi masakan berbahan dari ayam. Masakan rumahan ini terasa padat dan kenyal, rekomen untuk di coba
+
+Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/ bumbu kacang. Biasanya pentol dimasak dengan kuah bakso dan disajikan mie, tahu, gorengan dan lontong. Jangan lupa saus, sambal, taburan daun bawang dan bawang goreng ya.
+
+## Daging ayam bagian apa yang dibutuhkan untuk membuat bakso urat ini?
+
+Yang dibutuhkan untuk membuat pentol bakso urat ini adalah dada/paha ayam fillet. Kali ini saya membuat pentol menggunakan dada, hati dan ampela ayam. Rasanya sangat enak dan kenyal, rasa urat dari ampela membuat bakso urat ini jadi spesial.
+
+Saya mencampurkan hati ayam di adonan ini karena pentol menjadi tidak terlihat pucat. Bagian dalam pentol menjadi berwarna kemerahan, jadi tambah makin menarik.
+
+## Apa itu bakso urat ati ampela?
+
+Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama telur ayam. Sedangkan ampela digiling kasar/dicincang kasar. Semua bahan dan bumbu dicampur menjadi satu. Jadilah adonan pentol dan di bentuk bulat di masukan ke dalam air panas. Sehingga menghasilkan proses pembuatan pentol yang sempurna.
+
+## Tips membuat bakso urat ati ampela
+
+- Mencincang kasar ampela menghasilkan pentol urat yang lebih baik. Setelah di cincang langsung masukan ke adonan, tidak perlu diblender lagi.
+- Menggunakan blender kering untuk daging sangat rekomen untuk membuat bakso urat ini. Hasilnya bisa maximal, pentol semakin padat dan kenyal.
+- Menggunakan air es/es batu ini wajib dalam membuat pentol. Air es/es batu membantu menjaga suhu tetap rendah ketika daging digiling. Sehingga protein pada daging pentol tetap terjaga.
+- Jangan menggunakan air mendidih ketika memasukan bulatan pentol. Pentol yang baru dibentuk bulat sangat sensitif terhadap suhu tinggi. Akibat dari kesalahan ini pentol bisa rusak, lembek dan tidak enak.
+
+## Mulai memasak
+
+Cara membuat pentol urat ati ampela ini susah-susah gampang. Membuat bulatan pentol dari sendok membutuhkan keterampilan. Tapi jika sering berlatih membuat pentol rasanya tangan ini semakin pandai.
+
+Hasil pentolnya mengembang loh kalo di rebus atau dikukus lagi. Saya senang sekali dengan hasilnya, pentol kecil direbus jadi mekar dan besar.
+Berikut simak resenya di bawah ini.
+
+{{< post-info prep="60 menit" cook="30 menit" total="1 jam 30 menit" serving="10">}}
+
+### Bahan
+
+-  500 gr dada ayam fillet tanpa kulit
+-  500 gr ampela ayam
+-  150 gr hati ayam
+-  200 gr tepung tapioka
+-  1 sdt baking powder
+-  2 butir telur
+-  250 ml air es/es batu
+-  2 liter air 
+
+### Bumbu
+
+-  2 sdm bawang merah goreng
+-  5 siung bawang putih
+-  2 sdt merica (sesuai selera)
+-  1 sdm kaldu jamur
+-  1 sdm garam
+{{< /post-info>}}
+
+{{< steps>}}
+-   Cuci bersih dada dan hati ayam, potong-potong, persiapan untuk di blender.
+-   Cuci bersih ampela, buang lemaknya lalu iris-iris, sisihkan.
+-   Blender hingga halus dada ayam, hati ayam, bumbu, telur dan air/es. Sisakan sedikit air/es untuk menggiling ampela.
+-   Pindahkan daging yang sudah digiling kedalam wadah.
+-   Masukan ampela ke dalam blender dan tambahkan sedikit air, blender kasar.
+-   Masukan ampela ke dalam wadah tadi, tambahkan tepung tapioka dan baking powder.
+-   Uleni adonan dengan spatula atau tangan (yang bersih) hingga tercampur rata.
+-   Siapkan panci besar, masukan 2 liter air, rebus hingga mendidih, matikan api.
+-   Bentuk bulat adonan pentol dengan sendok lalu masukan ke dalam air panas.
+-   Ulangi membentuk bulatan pentol sampai adonan habis.
+-   Diamkan pentol selama 30-60 menit, angkat siram dengan air es.
+-   Proses pembuatan pentol urat ati ampela sudah selesai. Simpan pentol dengan wadah kedap udara bisa bertahan 3 bulan dalam freezer.
+-   Rebus lagi pentol dengan kuah bakso atau bisa juga dikukus sesuai selera.
+-   Hidangkan pentol bakso urat ati ampela selagi hangat.
+{{< /steps>}}
+
+Hasil dari pembuatan pentol ini sekitar 90-100 butir pentol ukuran sedang. Untuk bulatan pentol ukuran kecil menghasilkan kelipatannya.

@@ -7,10 +7,9 @@
         "id": "bc45331af98f4248",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "resep/tumis-sayur-warna-warni/index.md",
-            "mode": "source"
+            "file": "resep/bakso-urat-ati-ampela/banner.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/tumis-sayur-warna-warni/index.md",
+                "file": "resep/bakso-urat-ati-ampela/banner.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/tumis-sayur-warna-warni/index.md",
-    "resep/sop-kaki-sapi-bumbu-iris/index.md",
-    "resep/sambal-hijau/index.md",
-    "resep/pentol-saus-mentega/index.md",
-    "resep/udang-goreng-gurih/index.md",
-    "resep/telur-puyuh-bumbu-kecap/index.md",
-    "resep/terong-penyet-sambal-santan/index.md",
-    "resep/tumis-daun-wortel/index.md",
-    "resep/pentol-bakso-ayam/index.md",
-    "resep/ayam-goreng-ungkep/index.md"
+    "resep/bakso-urat-ati-ampela/banner.png",
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/rempah-singkong/index.md",
+    "resep/rempah-singkong/banner.png",
+    "resep/rempeyek-kacang/index.md",
+    "resep/rempah-ayam/index.md",
+    "resep/rendang-daging/index.md",
+    "resep/rujak-mangga-muda/index.md",
+    "resep/rawon/index.md",
+    "resep/rempah-ayam/banner.png"
   ]
 }

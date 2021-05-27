@@ -79,6 +79,7 @@ Cara membuat rempeyek kacang ini tergolong mudah dan ramah di kantong. Kamu bisa
 -   Goreng hingga berwarna emas kecoklatan, angkat, tiriskan.
 -   Ulangi menggoreng sampai adonan habis.
 -   Hidangkan rempeyek kacang ketika sudah dingin.
+{{< /post-info>}}
 
 {{< blockquote>}}
 Jika ingin rempenyek berwarna kuning, tambahkan 1 ruas kunyit di bumbu halus.

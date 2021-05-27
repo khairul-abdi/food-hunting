@@ -1,5 +1,5 @@
 ---
-title: "Ayam Goreng Sambel Terasi"
+title: "Ayam Goreng Sambal Terasi"
 date: 2021-05-26T06:27:57+02:00
 draft: false
 

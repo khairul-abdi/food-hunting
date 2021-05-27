@@ -37,8 +37,8 @@ Simak tips membuat pentol bakso yang simple dan mudah dimengerti di bawah ini :)
 Pilih daging segar yang benar seperti di bawah ini:
 
 -   Membuat pentol bakso halus, gunakan daging murni tanpa serat atau lemak.
--   Membuat pentol bakso urat. Gunakan daging sengkel karena sedikit lemak dan banyak urat.
--   Membuat pentol bakso ayam, gunakan dada ayam fillet tanpa kulit.
+-   Membuat pentol bakso urat. Gunakan ampela ayam, tetelan atau daging sengkel karena sedikit lemak dan banyak urat.
+-   Membuat pentol bakso ayam, gunakan dada/paha ayam fillet tanpa kulit.
 -   Membuat pentol bakso seafood. gunakan daging ikan berwarna putih, cumi-cumi, udang dan kepiting.
 
 ### 2. Cara memilih tepung
@@ -63,10 +63,10 @@ Gunakan es batu ketika menggiling daging. Es batu berperan penting untuk membent
 
 {{< img src="timbangan.png" alt="timbangan" >}}
 
--   1 kg daging gunakan sekitar 250-500 gr tepung tapioka/sagu
+-   1 kg daging gunakan sekitar 100-250 gr tepung tapioka/sagu
 -   1 kg daging gunakan sekitar 500 gr es batu
 -   1 kg daging gunakan sekitar 1-2 sdt baking powder
--   1 kg daging gunakan sekitar 2-4 butir telur (ambil putihnya saja)
+-   1 kg daging gunakan sekitar 1-2 butir telur (ambil putihnya saja)
 
 ### 6. Gunakan air panas bukan air mendidih
 
