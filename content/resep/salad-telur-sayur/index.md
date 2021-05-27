@@ -11,7 +11,7 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Makanan Telur"
+  - "Masak Telur"
   - "Salad"
   
 # post tags
