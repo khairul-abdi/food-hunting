@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep pentol urat ati ampela yang enak, terasa padat dan kenyal. Buat pecinta pentol bakso wajib mencoba resep saya ini. Bulineran ini sangat lezat, pokoknya rekomen baksonya."
+description: "Resep pentol urat ati ampela yang enak, terasa padat dan kenyal. Buat pecinta pentol bakso wajib mencoba resep yang saya buat ini."
 
 # taxonomies
 categories:
@@ -52,6 +52,7 @@ Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama
 - Menggunakan blender kering untuk daging sangat rekomen untuk membuat bakso urat ini. Hasilnya bisa maximal, pentol semakin padat dan kenyal.
 - Menggunakan air es/es batu ini wajib dalam membuat pentol. Air es/es batu membantu menjaga suhu tetap rendah ketika daging digiling. Sehingga protein pada daging pentol tetap terjaga.
 - Jangan menggunakan air mendidih ketika memasukan bulatan pentol. Pentol yang baru dibentuk bulat sangat sensitif terhadap suhu tinggi. Akibat dari kesalahan ini pentol bisa rusak, lembek dan tidak enak.
+- Melumuri dada ayam, hati dan ampela dengan jeruk nipis sangat dianjurkan. Hal ini dapat membantu menyingkirkan bau amis pada bagian ayam.
 
 ## Mulai memasak
 
@@ -60,13 +61,14 @@ Cara membuat pentol urat ati ampela ini susah-susah gampang. Membuat bulatan pen
 Hasil pentolnya mengembang loh kalo di rebus atau dikukus lagi. Saya senang sekali dengan hasilnya, pentol kecil direbus jadi mekar dan besar.
 Berikut simak resenya di bawah ini.
 
-{{< post-info prep="60 menit" cook="30 menit" total="1 jam 30 menit" serving="10">}}
+{{< post-info prep="600 menit" cook="30 menit" total="1 jam 30 menit" serving="10">}}
 
 ### Bahan
 
 -  500 gr dada ayam fillet tanpa kulit
 -  500 gr ampela ayam
 -  150 gr hati ayam
+-   5 sdm air jeruk nipis
 -  200 gr tepung tapioka
 -  1 sdt baking powder
 -  2 butir telur
@@ -83,8 +85,9 @@ Berikut simak resenya di bawah ini.
 {{< /post-info>}}
 
 {{< steps>}}
--   Cuci bersih dada dan hati ayam, potong-potong, persiapan untuk di blender.
--   Cuci bersih ampela, buang lemaknya lalu iris-iris, sisihkan.
+-   Buang lemak yang menempel pada ampela, cuci bersih, iris-iris lalu sisihkan.
+-   Cuci bersih dada ayam dan hati, lumuri dengan perasan air jeruk. Diamkan selama 10 menit lalu bilas hingga bersih.
+-   Potong-potong dada ayam dan hati ayam, persiapan untuk di blender. 
 -   Blender hingga halus dada ayam, hati ayam, bumbu, telur dan air/es. Sisakan sedikit air/es untuk menggiling ampela.
 -   Pindahkan daging yang sudah digiling kedalam wadah.
 -   Masukan ampela ke dalam blender dan tambahkan sedikit air, blender kasar.

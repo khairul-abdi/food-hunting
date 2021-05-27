@@ -32,15 +32,22 @@ time: "1 jam 30 menit"
 # serving
 serving: 6
 ---
-Hidangan kimchi sayur yang difermentasi asal negara Korea ini sangat segar dan lezat. Rasa dari kimchi ada asin, asam, pedas, manis semua tergantung bumbu yang digunakan.
+Kata-kata kimchi sering saya dengar ketika saya menonton drama korea. Dari sini saya penasaran sekali bagaimana sih rasanya kimci itu?...
+
+Akhirnya suatu hari saya pergi ke restaurant Korea dan saya menemukan menu kimchi. Yes! akhirnya rasa penasaran saya berakhir, akhirnya bisa makan kimchi juga. Saya menyantap hidangan kimchi dengan mie kuah. Wuih Rasanya enak banget cocok disandingkan dengan olahan mie.
+
 
 ## Apa itu kimchi?
 
 Kimchi adalah makanan pokok tradisional dalam masakan Korea. Kimchi dibuat dari sayuran sawi putih, lobak, wortel dan daun bawang. Dicampur dengan bumbu pilihan dan sangat bervariasi termasuk jahe, bawang putih gochugaru dll.
 
+Hidangan kimchi sayur yang difermentasi asal negara Korea ini sangat segar dan lezat. Citarasa kimchi ada asin, asam, hangat jahe, pedas dan manis semua terasa dari campuran bumbu. Sangat rekomen dicoba kalo kamu pecinta makanan salad dan lalapan karena pasti suka.
+
 ## Mulai membuat
 
-Cara membuat kimchi ini tidak begitu sulit. Kamu bisa menggunakan sayuran seperti sawi putih, wortel, lobak putih untuk membuat kimchi. Gunakan bumbu kimchi sesuai selera kamu.
+Cara membuat kimchi ini tidak begitu sulit. Bisa menggunakan sayuran seperti sawi putih, wortel, lobak putih untuk membuat kimchi. Gunakan dan pilih bumbu untuk membuat kimchi sesuai selera ya.
+
+Saya sudah ketagihan rasanya sejak pertama kali makan kimchi. Akhirnya saya keturutan juga membuat resep kimchinya. Berikut simak resep membuat kimchi yang segar di bawah ini.
 
 {{< post-info prep="30 menit" cook="1 jam" total="1 jam 30" serving="6">}}
 
@@ -61,7 +68,7 @@ Cara membuat kimchi ini tidak begitu sulit. Kamu bisa menggunakan sayuran sepert
 ### Bumbu halus
 
 -   5 siung bawang putih
--   3 ruas jahe kupas
+-   3 ruas jahe kupas (sesuai selera)
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
@@ -80,6 +87,6 @@ Cara membuat kimchi ini tidak begitu sulit. Kamu bisa menggunakan sayuran sepert
 Jika suka rasa asam pada kimchi. Fermentasi kimci dalam kulkas sekitar 3 hari sampai 1 minggu.
 {{< /blockquote>}}
 
-Hidangan kimchi sangat lezat disandingkan dengan nasi shirataki maupun dimasak bersama mie shirataki.
+Hidangan kimchi sangat lezat disandingkan dengan nasi shirataki maupun dimasak bersama mie shirataki. Untuk yang tidak diet keto bebas ya mau pake mie apa saja hehe...
 
 

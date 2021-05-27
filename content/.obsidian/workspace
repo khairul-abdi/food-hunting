@@ -7,9 +7,10 @@
         "id": "bc45331af98f4248",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "resep/bakso-urat-ati-ampela/banner.png"
+            "file": "resep/kimchi/index.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/bakso-urat-ati-ampela/banner.png",
+                "file": "resep/kimchi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/bakso-urat-ati-ampela/banner.png",
+    "resep/kimchi/index.md",
+    "resep/kuah-bakso/banner.png",
+    "resep/kuah-bakso/index.md",
     "resep/bakso-urat-ati-ampela/index.md",
+    "resep/kaldu-tulang-sapi/index.md",
+    "resep/kaldu-tulang-sapi/banner.png",
+    "resep/kari-ayam/index.md",
+    "resep/bakso-urat-ati-ampela/banner.png",
     "resep/rempah-singkong/index.md",
-    "resep/rempah-singkong/banner.png",
-    "resep/rempeyek-kacang/index.md",
-    "resep/rempah-ayam/index.md",
-    "resep/rendang-daging/index.md",
-    "resep/rujak-mangga-muda/index.md",
-    "resep/rawon/index.md",
-    "resep/rempah-ayam/banner.png"
+    "resep/rempah-singkong/banner.png"
   ]
 }
