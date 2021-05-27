@@ -6,6 +6,7 @@ theme: blog-lt
 disqusShortname: neztra
 enableRobotsTXT: true
 canonifyURLs: true
+enableGitInfo: true
 
 params:
   subtitle: Resep Masakan Mudah & Praktis
