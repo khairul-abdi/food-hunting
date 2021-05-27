@@ -11,10 +11,7 @@ description: "Resep tumis daging sapi yang lezat dan bergizi. Cara membuat masak
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Cara Membuat"
-  - "Masak Daging Sapi"
+  - "Masak Daging"
 
 # post tags
 tags:

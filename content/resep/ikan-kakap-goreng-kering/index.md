@@ -11,10 +11,6 @@ description: "Resep ikan goreng kering yang kriuk, lauk lezat pendamping nasi. C
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Ikan"
 
 # post tags

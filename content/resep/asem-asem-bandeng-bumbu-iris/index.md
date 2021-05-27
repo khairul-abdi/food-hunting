@@ -11,10 +11,6 @@ description: "Resep asem-asem bandeng bumbu iris yang segar dan lezat. Dimasak d
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Ikan"
 
 # post tags

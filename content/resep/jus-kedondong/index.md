@@ -12,7 +12,6 @@ description: "Resep membuat jus kedondong yang simple dan segar. Pelajari cara m
 # taxonomies
 categories:
   - "Minuman"
-  - "Cara Membuat"
 
 # post tags
 tags:

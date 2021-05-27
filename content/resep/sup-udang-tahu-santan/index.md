@@ -11,11 +11,8 @@ description: "Resep membuat sup udang tahu santan yang lezat dan bergizi. Merupa
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Cara Membuat"
-  - "Sup"
-  - "Masak Udang"
+  - "Seafood"
+  - "Tahu dan Tempe"
 
 # post tags
 tags:

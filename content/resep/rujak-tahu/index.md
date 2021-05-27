@@ -11,9 +11,7 @@ description: "Resep membuat rujak tahu yang enak dan simple. Hidangan ini merupa
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
+  - "Tahu dan Tempe"
   - "Rujak"
 
 # post tags

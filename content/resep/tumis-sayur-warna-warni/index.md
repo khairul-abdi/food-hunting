@@ -11,11 +11,6 @@ description: "Resep membuat tumis sayur warna warni yang sehat dan bergizi. Pena
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
   - "Masak Sayur"
 
 # post tags

@@ -11,12 +11,7 @@ description: "Resep membuat kimchi ala lidah orang Indonesia. Cara membuatnya bi
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
-  - "Masak Sayur"
+  - "Masakan Jepang dan Korea"
 
 # post tags
 tags:

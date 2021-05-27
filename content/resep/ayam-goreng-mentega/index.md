@@ -11,11 +11,7 @@ description: "Resep ayam goreng mentega ala keto yang sehat. Makanan bergizi yan
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

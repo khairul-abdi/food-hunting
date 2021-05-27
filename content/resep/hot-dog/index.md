@@ -12,10 +12,7 @@ description: "Resep hot dog yang lezat, simple dan praktis. Hidangan cepat saji 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Hot Dog"
+  - "Makanan Amerika dan Eropa"
 
 # post tags
 tags:

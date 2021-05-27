@@ -11,11 +11,7 @@ description: "Resep masakan kare udang yang gurih dan lezat. Menu makanan diet k
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Udang"
+  - "Seafood"
 
 # post tags
 tags:

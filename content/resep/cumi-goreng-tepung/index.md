@@ -11,11 +11,7 @@ description: "Resep cumi goreng tepung yang sehat dan renyah. Menggunakan tepung
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Cumi"
+  - "Seafood"
 
 # post tags
 tags:

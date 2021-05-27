@@ -11,10 +11,6 @@ description: "Resep salmon bayam creamy yang kaya akan nutrisi dan sangat lezat.
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Ikan"
   - "Masak Sayur"
 

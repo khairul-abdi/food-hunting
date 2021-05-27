@@ -11,11 +11,7 @@ description: "Resep membuat saus tomat ala rumahan yang aman dan lezat. Pelajari
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
-  - "Saus"
+  - "Sambal"
 
 # post tags
 tags:

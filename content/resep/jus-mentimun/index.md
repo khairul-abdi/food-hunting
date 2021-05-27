@@ -12,8 +12,6 @@ description: "Cara membuat jus mentimun yang segar. Jus mentimun minuman untuk d
 # taxonomies
 categories:
   - "Minuman"
-  - "Cara Membuat"
-  - "Resep Keto"
 
 # post tags
 tags:

@@ -11,9 +11,6 @@ description: "Resep balado teri jengkol yang gurih dan pedas. Pelajari selengkap
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Resep Keto"
-  - "Masakan Rumahan"
   - "Masak Ikan"
 
 # post tags

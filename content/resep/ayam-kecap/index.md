@@ -11,10 +11,7 @@ description: "Resep cara membuat ayam kecap yang lezat. Cocok menjadi menu andal
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

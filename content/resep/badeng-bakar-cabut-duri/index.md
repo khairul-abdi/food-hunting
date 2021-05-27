@@ -11,9 +11,6 @@ description: "Resep bandeng bakar cabut duri yang enak, gurih dan sedap! berasa 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masakan Rumahan"
   - "Masak Ikan"
 
 # post tags

@@ -11,11 +11,7 @@ description: "Resep membuat gulai cumi padang yang sangat lezat. Merupakan salah
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Gulai"
-  - "Masak Cumi"
+  - "Seafood"
 
 # post tags
 tags:

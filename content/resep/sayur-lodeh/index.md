@@ -11,9 +11,6 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Sayur"
   
 # post tags

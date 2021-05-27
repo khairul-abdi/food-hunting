@@ -11,10 +11,8 @@ description: "Resep membuat tahu bakso yang lezat. Cara membuatnya mudah dan gam
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Masak Ayam"
-  - "Makanan Bergizi"
+  - "Masak Ayam dan Bebek"
+  - "Tahu dan Tempe"
 
 # post tags
 tags:

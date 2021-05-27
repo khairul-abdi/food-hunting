@@ -11,10 +11,7 @@ description: "Resep membuat ampela goreng ungkep yang gurih dan lezat. Menu hida
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

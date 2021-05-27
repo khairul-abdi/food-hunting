@@ -11,10 +11,7 @@ description: "Resep nasi goreng mawut lada hitam, masakan rumahan yang enak dan 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Nasi Goreng"
+  - "Masak Nasi dan Mie"
 
 # post tags
 tags:

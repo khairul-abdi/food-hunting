@@ -11,11 +11,8 @@ description: "Resep mie goreng udang lezat sangat menggugah selera. Menu spesial
 
 # taxonomies
 categories:
-  - "Cara membuat"
-  - "Mie Goreng"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Udang"
+  - "Masak Nasi dan Mie"
+  - "Seafood"
 
 # post tags
 tags:

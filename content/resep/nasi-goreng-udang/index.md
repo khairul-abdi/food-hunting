@@ -11,11 +11,8 @@ description: "Resep nasi goreng udang yang lezat. Hidangan spesial yang sangat m
 
 # taxonomies
 categories:
-  - "Cara membuat"
-  - "Nasi Goreng"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Udang"
+  - "Masak Nasi dan Mie"
+  - "Seafood"
 
 # post tags
 tags:

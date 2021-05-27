@@ -11,13 +11,8 @@ description: "Resep salad ayam sayur yang lezat dan bergizi. Merupakan kreasi da
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
+  - "Masak Ayam dan Bebek"
   - "Salad"
-  - "Masak Ayam"
 
 # post tags
 tags:

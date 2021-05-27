@@ -12,9 +12,7 @@ description: "Resep rempah singkong yang enak dan kenyal. Masakan rumahan yang m
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
+  - "Masak Sayur"
 
 # post tags
 tags:

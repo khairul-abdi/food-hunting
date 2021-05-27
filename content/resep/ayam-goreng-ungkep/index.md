@@ -11,10 +11,7 @@ description: "Resep cara membuat ayam goreng ungkep yang lezat. Menu hidangan in
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

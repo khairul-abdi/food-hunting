@@ -11,11 +11,7 @@ description: "Resep membuat kari ayam yang lezat. Hidangan sehat sangat sempurna
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

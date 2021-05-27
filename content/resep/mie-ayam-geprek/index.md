@@ -11,10 +11,8 @@ description: "Resep membuat masakan rumahan mie ayam geprek yang pedas dan lezat
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masakan Rumahan"
-  - "Masak Ayam"
+  - "Masak Nasi dan Mie"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

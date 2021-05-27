@@ -11,10 +11,7 @@ description: "Resep membuat ayam bakar madu yang lezat. Pelajari cara membuat ay
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan rumahan"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

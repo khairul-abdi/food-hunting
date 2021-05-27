@@ -11,11 +11,8 @@ description: "Resep membuat burger ayam renyah yang mudah. Burger ini kaya akan 
 
 # taxonomies
 categories:
- - "Cara Membuat"
- - "Makanan Bergizi"
- - "Masakan Rumahan"
- - "Burger"
- - "Masak Ayam"
+ - "Makanan Amerika dan Eropa"
+ - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

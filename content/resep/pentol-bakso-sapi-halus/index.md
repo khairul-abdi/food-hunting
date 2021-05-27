@@ -11,10 +11,7 @@ description: "Resep membuat pentol bakso sapi halus yang padat dan kenyal. Rasan
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Daging Sapi"
+  - "Masak Daging"
   - "Masak Pentol"
 
 # post tags

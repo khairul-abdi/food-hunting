@@ -11,10 +11,7 @@ description: "Resep membuat opor ayam yang gurih dan lezat. Hidangan spesial unt
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Masak Ayam"
-  - "Makanan Bergizi"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

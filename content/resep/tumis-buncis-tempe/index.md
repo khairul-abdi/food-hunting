@@ -11,9 +11,7 @@ description: "Tumis buncis tempe masakan rumahan yang mudah dan praktis. Sangat 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masakan Rumahan"
+  - "Tahu dan Tempe"
   - "Masak Sayur"
 
 # post tags

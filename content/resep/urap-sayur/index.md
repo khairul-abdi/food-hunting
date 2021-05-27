@@ -11,11 +11,6 @@ description: "Resep membuat urap sayur yang segar dan sehat ala diet keto. Menu 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
   - "Masak Sayur"
 
 # post tags

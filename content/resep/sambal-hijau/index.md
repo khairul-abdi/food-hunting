@@ -11,10 +11,6 @@ description: "Resep sambal hijau yang mudah dan lezat. Cara membuatnya sangat mu
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Rendah Kalori"
   - "Sambal"
 
 # post tags

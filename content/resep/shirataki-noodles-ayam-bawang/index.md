@@ -11,13 +11,9 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
-  - "Shirataki Noodles"
-  - "Masak Ayam"
+  - "Masak Nasi dan Mie"
+  - "Masak Ayam dan Bebek"
+  - "Masakan Jepang dan Korea"
   
 # post tags
 tags:

@@ -11,10 +11,6 @@ description: "Resep membuat sambal teri telur puyuh yang menggugah selera. Samba
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
   - "Sambal"
   - "Masak Ikan"
   - "Masak Telur"

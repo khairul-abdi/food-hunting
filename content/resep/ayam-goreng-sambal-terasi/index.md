@@ -11,10 +11,7 @@ description: "Resep ayam goreng sambal terasi yang sedap dan mantap. Masakan rum
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
   - "Sambal"
 
 # post tags

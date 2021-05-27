@@ -11,11 +11,7 @@ description: "Resep udang goreng gurih yang mudah dan lezat. Baca selengkapnya d
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Udang"
+  - "Seafood"
 
 # post tags
 tags:

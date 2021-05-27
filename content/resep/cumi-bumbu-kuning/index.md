@@ -11,11 +11,7 @@ description: "Resep cumi bumbu kuning yang harum dan lezat. Menu hidangan diet k
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Cumi"
+  - "Seafood"
 
 # post tags
 tags:

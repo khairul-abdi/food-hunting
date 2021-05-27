@@ -11,10 +11,6 @@ description: "Resep membuat tumis kangkung yang segar dan lezat. Layak menjadi m
 
 # taxonomies
 categories:
-  - "Cara membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Makanan Rendah kalori"
   - "Masak Sayur"
 
 # post tags

@@ -11,12 +11,7 @@ description: "Resep cara membuat tumis kol daging sapi yang sehat dan lezat. Men
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Masak Daging sapi"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
+  - "Masak Daging"
   - "Masak Sayur"
 
 # post tags

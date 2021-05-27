@@ -11,11 +11,8 @@ description: "Resep membuat burger ala rumahan terfavorit yang lezat menggugah s
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Daging Sapi"
-  - "Burger"
+  - "Makanan Amerika dan Eropa"
+  - "Masak Daging"
 
 # post tags
 tags:

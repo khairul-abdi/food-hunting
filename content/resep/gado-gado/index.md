@@ -11,9 +11,6 @@ description: "Resep cara membuat gado-gado yang lezat dan segar. Rasa dari gado-
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Sayur"
 
 # post tags

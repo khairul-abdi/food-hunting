@@ -11,13 +11,9 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Mie Goreng"
-  - "Masak Cumi"
-  - "Shirataki Noodles"
+  - "Masak Nasi dan Mie"
+  - "Seafood"
+  - "Masakan Jepang dan Korea"
   
 # post tags
 tags:

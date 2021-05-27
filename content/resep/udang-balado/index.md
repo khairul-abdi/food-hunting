@@ -11,10 +11,7 @@ description: "Resep udang balado ala rumahan yang gurih sedap dan pedas. Membuat
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Udang"
+  - "Seafood"
 
 # post tags
 tags:

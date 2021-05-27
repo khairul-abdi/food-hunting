@@ -11,9 +11,7 @@ description: "Resep salad tahu yang sehat dan lezat. Merupakan masakan rumahan u
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
+  - "Tahu dan Tempe"
   - "Salad"
 
 # post tags

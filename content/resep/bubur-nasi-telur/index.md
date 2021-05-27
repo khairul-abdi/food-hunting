@@ -11,15 +11,11 @@ description: "Cara membuat bubur nasi telur yang simple dan cepat saji. Masakan 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan bergizi"
-  - "Bubur"
+  - "Masak Nasi dan Mie"
 
 # post tags
 tags:
   - "vegetarian"
-  - "diary-free"
   - "kuliner"
 
 # post type

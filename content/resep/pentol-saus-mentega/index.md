@@ -11,9 +11,6 @@ description: "Resep pentol saus mentega yang gurih dan lezat sangat menggugah se
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
   - "Masak Pentol"
 
 # post tags

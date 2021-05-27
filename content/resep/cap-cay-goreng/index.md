@@ -11,9 +11,6 @@ description: "Resep membuat capcay goreng yang segar, enak dan bergizi. Cara mem
 
 # taxonomies
 categories:
- - "Cara Membuat"
- - "Makanan Bergizi"
- - "Masakan Rumahan"
  - "Masak Sayur"
  - "Masak Pentol"
 

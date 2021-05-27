@@ -11,10 +11,7 @@ description: "Resep semur ayam yang mudah, gurih dan lezat. Pelajari disini cara
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masakan Rumahan"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

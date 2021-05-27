@@ -11,9 +11,6 @@ description: "Resep membuat sayur ketupat ala rumahan yang lezat. Pelajari selen
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
   - "Masak Sayur"
 
 # post tags

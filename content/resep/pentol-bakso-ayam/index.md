@@ -11,11 +11,8 @@ description: "Resep membuat pentol bakso ayam yang padat dan kenyal. Pelajari ca
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
   - "Masak Pentol"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

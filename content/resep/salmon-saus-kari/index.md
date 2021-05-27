@@ -11,10 +11,6 @@ description: "Resep salmon saus kari hidangan cepat saji yang sangat menggugah s
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Ikan"
 
 # post tags

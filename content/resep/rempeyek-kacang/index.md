@@ -11,9 +11,7 @@ description: "Resep membuat rempeyek kacang anti gagal. Pelajari cara membuat re
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
+  - "Masak Sayur"
 
 # post tags
 tags:

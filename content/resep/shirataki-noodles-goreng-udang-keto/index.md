@@ -11,13 +11,9 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Mie Goreng"
-  - "Shirataki Noodles"
-  - "Masak Udang"
+  - "Masak Nasi dan Mie"
+  - "Masakan Jepang dan Korea"
+  - "Seafood"
   
 # post tags
 tags:

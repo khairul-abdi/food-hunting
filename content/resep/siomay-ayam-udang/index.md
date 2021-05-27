@@ -11,11 +11,8 @@ description: "Cara membuat siomay ayam udang atau dikenal dimsum yang lezat. Cir
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Udang"
-  - "Masak Ayam"
+  - "Seafood"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

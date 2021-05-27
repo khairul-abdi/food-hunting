@@ -11,14 +11,13 @@ description: "Resep membuat takoyaki jajanan asli jepang yang enak. Pelajari car
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
+  - "Masakan Jepang dan Korea"
 
 # post tags
 tags:
   - "kuliner"
   - "bebas susu"
-  
+
 # post type
 type: "post"
 

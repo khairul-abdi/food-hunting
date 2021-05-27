@@ -11,11 +11,7 @@ description: "Resep membuat gulai tunjang yang gurih dan lezat. Masakan rumahan 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Daging Sapi"
-  - "Masak Gulai"
+  - "Masak Daging"
 
 # post tags
 tags:

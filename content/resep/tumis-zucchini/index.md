@@ -11,11 +11,6 @@ description: "Resep tumis zucchini atau disebut juga timun jepang yang lezat dan
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
   - "Masak Sayur"
 
 # post tags

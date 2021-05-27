@@ -11,11 +11,6 @@ description: "Cara membuat sup jantung pisang yang gurih dan lezat. Menu hidanga
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Sup"
   - "Masak Sayur"
 
 # post tags

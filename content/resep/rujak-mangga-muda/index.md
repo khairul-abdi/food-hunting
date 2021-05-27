@@ -11,7 +11,6 @@ description: "Resep rujak mangga muda yang asam manis segar sangat menggugah sel
 
 # taxonomies
 categories:
-  - "Cara Membuat"
   - "Rujak"
 
 # post tags

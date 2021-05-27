@@ -12,11 +12,8 @@ description: "Resep pentol cilok ayam yang gurih dan enak bikin lidah ketagihan.
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
   - "Masak Pentol"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

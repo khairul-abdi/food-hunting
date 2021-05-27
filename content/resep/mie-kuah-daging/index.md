@@ -11,10 +11,8 @@ description: "Resep mie kuah daging yang gurih dan sedap sangat menggugah selera
 
 # taxonomies
 categories:
-  - "Cara membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Daging Sapi"
+  - "Masak Nasi dan Mie"
+  - "Masak Daging"
 
 # post tags
 tags:

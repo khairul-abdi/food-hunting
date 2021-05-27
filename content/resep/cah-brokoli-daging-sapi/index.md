@@ -10,12 +10,7 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Masak Daging sapi"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
+  - "Masak Daging"
   - "Masak Sayur"
   
 # post tags

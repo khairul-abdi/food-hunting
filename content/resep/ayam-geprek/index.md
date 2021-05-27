@@ -11,10 +11,7 @@ description: "Resep membuat ayam geprek yang super pedas dan lezat. Pelajari sel
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

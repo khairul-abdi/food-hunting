@@ -11,10 +11,7 @@ description: "Resep ayam rica-rica hidangan khas asal Manado yang sangat menggug
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan rumahan"
-  - "Makanan Bergizi"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

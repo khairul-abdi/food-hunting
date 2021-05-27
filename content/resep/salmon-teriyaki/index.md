@@ -11,9 +11,7 @@ description: "Resep membuat salmon teriyaki yang lezat. Cocok menjadi menu andal
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
+  - "Masakan Jepang dan Korea"
   - "Masak Ikan"
 
 # post tags

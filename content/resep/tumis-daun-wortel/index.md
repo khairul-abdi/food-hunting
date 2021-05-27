@@ -12,10 +12,6 @@ description: "Resep tumis daun wortel yang lezat, sehat, kaya akan vitamin dan n
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Sayur"
 
 # post tags

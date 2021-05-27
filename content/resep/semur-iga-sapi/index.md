@@ -11,10 +11,7 @@ description: "Resep membuat semur iga sapi yang lezat dan empuk. Hidangan spesia
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Masak Daging sapi"
-  - "Makanan Bergizi"
+  - "Masak Daging"
 
 # post tags
 tags:

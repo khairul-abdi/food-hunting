@@ -11,9 +11,7 @@ description: "Resep sayur tempe masakan rumahan yang lezat, ramah dikantong dan 
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masakan Rumahan"
+  - "Tahu dan Tempe"
   - "Masak Sayur"
 
 # post tags

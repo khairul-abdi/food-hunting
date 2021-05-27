@@ -11,9 +11,7 @@ description: "Resep manisan buah mangga yang segar sangat menggugah selera. Masa
 
 # taxonomies
 categories:
-  - "Manisan"
-  - "Rujak"
-  - "Cara Membuat"
+  - "Aneka Manisan"
 
 # post tags
 tags:

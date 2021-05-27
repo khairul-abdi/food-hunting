@@ -12,8 +12,6 @@ description: "Cara membuat es jeruk nipis ala diet keto. Minuman segar dan kaya 
 # taxonomies
 categories:
   - "Minuman"
-  - "Cara Membuat"
-  - "Resep Keto"
 
 # post tags
 tags:

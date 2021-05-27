@@ -11,9 +11,7 @@ description: "Resep telur puyuh bumbu kecap yang lezat bikin lidah ketagihan. Ma
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
+  - "Masak Sayur"
   - "Masak Telur"
 
 # post tags

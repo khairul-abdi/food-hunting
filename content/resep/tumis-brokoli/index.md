@@ -11,11 +11,6 @@ description: "Resep tumis brokoli yang lezat yang kaya akan nutrisi. Simak berba
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
   - "Masak Sayur"
 
 # post tags

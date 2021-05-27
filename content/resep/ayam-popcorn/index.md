@@ -11,14 +11,10 @@ description: "Resep ayam popcorn yang renyah dan cocok dijadikan bekal maupun ca
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masakan Rumahan"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:
-  - "diary-free"
   - "kuliner"
 
 # post type

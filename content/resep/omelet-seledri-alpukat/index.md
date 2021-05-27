@@ -16,12 +16,7 @@ feature: "banner.png"
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Makanan Rendah Kalori"
-  - "Omelet"
+  - "Masak Telur"
   
 # post tags
 tags:

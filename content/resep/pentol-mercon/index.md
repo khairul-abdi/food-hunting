@@ -11,9 +11,6 @@ description: "Resep membuat pentol mercon yang mudah dan cepat. Cara membuat jaj
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
   - "Masak Pentol"
 
 # post tags

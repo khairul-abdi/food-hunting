@@ -11,11 +11,7 @@ description: "Resep sop kaki sapi yang mudah dan simpel. Jika kamu suka dengan m
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Cara Membuat"
-  - "Sup"
-  - "Masak Daging Sapi"
+  - "Masak Daging"
   - "Masak Sayur"
 
 # post tags

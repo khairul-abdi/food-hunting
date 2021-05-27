@@ -11,10 +11,8 @@ description: "Resep tahu isi sayur yang renyah dan kriuk sangat menggugah selera
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
   - "Masak Sayur"
-  - "Makanan Bergizi"
+  - "Tahu dan Tempe"
 
 # post tags
 tags:

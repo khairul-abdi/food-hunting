@@ -11,11 +11,8 @@ description: "Resep membuat nasi goreng daging yang lezat merupakan masakan ruma
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Nasi Goreng"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
-  - "Masak Daging Sapi"
+  - "Masak Nasi dan Mie"
+  - "Masak Daging"
 
 # post tags
 tags:

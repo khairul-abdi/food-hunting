@@ -11,11 +11,8 @@ description: "Resep pentol urat ati ampela yang enak, terasa padat dan kenyal. B
 
 # taxonomies
 categories:
-  - "Cara Membuat"
-  - "Masakan Rumahan"
-  - "Makanan Bergizi"
+  - "Masak Ayam dan Bebek"
   - "Masak Pentol"
-  - "Masak Ayam"
 
 # post tags
 tags:

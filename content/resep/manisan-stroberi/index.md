@@ -11,9 +11,7 @@ description: "Resep manisan stroberi yang segar sangat menggugah selera. Manisan
 
 # taxonomies
 categories:
-  - "Manisan"
-  - "Rujak"
-  - "Cara Membuat"
+  - "Aneka Manisan"
 
 # post tags
 tags:

@@ -11,10 +11,6 @@ description: "Resep terong penyet sambal santan yang lezat dan bergizi. Cara mem
 
 # taxonomies
 categories:
-  - "Resep Keto"
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
   - "Masak Sayur"
   - "Sambal"
 

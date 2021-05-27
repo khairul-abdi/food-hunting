@@ -11,10 +11,7 @@ description: "Resep cumi pedas manis bikin lidah ketagihan. layak dijadikan menu
 
 # taxonomies
 categories:
-  - "Masakan Rumahan"
-  - "Cara Membuat"
-  - "Makanan Bergizi"
-  - "Masak Cumi"
+  - "Seafood"
 
 # post tags
 tags:
