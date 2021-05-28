@@ -30,8 +30,8 @@ time: "1 jam 05 menit"
 # serving
 serving: 8
 
-# is favorite
-favorite: true
+# is trending
+trending: true
 ---
 Ayam goreng ukep hidangan yang lezat dan renyah. Salah satu menu favorit orang Indonesia.
 

@@ -1,7 +1,7 @@
 ---
 title: "Kuah Bakso"
-date: 2021-05-27T16:26:17+02:00
-draft: true
+date: 2021-05-28T06:26:17+02:00
+draft: false
 
 # post thumb
 feature: "banner.png"
@@ -16,11 +16,8 @@ categories:
 
 # post tags
 tags:
-  - "keto"
-  - "vegan"
   - "bebas-susu"
-  - "bebas-gula"
-  - "vegetarian"
+  - "kuliner"
 
 # post type
 type: "post"
@@ -29,10 +26,10 @@ type: "post"
 recipe: true
 
 # prep time
-time: ""
+time: "1 jam 30 menit"
 
 # serving
-serving: 1
+serving: 10
 ---
 Kuah bakso yang enak adalah pasangan wajib untuk bola-bola pentol bakso yang enak. Masakan rumahan kuah bakso yang saya buat ini kaldunya sangat terasa sedap dan gurih. Kuah bakso ini adalah pasangan terbaik untuk pentol bakso yang kenyal.
 
@@ -45,7 +42,7 @@ Kuah bakso adalah olahan kuah berbahan dasar dari tulang sapi dan air. Tulang sa
 ## Tips membuat kuah bakso
 
 -   Merebus kuah kaldu dengan api kecil sangat disarankan. Proses ini untuk mendapatkan hasil kaldu kaldu yang enak dan maximal.
--   Membuat kuah bakso gunakan tulang betis, iga, leher, buntut dan tetelan.
+-   Membuat kuah bakso membutuhkan tulang betis, iga, leher, buntut dan tetelan sapi.
 -   Jika menggunakan 1 kg tulang sapi bisa menngunakan 4-5 liter air.
 
 ## Mulai memasak
@@ -54,11 +51,11 @@ Cara membuat kuah bakso enak ini sangat mudah dan simpel. Hanya saja waktu yang 
 
 Membuat kuah bakso yang enak ini saya tidak menggunakan lemak karena saya tidak suka. Saya hanya suka menikmati kuah kaldu tulang dari rebusan tulang yang enak. Menurut saya rasanya terbaik daripada menggunakan lemak sapi. Berikut simak resep cara membuat kuah bakso yang enak di bawah ini.
 
-10 80 90 10
+{{< post-info prep="10 menit" cook="80 menit" total="1 jam 30 menit" serving="10">}}
 
 ### Bahan
 
--   500 kg tulang betis sapi
+-   500 kg sendi tulang sapi
 -   500 gr pentol siap masak
 -   2 liter air
 
@@ -74,13 +71,11 @@ Membuat kuah bakso yang enak ini saya tidak menggunakan lemak karena saya tidak 
 
 -   2 sdm bawang goreng
 -   3 batang seledri iris
+{{< /post-info>}}
 
-cara
-
+{{< steps title="Cara membuat">}}
 -   Cuci bersih tulang masukan ke dalam panci, tambahakan air dan bumbu, nyalakan api.
 -   Rebus kuah dengan api besar hingga mendidih, setelah mendidih masak dengan api kecil.
 -   Rebus kuah selama 60 menit lalu tes rasanya. Masukan pentol, rebus dengan api sedang hingga matang, angkat.
 -   Sajikan kuah bakso bersama pentol selagi hangat bersama taburan bawang goreng dan seledri.
-{{< post-info prep="" cook="" total="" serving="">}}
-
-{{< /post-info>}}
+{{< /steps>}}

@@ -34,24 +34,24 @@ serving: 4
 ---
 Asem-asem bandeng bumbu iris masakan rumahan yang sangat lezat dan bergizi. Hidangan ini mempunyai citarasa yang asin, asam dan gurih sangat menggugah selera.
 
+Ketika musim ikan bandeng saya suka banget memasak hidangan ikan bandeng. Biasanya masak ikan bandeng saya bakar, di bumbu dan kali ini akan saya asem-asem. Saya suka masak yang simpel karena dirumah banyak sekali pekerjaan yang harus diselesaikan. Jadi saya memilih memasak asem-asem bandeng bumbu iris yang mudah dibuat.
+
 ## Apa itu asem-asem bandeng bumbu iris?
 
-Asem-asem bandeng bumbu iris merupakan kreasi dari masakan ikan bandeng. Membuat masakan rumahan ini sangat mudah simpel. Sesuai dengan namanya bahan dari bumbu semuanya di iris. Ikan direbus bersama air yang sudah dibumbui hingga matang.
+Asem-asem bandeng bumbu iris merupakan kreasi dari masakan ikan bandeng. Sesuai dengan namanya bahan dari bumbu semuanya di iris. Ikan direbus bersama air yang sudah dibumbui hingga matang. Bumbunya antara lain yaitu bawang merah, bawang ptuih, cabe merah, blimbing sayur, tomat dan kunyit.
 
 ## Mulai memasak
 
 Cara membuat asem-asem bandeng bumbu iris ini tergolong mudah. Jika tidak ingin bandeng utuh berduri. Boleh dicabut durinya terlebih dahulu.
+
+Membuat masakan rumahan ini sangat mudah, simpel dan praktis. Tidak ribet dan tidak lama juga aroma dari rempahnya sangat harum dan terasa. Berikut simak resepnya yang enak dibawah ini.
 
 {{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="4">}}
 
 ### Bahan
 
 -   500 gr ikan bandeng
--   5 sdm air jeruk nipis
--   3 lbr daun jeruk
--   1 batang serai memarkan
--   1 ruas laos memarkan
--   1 ruas jahe memarkan
+-   5 sdm air jeruk nipis (secukupnya)
 -   1 sdt gula tropicana slim
 -   1/2 sdt lada bubuk
 -   1 sdt kaldu jamur
@@ -68,6 +68,13 @@ Cara membuat asem-asem bandeng bumbu iris ini tergolong mudah. Jika tidak ingin 
 -   1 buah tomat hijau
 -   1 buah tomat merah
 -   1 ruas kunyit
+
+### Bumbu cemplung
+
+-   3 lbr daun jeruk
+-   1 batang serai memarkan
+-   1 ruas laos memarkan
+-   1 ruas jahe memarkan
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}

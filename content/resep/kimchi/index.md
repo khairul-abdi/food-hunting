@@ -32,10 +32,9 @@ time: "1 jam 30 menit"
 # serving
 serving: 6
 ---
-Kata-kata kimchi sering saya dengar ketika saya menonton drama korea. Dari sini saya penasaran sekali bagaimana sih rasanya kimci itu?...
+Kata-kata kimchi sering saya dengar ketika saya menonton drama korea. Dari sini saya penasaran sekali bagaimana sih rasanya kimchi itu?...
 
 Akhirnya suatu hari saya pergi ke restaurant Korea dan saya menemukan menu kimchi. Yes! akhirnya rasa penasaran saya berakhir, akhirnya bisa makan kimchi juga. Saya menyantap hidangan kimchi dengan mie kuah. Wuih Rasanya enak banget cocok disandingkan dengan olahan mie.
-
 
 ## Apa itu kimchi?
 
@@ -47,7 +46,7 @@ Hidangan kimchi sayur yang difermentasi asal negara Korea ini sangat segar dan l
 
 Cara membuat kimchi ini tidak begitu sulit. Bisa menggunakan sayuran seperti sawi putih, wortel, lobak putih untuk membuat kimchi. Gunakan dan pilih bumbu untuk membuat kimchi sesuai selera ya.
 
-Saya sudah ketagihan rasanya sejak pertama kali makan kimchi. Akhirnya saya keturutan juga membuat resep kimchinya. Berikut simak resep membuat kimchi yang segar di bawah ini.
+Saya sudah ketagihan rasanya sejak pertama kali makan kimchi. Saya sering membuat kimchi dirumah, karena saya suka makan kimchi yang segar. Dari pengalaman ini saya ingin membagi resepnya, boleh di coba hehe.. Berikut simak resep membuat kimchi yang segar di bawah ini.
 
 {{< post-info prep="30 menit" cook="1 jam" total="1 jam 30" serving="6">}}
 
@@ -84,9 +83,7 @@ Saya sudah ketagihan rasanya sejak pertama kali makan kimchi. Akhirnya saya ketu
 {{< /steps>}}
 
 {{< blockquote>}}
-Jika suka rasa asam pada kimchi. Fermentasi kimci dalam kulkas sekitar 3 hari sampai 1 minggu.
+Jika suka rasa asam pada kimchi. Fermentasi kimchi dalam kulkas sekitar 3 hari sampai 1 minggu.
 {{< /blockquote>}}
 
 Hidangan kimchi sangat lezat disandingkan dengan nasi shirataki maupun dimasak bersama mie shirataki. Untuk yang tidak diet keto bebas ya mau pake mie apa saja hehe...
-
-

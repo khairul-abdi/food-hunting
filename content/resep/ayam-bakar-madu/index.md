@@ -30,21 +30,27 @@ time: "1 jam 20 menit"
 # serving
 serving: 8
 ---
-Ayam bakar madu masakan rumahan yang spesial sangat menggugah selera. Menu hidangan ini sangat pas disandingkan dengan nasi hangat dan lalapan.
+Ayam bakar madu masakan rumahan yang spesial sangat menggugah selera. Menu hidangan ini sangat pas disandingkan dengan nasi hangat, sambal dan lalapan.
+
+Saya adalah pecinta masakan ayam, saya juga sangat suka berkreasi memasak ayam. Ayam bakar madu adalah salah satu menu favorit spesial saya karena rasanya lezat. Untuk membuat ayam bakar madu ini bisa menggunakan semua bagian ayam ya. Gunakan bagian ayam yang tersedia di pasar atau di supermarket sesuai selera.
 
 ## Apa itu ayam bakar madu?
 
 Ayam bakar madu adalah olahan ayam diberi bumbu madu dan kecap. Ayam dimasak hingga bumbu meresap lalu di bakar dan diolesi sisa bumbu memasak tadi. Rasa dari ayam bakar madu ini asin gurih cenderung manis.
 
+Membakar ayam ini tidak perlu sampai hitam ya, cukup sebentar saja. Beda dengan membakar sate dagingnya masih mentah maka dari itu dibakar sampai matang. Kalo ayam bakar madu, ayamnya sudah matang jadi yang di butuhkan hanya aromanya saja. Yang terpenting itu ayam sudah dibakar dan mengeluarkan aroma gurih, itu sudah cukup.
+
 ## Mulai memasak
 
-Cara membuat ayam bakar madu ini membutuhkan kesabaran dan ketelatenan. Hasil membuat ayam bakar madu ini sangat lezat dan menggugah selera.
+Cara membuat ayam bakar madu ini membutuhkan kesabaran dan ketelatenan. Tapi hasil membuat ayam bakar madu ini sangat lezat dan menggugah selera. Jadi mau makan enak perlu perjuangan dan ketelatenan walaupun dalam hal memasak.
+
+Nah, sudah siap untuk mencoba membuat ayam bakar mandu ini?... Kalo begitu ayo disimak resepnya yang lezat dibawah ini.
 
 {{< post-info prep="20 menit" cook="60 menit" total="1 jam 20 menit" serving="8">}}
 
 ### Bahan
 
--   1 kg ayam negri (potong 8 bagian
+-   1 kg ayam negri (potong 8 bagian)
 -   1 buah perasan air jeruk nipis
 -   2 lbr daun salam
 -   3 lbr daun jeruk

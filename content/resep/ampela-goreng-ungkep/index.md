@@ -32,13 +32,17 @@ serving: 8
 ---
 Ampela goreng ungkep masakan rumahan yang lezat sangat menggugah selera. Menu hidangan ini sangat pas disandingkan dengan nasi hangat dan sambal pedas.
 
+Saya  pergi ke pasar dan kebetulan melihat ada orang jualan ampela ayam saja tanpa hati ayam. Pas banget bagi saya dan keluarga saya penggemar makanan ampela ayam. Sudah dirumah baru saya tanyakan enaknya dimasak apa ya ampelanya? Jawabannya ternyata hari ini pingin banget menikmati menu ampela goreng ungkep :D
+
 ## Apa itu ampela goreng ungkep?
 
 Ampela goreng ukep adalah olahan berbahan ampela ayam. Ampela di bumbui dengan aneka rempah lalu diungkep hingga empuk. Digoreng dalam minyak banyak bersama bumbunya. Sehingga menghasilkan ampela goreng yang sangat sedap.
 
 ## Mulai memasak
 
-Cara membuat ampela goreng ungkep ini begitu mudah. Hanya hati-hati saja ketika menggoreng agar tidak meletus.
+Cara membuat ampela goreng ungkep ini begitu mudah. Hanya hati-hati saja dengan teknik ketika menggoreng agar tidak meletus. Jadi pastikan semuanya aman dan terkendali ya, hehe..
+
+Boleh banget dicoba resep ampela goreng ungkep yang enak dan simpel ini. Tambahkan juga tumis sayur untuk sadingan nasi dan ampelanya biar sehat dan bergizi. Berikut simak resepnya di bawah ini.
 
 {{< post-info prep="15 menit" cook="45 menit" total="1 jam" serving="8">}}
 
@@ -66,7 +70,7 @@ Cara membuat ampela goreng ungkep ini begitu mudah. Hanya hati-hati saja ketika 
 -   Siapkan wajan panaskan minyak. Goreng ampela dengan api kecil hingga berwarna kecoklatan.
 -   Ulangi menggoreng hingga ampela habis. Goreng juga sisa bumbu ungkep yang sudah ditiriskan.
 -   Tata ampela dalam mangkuk, taburi dengan sisa bumbu yang sudah di goreng.
--   Hidangkan selagi hangat.
+-   Hidangkan ampela goreng ungkep yang lezat selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}

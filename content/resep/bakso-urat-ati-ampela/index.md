@@ -30,11 +30,14 @@ time: "1 jam 30 menit"
 
 # serving
 serving: 10
+
+# is favorite
+favorite: true
 ---
 
-Bakso urat ati ampela salah satu kreasi masakan berbahan dari ayam. Masakan rumahan ini terasa padat dan kenyal, rekomen untuk di coba
+Bakso urat ati ampela salah satu kreasi masakan berbahan dari ayam. Masakan rumahan ini terasa padat dan kenyal, rekomen untuk di coba.
 
-Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/ bumbu kacang. Biasanya pentol dimasak dengan kuah bakso dan disajikan mie, tahu, gorengan dan lontong. Jangan lupa saus, sambal, taburan daun bawang dan bawang goreng ya.
+Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/bumbu kacang. Biasanya pentol dimasak dengan kuah bakso dan disajikan mie, tahu, gorengan dan lontong. Jangan lupa saus, sambal, taburan daun bawang dan bawang goreng ya.
 
 ## Daging ayam bagian apa yang dibutuhkan untuk membuat bakso urat ini?
 
@@ -68,7 +71,7 @@ Berikut simak resenya di bawah ini.
 -  500 gr dada ayam fillet tanpa kulit
 -  500 gr ampela ayam
 -  150 gr hati ayam
--   5 sdm air jeruk nipis
+-   5 sdm air jeruk nipisn (secukupnya)
 -  200 gr tepung tapioka
 -  1 sdt baking powder
 -  2 butir telur
@@ -85,7 +88,7 @@ Berikut simak resenya di bawah ini.
 {{< /post-info>}}
 
 {{< steps>}}
--   Buang lemak yang menempel pada ampela, cuci bersih, iris-iris lalu sisihkan.
+-   Buang lemak yang menempel pada ampela, cuci bersih, lumuri dengan 2 sdm air jeruk nipis. Diamkan selamat 10 menit, bilas hingga bersih, iris-iris lalu sisihkan.
 -   Cuci bersih dada ayam dan hati, lumuri dengan perasan air jeruk. Diamkan selama 10 menit lalu bilas hingga bersih.
 -   Potong-potong dada ayam dan hati ayam, persiapan untuk di blender. 
 -   Blender hingga halus dada ayam, hati ayam, bumbu, telur dan air/es. Sisakan sedikit air/es untuk menggiling ampela.
