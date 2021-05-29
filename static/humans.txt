@@ -1,0 +1,24 @@
+
+ /$$   /$$                       /$$                       
+| $$$ | $$                      | $$                       
+| $$$$| $$  /$$$$$$  /$$$$$$$$ /$$$$$$    /$$$$$$  /$$$$$$ 
+| $$ $$ $$ /$$__  $$|____ /$$/|_  $$_/   /$$__  $$|____  $$
+| $$  $$$$| $$$$$$$$   /$$$$/   | $$    | $$  \__/ /$$$$$$$
+| $$\  $$$| $$_____/  /$$__/    | $$ /$$| $$      /$$__  $$
+| $$ \  $$|  $$$$$$$ /$$$$$$$$  |  $$$$/| $$     |  $$$$$$$
+|__/  \__/ \_______/|________/   \___/  |__/      \_______/
+                                                           
+
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* ABOUT */         
+Your title: Neztra.
+Site: ineztra.phun@gmail.com
+Twitter: @neztraa1.                    
+Location: Antwerpen, Belgium.
+                            
+/* SITE */                                                
+Standards: HTML5, CSS3   
+Components: Hugo, Modernizr, jQuery, Tachyons.                        
+Software: Vercel
