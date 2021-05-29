@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep ayam goreng mentega ala keto yang sehat. Makanan bergizi yang layak menjadi menu sehari-hari."
+description: "Resep ayam goreng mentega masakan rumahan ala diet keto yang sehat. Makanan bergizi ini sangat layak menjadi menu sehari-hari."
 
 # taxonomies
 categories:
@@ -32,11 +32,15 @@ time: "35 menit"
 # serving
 serving: 4
 ---
-Ayam goreng mentega ini sangat terkenal di seluruh Indonesia. Aroma dan rasa khas ayam goreng mentega ini sangat menggugah selera.
+Ayam goreng mentega ini sangat terkenal di seluruh Indonesia. Aroma dan rasa khas ayam goreng mentega ini sangat menggugah selera. Bagi penggemar makanan ayam sangat rekomen resep ini untuk di buat sendiri dirumah. 
+
+Saya termasuk penggemar makanan ayam, maka dari itu saya membuat resep ini. Sangat mudah membuat resep ini, tidak diperlukan keterampilan atau skill yang rumit. Hanya masak-masak saja sesuai resep dan menghasilkan hidangan yang lezat dan sehat. Resep yang saya buat termasuk hidangan terbaik untuk keluarga dan untuk diet keto.
 
 ## Apa itu ayam goreng mentega?
 
 Ayam goreng mentega adalah olahan dari berbahan ayam. Di goreng ke dalam wajan dibumbui dengan mentega dan kecap manis. Sehingga menghasilkan aroma dan rasa yang khas gurih dan lezat.
+
+Ayam goreng mentega yang khas dengan mentega ini berasal dari negara Belanda. Banyak sekali orang yang mengira masakan ini berasal dari negeri tirai bambu. Karena kita sering sekali menemukannya di menu makanan Chinese Food. Ayam goreng mentega juga dikenal sebagai masakan peranakan, karena kreasinya banyak sekali.
 
 ## Manfaat mentega
 
@@ -50,7 +54,9 @@ Ayam goreng mentega adalah olahan dari berbahan ayam. Di goreng ke dalam wajan d
 
 ## Mulai memasak
 
-Cara membuat ayam goreng mentega ala diet keto ini mudah. Bahanya simple dan rasanya sangat maximal.
+Cara membuat ayam goreng mentega ala diet keto ini sangat mudah. Bahanya simple dan rasanya sangat maximal. Cocok sekali menjadi menu hidangan sehat untuk sehari-hari.
+
+Berikut simak resep yang lezat selengkapnya di bawah ini.
 
 {{< post-info prep="15" cook="20" total="35" serving="4">}}
 

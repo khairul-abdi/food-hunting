@@ -33,13 +33,19 @@ serving: 4
 ---
 Ayam goreng sambal terasi merupakan salah satu favorit makanan masyarakat Indonesia. Begitu pula dengan saya sangat menyukai hidangan ayam dengan sambal terasi mentah ini. Cita rasa yang asin, segar, pedas dan sedap gurih sangat menggugah selera.
 
+Ayam goreng sambal terasi ini adalah salah satu menu favorit saya. Saya sering menyimpanya ayam yang habis di ungkep di dalam kulkas sebagai stok. Jadi ketika ingin makan saya tinggal menggoreng ayamnya dan membuat sambalnya. Masakan rumahan ini tergolong instan tapi sehat dan segar ya.
+
 ## Apa itu ayam goreng sambal terasi?
 
 Ayam goreng sambal terasi adalah olahan dari berbahan ayam. Ayam diungkep lalu di goreng disandingkan dengan sambal terasi. Ditambahkan sayur kangkung yang membuat hidangan ini sangat lezat.
 
+Sambal terasi yang saya buat ini tergolong sambal mentah, semua bahannya segar. Dari cabe, tomat, jeruk limau semuanya segar tidak ada yang di goreng. Membuat sambal ini mudah, ambil bahannya dalam cobek, haluskan dan kasih jeruk limau.
+
 ## Mulai memasak
 
-Cara membuat ayam goreng sambal terasi ini sangat mudah. Bahannya simpel rasanya pedas, segar sangat cocok dijadikan menu sehari-hari.
+Cara membuat ayam goreng sambal terasi ini sangat simpel dan enak. Bahannya ramah di dapur, rasanya pedas, segar sangat cocok dijadikan menu sehari-hari.
+
+Saya sangat rekomen menambahkan tumis sayur atau sayur rebus untuk pendamping menu ini. Karena perpaduannya akan sangat pas dan sehat untuk tubuh. Boleh juga menambahkan lalapan,sepertinya yang satu ini wajib ya :D
 
 {{< post-info prep="10 menit" cook="60 menit" total="1 jam 10 menit" serving="4">}}
 

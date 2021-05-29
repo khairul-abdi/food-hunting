@@ -38,11 +38,11 @@ Saya adalah salah satu penggemar ayam geprek yang lezat dan pedas ini. Menurut s
 
 Ayam geprek adalah ayam goreng tepung yang renyah di Indonesia. Ayam dihancurkan dan dicampur dengan sambal pedas sangat menggugah selera. Bahan sambalnya sangat simpel yaitu cabai,bawang putih dan garam. Karena khas makanan ini sangat peda jadi cabai rawitnya banyak sekali.
 
-Menu hidangan ayam geprek ini berasal dari kota Yogyakarta di Jawa. Menu ini sangat populer pertama kali di kota Yogjakarta. Menyebar luas dengan cepat seperti virus di seluruh penjuru Indonesia. Bahkan menu ini digunakan untuk hidangan hajatan juga karena sangat simpel.
+Menu hidangan ayam geprek ini berasal dari kota Yogyakarta di Jawa. Menu ini sangat populer pertama kali di kota Yogjakarta. Menyebar luas dengan cepat seperti virus di seluruh penjuru Indonesia. Bahkan hidangan ini digunakan untuk menu hajatan karena sangat simpel.
 
 ## Mulai memasak
 
-Cara membuat ayam geprek membutuhkan ketelatenan dan sedikit pengetahuan agar tepungnya renyah. Tapi tidak usah khawatir untuk gagal karena saya berbagi caranya disini.
+Cara membuat ayam geprek membutuhkan ketelatenan dan sedikit pengetahuan agar tepungnya renyah. Tapi tidak usah khawatir untuk gagal karena saya berbagi caranya disini. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="40 menit" cook="20 menit" total="60 menit" serving="4">}}
 

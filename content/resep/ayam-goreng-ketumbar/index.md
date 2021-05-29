@@ -35,8 +35,9 @@ serving: 8
 # is trending
 trending: true
 ---
-
 Ayam goreng ketumbar merupakan kreasi masakan rumahan ayam goreng bumbu berempah. Harum wangi gurih dari bumbu ketumbar sangat lezat dan bikin lidah ketagihan.
+
+Saya pribadi suka masak ayam bumbu berempah dan mantap sekali resep yang saya buat ini. Saya tidak begitu menghaluskan ketumbarnya, hanya cukup membuat ketumbarnya pecah. Karena saya suka rasa gurih kriuk dari bumbu ketumbar ini. Ayam goreng ketumbar ini lebih lezat di marinasi semalaman dan di goreng di pagi hari.
 
 ## Apa itu ayam goreng ketumbar?
 
@@ -44,7 +45,9 @@ Ayam goreng ketumbar adalah olahan berbahan ayam yang dibumbui dengan ketumbar. 
 
 ## Mulai memasak
 
-Cara membuat ayam goreng ketumbar ini tergolong mudah dan simpel. Bahannya sangat sederhana dan mudah didapatkan di pasar.
+Cara membuat ayam goreng ketumbar ini tergolong mudah dan simpel. Bahannya sangat sederhana dan mudah didapatkan di pasar. Hanya saja waktu menggorengnya dalam minyak yang banyak dan dengan api kecil. Jadi harus sabar menunggu sampai ayam matang untuk menggoreng ayamnnya ya :D
+
+Berikut simak selengkapnya resep ayam goreng ketumbar yang lezat di bawah ini.
 
 {{< post-info prep="30 menit" cook="30 menit" total="1 jam" serving="8">}}
 

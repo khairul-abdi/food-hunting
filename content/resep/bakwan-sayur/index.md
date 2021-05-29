@@ -32,15 +32,21 @@ time: "40 menit"
 # serving
 serving: 5
 ---
-Bakwan sayur masakan rumahan yang lezat renyah dan tahan lama. Camilan yang kriuk sangat menggugah selera.
+Bakwan sayur masakan rumahan yang sangat di gemari masyarakat Indonesia. Camilan yang kriuk dan gurih ini sangat menggugah selera.
+
+Kerap sekali kita menjumpai bakwan sayur di tukang jual gorengan. Ya! tentu saja karena bakwan sayur ini favorit banyak orang, salah satunya vegetarian. Di rumah saya juga sering membuat cemilan ini karena mudah, enak dan juga hemat :D
 
 ## Apa itu bakwan sayur?
 
-Bakwan sayur merupakan salah satu jajanan kaki lima yang terkenal di Indonesia. Biasanya dihidangkan dengan cabe rawit, saus kacang atau saus petis. Bakwan sayur ini juga tergolong makanan vegan.
+Bakwan sayur adalah olahan berbahan sayur kecambah, kubis,wortel dan tepung. Tepung dibumbui bawang putih, lada dan penyedap rasa dan ditambahkan air. Wortel dan kubis di potong-potong bentuk korek api, dimasukan dalam adonan dengan kecambah. Lalu di goreng dalam minyak panas yang banyak dan jadilah bakwan sayur.
+
+Bakwan sayur merupakan salah satu jajanan kaki lima yang terkenal di Indonesia. Biasanya dihidangkan dengan cabe rawit, bumbu kacang atau saus petis. Bakwan sayur ini juga tergolong makanan vegan. Cita rasa bakwan sayur ini asin, sedap dan gurih, dicocol dengan sambal petis makin mantap.
 
 ## Mulai memasak
 
-Cara membuat bakwan sayur ini tergolong mudah. Bahannya simple dan mudah didapat. Pelajari resep selengkapnya di bawah ini.
+Cara membuat bakwan sayur ini tergolong sangat mudah. Bahannya simple dan mudah didapat. Hanya saja membentuk bakwan sayur yang cantik memang membutuhkan keterampilan. Tapi meskipun gak cantik-cantik banget tidak apa-apa ya... yang penting rasanya enak :D
+
+Berikut pelajari resep selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="20 menit" total="40 menit" serving="5">}}
 

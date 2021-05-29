@@ -21,6 +21,7 @@ params:
   googleAnalytics: G-P0WW95WJ14
   ads: true
   propellarAdLink: //ugroocuw.net/4/4246805
+  logo: images/logo.png
 
 menu:
   main:

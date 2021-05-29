@@ -31,9 +31,11 @@ serving: 4
 ---
 Ayam goreng crispy yang renyah di luar dan dagingnya empuk di dalam. Tepungnya terbuat dari tepung almond, sehingga menjaga karbohidrat tetap rendah.
 
+Saya sedang diet keto, diet yang mengkonsumsi tinggi lemak dan rendah karbohidrat. Tapi saya sangat ingin makan ayam goreng crispy.  Munculah ide masak di pikiran saya untuk membuat ayam goreng crispy ala diet keto. Ayam goreng ini sangat sehat, menggunakan minyak kelapa dan cocok untuk penderita diabetes.
+
 ## Apa itu ayam goreng crispy?
 
-Ayam goreng crispy adalah olahan ayam dibumbui dan di balur dengan kocokan telur dan tepung. Digoreng dengan minyak kelapa, sehingga menghasilkan ayam goreng yang renyah dan lezat.
+Ayam goreng crispy adalah olahan berbahan dasar ayam dan tepung. Ayam dibumbui dan di balur dengan kocokan telur dan tepung. Digoreng dengan minyak panas, sehingga menghasilkan ayam goreng yang renyah dan lezat.
 
 ## Manfaat dada ayam
 
@@ -46,9 +48,9 @@ Ayam goreng crispy adalah olahan ayam dibumbui dan di balur dengan kocokan telur
 
 ## Mulai Memasak
 
-Cara membuat ayam goreng crispy ala diet keto ini tergolong mudah. Bahan-bahannya simple dan hasilnya sangat memuaskan.
+Cara membuat ayam goreng crispy ala diet keto ini tergolong mudah. Bahan-bahannya simple dan hasilnya sangat sehat dan lezat.
 
-Yuk! simak resepnya di bawah ini.
+Bagi orang yang sehat, saya rekomen untuk mencoba resep ini. Karena resepnya sehat jadi kesehatan kita akan tetap terjaga. Ingat sehat itu mahal tapi sakit akan lebih mahal. Yuk! simak resepnya di bawah ini.
 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="4">}}
 
@@ -80,5 +82,3 @@ Yuk! simak resepnya di bawah ini.
 {{< blockquote>}}
 Perlu diingat bawah suhu akan menurun ketika memasukan ayam ke dalam minyak. Pastikan untuk menaikan sedikit volume api agar seimbang. Ketika sudah seimbang api bisa dikecilkan.
 {{< /blockquote>}}
-
-

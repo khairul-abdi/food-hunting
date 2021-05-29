@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep cara membuat ayam goreng ungkep yang lezat. Menu hidangan ini membuat lidah ketagihan."
+description: "Resep cara membuat ayam goreng ungkep yang lezat. Menu hidangan ini boleh banget di coba, membuat lidah ketagihan."
 
 # taxonomies
 categories:
@@ -33,15 +33,19 @@ serving: 8
 # is trending
 trending: true
 ---
-Ayam goreng ukep hidangan yang lezat dan renyah. Salah satu menu favorit orang Indonesia.
+Ayam goreng ungkep merupakan hidangan masakan rumahan yang kerap kita jumpai dimanapun. Kadang kita jumpai di rumah, di nasi berkat, di warung nasi, di rumah makan dll. Menu hidangan ini termasuk salah satu menu favorit orang Indonesia.
+
+Saya sangat suka dengan ayam goreng ungkep ini. Saya juga sering menyimpan ayam goreng setelah diungkep didalam kulkas sebagai stok makanan. Saya sering memasak menu ini ketika membantu tetangga yang sedang ada acara hajatan. Sampai saya hafal tentang resep dan cara membuatnya sudah di luar kepala :D
 
 ## Apa itu ayam goreng ungkep ?
 
-Ayam goreng ungkep adalah olahan berbahan ayam. Ayam dibumbui dengan aneka rempah lalu diungkep hingga empuk. Digoreng dalam minyak banyak. Sehingga menghasilkan ayam goreng yang sedap dan menggugah selera.
+Ayam goreng ungkep adalah olahan berbahan ayam. Ayam dibumbui dengan aneka rempah lalu diungkep hingga empuk. Ayam digoreng dalam minyak panas yang banyak. Sehingga menghasilkan ayam goreng yang sedap dan menggugah selera.
+
+Sebelum menggoreng ayam, ditiriskan dan dingin dulu ayam agar ketika digoreng tidak meletus. Jika tidak di tiriskan dan dinginkan akan mengandung banyak air dari mengungkep tadi. Menggoreng ayamnya dengan api sedang, minyak panas dan minyak yang banyak. Hasil dari cara ini ayamnya sangat enak renyah dan warnanya juga bagus.
 
 ## Mulai memasak
 
-Cara membuat ayam goreng ungkep ini begitu mudah. Berikut simak resepnya di bawah ini.
+Cara membuat ayam goreng ungkep ini begitu mudah dan tidak sulit. Bahannya juga cukup ayam, bumbu dan air, hidangan layak untuk menu setiap hari. Berikut simak resep yang enak selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="45 menit" total="1 jam 05 menit" serving="8">}}
 
@@ -82,6 +86,4 @@ Cara membuat ayam goreng ungkep ini begitu mudah. Berikut simak resepnya di bawa
 Ungkep potongan ayam sedang selama 45 menit. Untuk ayam potongan kecil ungkep selama 25 menit.
 {{< /blockquote>}}
 
-Jika dibuat stock, masukan ayam yang sudah dingin setelah diukep ke dalam wadah. Tutup rapat masukan ke dalam kulkas.
-
-
+Jika dibuat stock, masukan ayam yang sudah dingin setelah diukep ke dalam wadah. Tutup rapat dalam wadah kedap udara, masukan ke dalam kulkas.

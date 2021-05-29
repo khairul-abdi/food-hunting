@@ -12,7 +12,7 @@ feature: "banner.png"
 # taxonomies
 categories:
   - "Masak Sayur"
-  
+
 # post tags
 tags:
   - "keto"

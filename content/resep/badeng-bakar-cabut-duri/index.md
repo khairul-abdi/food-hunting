@@ -32,12 +32,18 @@ serving: 4
 ---
 Bandeng bakar cabut duri adalah masakan rumahan yang terkenal di kota Sidoarjo. Menu hidangan ini biasanya dihidangkan dengan nasi hangat, sambal dan lalapan.
 
+Di hari minggu kebiasaan saya memancing bandeng dengan kakak saya. Saya kerap mendapatkan tangkapan bandeng yang besar dan gemuk. Rasanya senang sekali dengan hasil susah payah bersabar dalam memancing. Sebelum pulang ke rumah bandengnya dicabut dulu durinya di tukang bandeng cabut duri.
+
 ## Apa itu bandeng bakar bakar cabut duri?
 Bandeng bakar cabut duri adalah makanan khas dari kota Sidoarjo Jawa Timur Indonesia. Sesuai dengan namanya ikan bandeng dicabut durinya terlebih dahulu baru diolah. Dibumbui dengan aneka rempah dan di bakar sampai matang. Citarasa hidangan ini manis, gurih dan sedap, sangat menggugah selera.
 
+Mengolah bandeng bakar ini saya sarankan banyak menggunakan rempah-rempah. Seperti jahe, kunyit, ketumbar dll, karena rempah ini membuat aroma bandeng makin sedap. Tak hanya aromanya saja, rasanya juga semakin mantap! membuat nafsu makan bertambah :D
+
 ## Mulai memasak
 
-Cara membuat bandeng bakar cabut duri ala rumahan ini begitu mudah dan simple. Bahannya ramah di dapur dan mudah didapatkan di pasar. Jadi tunggu apalagi ayo simak resepnya di bawah ini.
+Cara membuat bandeng bakar cabut duri ala rumahan ini begitu mudah dan simple. Bahannya ramah di dapur dan mudah didapatkan di pasar. 
+
+Bandeng bakar cabut duri juga sangat hemat dibuat sendiri di rumah. Tinggal beli bandeng lalu cabut durinya ke tukang cabut duri (cuma bayar 3-5 rb) dan dimasak. Jadi tunggu apalagi ayo simak resepnya di bawah ini.
 
 {{< post-info prep="25 menit" cook="35 menit" total="1 jam" serving="4">}}
 
@@ -89,5 +95,5 @@ Cara membuat bandeng bakar cabut duri ala rumahan ini begitu mudah dan simple. B
 {{< /steps>}}
 
 {{< blockquote>}}
-Bandeng bakar cabut duri sangat lezat dihidangkan dengan nasi hangat, sambal dan lalapan. Tambahkan juga tumis kangkung atau urap sayur sessuai selera.
+Bandeng bakar cabut duri sangat lezat dihidangkan dengan nasi hangat, sambal dan lalapan. Tambahkan juga tumis kangkung atau urap sayur sesuai selera.
 {{< /blockquote>}}

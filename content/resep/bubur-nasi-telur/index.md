@@ -32,13 +32,19 @@ serving: 3
 ---
 Bubur nasi telur yang simpel dan enak, hidangan mudah yang enak dan cepat saji. Masakan rumahan yang sehat dan bergizi cocok dikonsumsi saat meriang/tidak enak badan.
 
+Saya membuat bubur nasi telur ini karena terburu-buru karena tidak enak badan. Saya membuat bubur dari nasi dan telur yang saya rebus dengan air, garam dan kaldu jamur. Hasilnya sangat enak, saya merasa lebih baik dan saya rekomen bubur ini untuk kalian.
+
 # Apa itu bubur nasi telur?
 
 Bubur nasi telur adalah olahan dari berbahan nasi dan telur. Nasi di masak dengan air hingga menjadi bubur. Ditambahkan kaldu jamur, garam dan telur diaduk menjadi satu. Citarasa bubur nasi telur ini asin gurih sangat lembut di mulut.
 
+Tidak usah memasak beras menjadi bubur, cukup masak nasi menjadi bubur juga enak. Hasilnya rasanya sama ajah, jika ada air kaldu tulang di kulkas bisa ditambahkan. Rasanya jauh lebih lezat menggunakan air kaldu tulang.
+
 ## Mulai memasak
 
-Cara membuat bubur nasi telur yang mudah dan praktis. Bahannya ramah di dapur dan mudah didapat. Hidangan cepat saji yang cocok dijadikan menu di pagi hari.
+Cara membuat bubur nasi telur yang enak ini sangat mudah dan praktis. Bahannya selalu ada dan mudah di dapatkan di dapur kita. Hidangan cepat saji yang cocok dijadikan menu di pagi hari ketika tak banyak waktu luang.
+
+Berikut simak resep bubur nasi telur yang sehat dan bergizi di bawah ini.
 
 {{< post-info prep="5 menit" cook="10 menit" total="15 menit" serving="3">}}
 

@@ -31,15 +31,19 @@ time: "50 menit"
 # serving
 serving: 4
 ---
-Burger ayam renyah merupakan salah satu makanan favorit orang Amerika. Burger ini memiliki kaya akan rasa yang renyah, segar, gurih dan amat sangat lezat. Sehingga rasanya juga cocok dengan lidah orang Indonesia.
+Burger ayam renyah merupakan salah satu makanan dari Amerika. Burger ini memiliki kaya akan rasa yang renyah, segar, gurih dan amat sangat lezat. Sehingga rasanya juga cocok dengan lidah orang Indonesia.
+
+Saya sangat suka burger ayam crispy ini, untuk roti burgernya saya suka pilih yang lembut. Campuran rasa daging, sayur , saus dan roti yang lembut membuat lidah saya ketagihan. Makanan cepat saji ini sangat simpel untuk di buat, maka dari itu saya berbagi resepnya. Lebih baik membuat burger sendiri dirumah rasanya lebih enak dan lebih hemat.
 
 ## Apa itu burger ayam renyah?
 
-Burger ayam renyah adalah olahan dari berbahan roti dan ayam. Ayam di marinasi lalu digoreng dengan tepung crispy. Disusun diatas roti burger bersama saus mayones dan sayuran.
+Burger ayam renyah adalah olahan dari berbahan roti dan ayam. Ayam di marinasi lalu digoreng dengan tepung crispy. Disusun diatas roti burger bersama saus mayones dan sayuran. Citarasa burger ayam crispy ini sangat lembut, segar dan gurih, mantap sudah! :D
 
 ## Mulai memasak
 
-Cara membuat burger ini tergolong mudah dan bahannya simple. Kamu bisa memilih toping sayuran seperti tomat, selada, jalapeno, bawang merah dll.
+Cara membuat burger ini tergolong mudah dan bahannya simple. Bisa menggunakan topping sayuran seperti tomat, selada, jalapeno, bawang merah dll. Semuanya bisa di pilih sesuai selera, atau mungkin tanpa sayur? ya, tentu saja bisa! kenapa tidak :D
+
+Berikut simak resepnya yang mudah dan simpel di bawah ini.
 
 {{< post-info prep="35 menit" cook="15 menit" total="50 menit" serving="4">}}
 
@@ -90,4 +94,3 @@ Cara membuat burger ini tergolong mudah dan bahannya simple. Kamu bisa memilih t
 {{< blockquote>}}
 Memarinasi ayam beberapa jam lebih lama sangat bagus. Bumbunya akan meresap sampai kedalam bagian daging ayam.
 {{< /blockquote>}}
-

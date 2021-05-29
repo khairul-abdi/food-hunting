@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep balado teri jengkol yang gurih dan pedas. Pelajari selengkapnya cara membuatnya disini."
+description: "Resep balado teri jengkol masakan rumahan yang gurih dan pedas. Pelajari selengkapnya cara membuatnya disini."
 
 # taxonomies
 categories:
@@ -18,7 +18,6 @@ tags:
   - "bebas-susu"
   - "keto"
   - "kuliner"
-  
 
 # post type
 type: "post"
@@ -34,13 +33,24 @@ serving: 4
 ---
 Balado teri jengkol masakan rumahan yang bikin lidah ketagihan. Aroma khas dari jengkol, teri dan bumbu balado ini sangat menggugah selera.
 
+Saya adalah pecinta jengkol, biasanya saya makan jengkol goreng terus dicocol dengan sambal. Kalo banyak waktu luang jengkolnya saya masak semur, enak sekali semur jengkol. Nah, kali ini saya akan masak balado teri jengkol, rasanya pedas gurih dan sangat lezat. Membuat nafsu makan bertambah dan keluarga menjadi bahagia karena makan enak :D
+
 ## Apa itu balado teri jengkol?
 
-Balado teri jengkol adalah khusus penggemar jengkol yang suka pedas. Jengkol diolah bersama teri dan bumbu balado. Sehingga menghasilkan warna merah dan rasa yang gurih pedas.
+Balado teri jengkol adalah khusus penggemar jengkol yang suka pedas. Jengkol diolah bersama teri dan dibumbui balado. Bumbunya adalah bawang merah, bawang putih, tomat, cabe rawit dan cabe merah. Sehingga menghasilkan warna merah dan rasa gurih dan pedas.
 
-## Mulai membuat
+## Tips menghilangkan bau dan rasa pahit pada jengkol
 
-Cara membuat jengkol teri balado yang gurih, sedap dan pedas. Masakan rumahan ini sangat cocok dinikmati setiap hari.
+- Sebelum dimasak bisa mengubur jengkol dalam tanah selama 1 minggu lamanya. Proses ini membantu mengurangi bau tak sedap pada jengkol & rasa pahit pada jengkol.
+- Sebelum memasak rendam jengkol dalam air dingin selama 3 hari dan setiap hari di ganti airnya. Hal ini membantu mengurangi bau tak sedap pada jengkol.
+- Ketika merebus jengkol hingga empuk masukan rempah-rempah, bubuk kopi/ air kapur sirih. Hal ini membantu menyamarkan atau mengurangi bau tak sedap pada jengkol.
+- Ketika ingin memasak jengkol, jangan lupa untuk menggeprek jengkol bentuk pipih. Proses ini membantu agar bumbu merasuk ke daging jengkol & rasa pahit jengkol berkurang.
+
+## Mulai memasak
+
+Cara membuat jengkol teri balado yang gurih, sedap dan pedas ini sangat mudah. Hanya saja jika tidak mengerti proses pemasakan nya, jengkol akan terasa pahit. Tapi jika mengikuti resep saya jengkolnya jadi enak dan kenyal.
+
+Sebelum memasak jangan lupa ikuti salah satu tipsnya ya agar olahan jengkolnya lezat. Masakan rumahan balado teri jengkol ini sangat cocok dinikmati setiap hari. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="55 menit" total="1 jam 15 menit" serving="4">}}
 
@@ -73,11 +83,6 @@ Cara membuat jengkol teri balado yang gurih, sedap dan pedas. Masakan rumahan in
 - Siapkan cobek, uleg kasar bumbu balado.
 - Tumis bumbu balado dan serai hingga harum dengan sisa minyak menggoreng teri.
 - Masukan jengkol, gula, garam dan kaldu jamur. Masak hingga bumbu meresap dan kering dengan api kecil.
-- Masukan teri, tes rasa angkat.
-- Hidangkan balado jengkol teri selagi hangat.
+- Masukan teri, tes rasa angkat. Pastikan bumbu benar-benar kering ketika memasukan teri agar teri selalu renyah. 
+- Hidangkan balado jengkol teri yang gurih dan pedas ini selagi hangat.
 {{< /steps>}}
-
-{{< blockquote>}}
-Pastikan bumbu benar-benar kering ketika memasukan teri agar teri selalu renyah. Bubuk kopi berguna untuk mengurangi bau tak sedap pada jengkol.
-{{< /blockquote>}}
-

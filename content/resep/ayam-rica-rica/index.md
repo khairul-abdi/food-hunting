@@ -32,13 +32,15 @@ serving: 8
 ---
 Ayam rica-rica merupakan salah satu masakan rumahan favorit orang Indonesia. Rasanya yang gurih dan pedas dengan dibumbui berbagai aneka rempah sangat menggugah selera.
 
+Saya sangat suka ayam rica-rica ini karena saya juga pecinta makanan pedas. Tak hanya rasanya yang pedas saya juga suka bau yang wangi dari aroma rempah dan kemangi. Hmm... langsung lapar ini perut gak sabar ingin menyantap hidangan yang sedap dan pedas ini. Untungnya keluarga saya juga suka makanan pedas, jadi cocok sudah :D
+
 ## Apa itu ayam rica-rica?
 
 Ayam rica-rica merupakan makanan khas Manado Sulawesi Utara. Kata "rica" dari bahasa Manado artinya cabai atau pedas. Olahan ayam rica ini berbahan dasar dari ayam dan dibumbui dengan aneka rempah. Citarasa khas dari ayam rica-rica ini asin, gurih wangi rempah dan cenderung pedas.
 
 ## Mulai memasak
 
-Cara membuat ayam rica-rica ini tidaklah sulit. Bumbunya juga bisa di blender kasar sehingga jadi lebih mudah. Mari simak resepnya di bawah ini.
+Cara membuat ayam rica-rica ini tergolong gampang dan tidaklah sulit. Bumbunya juga bisa di blender kasar sehingga mempermudah proses memasak. Mari simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="40 menit" total="1 jam" serving="8">}}
 
@@ -77,7 +79,7 @@ Cara membuat ayam rica-rica ini tidaklah sulit. Bumbunya juga bisa di blender ka
 -   Masih dengan wajan sama, kurangi minyaknya. Tumis bumbu ulek kasar, serai, jahe, laos, daun jeruk dan salam hingga harum.
 -   Masukan ayam dan daun bawang aduk rata. Tambahkan air, masak hingga ayam empuk dan air menyusut. Tambahkan air lagi jika ayam belum empuk.
 -   Tambahkan kemangi, aduk rata, tes rasa, angkat.
--   Hidangkan ayam rica-rica selagi hangat.
+-   Hidangkan ayam rica-rica yang lezat ini selagi hangat.
 {{< /steps>}}
 
 {{< blockquote>}}
