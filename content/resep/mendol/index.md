@@ -1,5 +1,5 @@
 ---
-title: "Mendol Tempe"
+title: "Mendol"
 date: 2021-05-30T06:14:11+02:00
 draft: false
 
