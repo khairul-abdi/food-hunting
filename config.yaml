@@ -22,6 +22,7 @@ params:
   ads: true
   propellarAdLink: //ugroocuw.net/4/4246805
   logo: images/logo.png
+  themeColor: '#19a974'
 
 menu:
   main:

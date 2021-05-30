@@ -94,7 +94,7 @@ Berikut simak resep selengkapnya di bawah ini.
 -   Pindahkan daging yang sudah digiling kedalam wadah.
 -   Masukan ampela ke dalam blender dan tambahkan sedikit air, blender kasar.
 -   Masukan ampela ke dalam wadah tadi, tambahkan tepung tapioka dan baking powder.
--   Uleni adonan dengan spatula atau tangan (yang bersih) hingga tercampur rata.
+-   Uleni adonan dengan spatula atau tangan (yang bersih) hingga tercampur rata. Tes rasa.
 -   Siapkan panci besar, masukan 2 liter air, rebus hingga mendidih, matikan api.
 -   Bentuk bulat adonan pentol dengan sendok lalu masukan ke dalam air panas.
 -   Ulangi membentuk bulatan pentol sampai adonan habis.
