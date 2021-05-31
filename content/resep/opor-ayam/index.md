@@ -25,7 +25,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "1 jam 30 menit"
+time: "90 menit"
 
 # serving
 serving: 8
@@ -40,7 +40,7 @@ Opor ayam adalah masakan khas Indonesia dari Jawa Tengah. Opor ayam terbuat dari
 
 Cara membuat opor ayam ini membutuhkan ketelatenan. Hasil dari memasak opor ayam ayam ini sangat lezat. Berikut simak resepnya dibawah ini.
 
-{{< post-info prep="30 menit" cook="60 menit" total="1 jam 30 menit" serving="8">}}
+{{< post-info prep="30 menit" cook="60 menit" total="90 menit" serving="8">}}
 
 ### Bahan
 

@@ -71,7 +71,7 @@ Cara membuat ayam rica-rica ini tergolong gampang dan tidaklah sulit. Bumbunya j
 -   1 sdt garam
 {{< /post-info>}}
 
-{{< steps>}}
+{{< steps title="Cara membuat">}}
 -   Cuci bersih ayam lumuri dengan perasan air jeruk, diamkan 10 menit. Bilas hingga bersih.
 -   Siangi daun kemangi cuci bersih, sisihkan.
 -   Panaskan wajan masukan minyak. Goreng ayam hingga berubah warna kecoklatan. Angkat, tiriskan.

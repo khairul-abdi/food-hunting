@@ -25,7 +25,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "1 jam 20 menit"
+time: "80 menit"
 
 # serving
 serving: 8
@@ -40,7 +40,7 @@ Pangsit rebus ayam udang adalah makanan berbahan daging cincang. Daging dicampur
 
 Cara membuat pangsit rebus ini tergolong mudah dan praktis. Bahannya simple juga mudah di dapatkan di pasar atau order online.
 
-{{< post-info prep="30 menit" cook="50 menit" total="1 jam 20 menit" serving="8">}}
+{{< post-info prep="30 menit" cook="50 menit" total="80 menit" serving="8">}}
 
 ### Bahan
 

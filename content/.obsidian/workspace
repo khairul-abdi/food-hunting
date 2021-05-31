@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/bakso-urat-ati-ampela/index.md",
+            "file": "resep/bakso-urat/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/bakso-urat-ati-ampela/index.md",
+                "file": "resep/bakso-urat/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/bakso-urat/index.md",
+    "resep/opor-ayam/index.md",
+    "resep/pangsit-rebus-udang-ayam/index.md",
     "resep/pentol-bakso-ayam/index.md",
     "resep/pentol-bakso-sapi-halus/index.md",
-    "resep/cah-kangkung/index.md",
-    "resep/es-buah/index.md",
-    "resep/es-buah/banner.png",
-    "resep/mendol-tempe/index.md",
-    "resep/manisan-stroberi/index.md",
-    "resep/sup-udang-tahu-santan/index.md",
-    "resep/es-jeruk-nipis/index.md"
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/ayam-popcorn/index.md",
+    "resep/ayam-rica-rica/index.md",
+    "resep/badeng-bakar-cabut-duri/index.md",
+    "resep/tempe-mendoan/index.md"
   ]
 }

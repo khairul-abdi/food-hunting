@@ -26,7 +26,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "1 jam 30 menit"
+time: "90 menit"
 
 # serving
 serving: 12-16
@@ -59,7 +59,7 @@ Cara membuat pentol bakso ini tergolong susah-susah gampang. Membutuhkan keteram
 
 Berikut simak resep membuat pentol bakso sapi halus selengkapnya di bawah ini.
 
-{{< post-info prep="1 jam" cook="30 menit" total="1 jam 30 menit" serving="12-16">}}
+{{< post-info prep="1 jam" cook="30 menit" total="90 menit" serving="12-16">}}
 
 ### Bahan
 

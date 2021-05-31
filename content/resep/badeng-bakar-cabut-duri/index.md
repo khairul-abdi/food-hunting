@@ -82,7 +82,7 @@ Bandeng bakar cabut duri juga sangat hemat dibuat sendiri di rumah. Tinggal beli
 -   2 buah jeruk limau
 {{< /post-info>}}
 
-{{< steps>}}
+{{< steps title="Cara membuat">}}
 -   Cuci bersih ikan bandeng, lumuri dengan air jeruk nipis diamkan 5 menit. bilas hingga bersih tiriskan.
 -   Blender semua bumbu halus, tambahkan kecap manis aduk rata, tes rasa.
 -   Dalam wadah masukan ikan bandeng dan bumbu halus. Campur ikan bandeng dengan bumbu halus hingga merata. Diamkan selama 15 menit.
