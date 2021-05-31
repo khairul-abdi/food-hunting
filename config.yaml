@@ -20,6 +20,7 @@ params:
   twitter_site: '@neztraa'
   googleAnalytics: G-P0WW95WJ14
   ads: false
+  pwa: false
   propellarAdLink: //ugroocuw.net/4/4246805
   logo: images/logo.png
   themeColor: '#19a974'
