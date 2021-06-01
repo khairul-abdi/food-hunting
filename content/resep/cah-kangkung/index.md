@@ -31,7 +31,9 @@ time: "15 menit"
 # serving
 serving: 2
 ---
-Menu hidangan cah kangkung ala diet keto yang sehat dan bergizi. Cah kangkung adalah salah satu menu favorit orang Indonesia.
+Menu hidangan cah kangkung ala diet keto yang sehat dan bergizi. Masakan rumahan ini adalah salah satu menu favorit orang Indonesia.
+
+Ada beberapa jenis sayuran kangkung, ada kangkung tanah dan kangkung rambat. Kangkung tanah tumbuh di tanah dan biasanya ditanam oleh petani. Kangkung rambat tumbuhnya merambat, biasanya tumbuh di tanah juga tumbuh di sungai. Waktu masih kecil, saya suka mencari kangkung rambat di sungai, dekat dengan rumah.
 
 ## Apa itu cah kangkung?
 
@@ -48,9 +50,9 @@ Cah kangkung adalah olahan berbahan dari sayur kangkung. Kangkung diolah dibumbu
 - Mencegah diabetes
 
 ## Mulai Memasak
-Cara membuat cah kangkung ini begitu simple dan praktis. Bahannya juga minim dan ramah di kantong :D
+Cara membuat cah kangkung ini begitu simple dan praktis. Bahannya juga minim dan ramah di kantong. Memasak sayur kangkung juga cepat, jangan terlalu lama agar nutrisinya tidak hilang.
 
-Berikut simak resep cah kangkung di bawah ini.
+Berikut simak resep cah kangkung selengkapnya di bawah ini.
 
 {{< post-info prep="10 menit" cook="5 menit" total="15 menit" serving="2">}}
 
@@ -70,16 +72,14 @@ Berikut simak resep cah kangkung di bawah ini.
 {{< steps title="Cara membuat">}}
 - Siangi kangkung, potong-potong, belah batangnya, cuci bersih.
 - Panaskan wajan, masukan minyak zaitun.
-- Masukan bawang putih, bawang merah dan cabe rawit. tumis hingga harum.
+- Masukan bawang putih, bawang merah dan cabe rawit. tumis bumbu hingga harum.
 - Masukan kangkung dan air. Aduk-aduk masak dengan api besar hingga layu.
 - Kecilkan api masukan gula, kaldu jamur dan garam. Masak dengan api sedang hingga matang, angkat.
 - Hidangkan cah kangkung ketika masih hangat.
 {{< /steps>}}
 
 {{< blockquote>}}
-Memasak cah kangkung tidak lebih dari 3 menit.
+Jangan memasak cah kangkung lebih dari 3 menit.
 {{< /blockquote>}}
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah melon.
-
-

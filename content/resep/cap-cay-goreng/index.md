@@ -26,16 +26,22 @@ type: "post"
 recipe: true
 
 # prep time
-time: "25"
+time: "25 menit"
 
 # serving
 serving: 4
 ---
 Capcay goreng hidangan gurih pendamping yang sangat disukai masyarakat Indonesia. Masakan rumahan ini sangat simple, lezat ,bergizi dan kaya akan nutrisi.
 
+Ada beberapa jenis cap cay, ada cap cay kuah dan ada cap cay kering. Bumbu untuk membuat kedua jenis cap cay ini sama saja, hanya beda di airnya. Rasanya juga sama hanya saja, cap cay basah prosinya lebih banyak karena ada kuahnya. 
+
+Capcay yang saya buat ini adalah cap cay kering. Jika ingin membuat capcay kuah, cukup tambahkan air dan penyedap rasa.
+
 ## Apa itu capcay?
 
-Capcay merupakan masakan peranakan dari berbagai macam jenis sayuran. Dalam bahasa Hokkian, capcay artinya aneka ragam berbagai sayuran. Aneka sayuran dimasak dicampur menjadi satu bersama bumbu dan ditambahkan pentol. Sehingga menghasilkan rasa segar gurih dan sangat lezat.
+Capcay merupakan masakan peranakan dari berbagai macam jenis sayuran. Dalam bahasa Hokkian, capcay artinya aneka ragam berbagai sayuran. Aneka sayuran dimasak dicampur menjadi satu bersama bumbu dan ditambahkan pentol. bumbunya yakni bawang putih, bawang bombay, lada, saus tiram dan minyak wijen.
+
+Cap cay kuah atau cap cay kering ini banyak sekali kreasinya. Bisa menggunakan sayur apa saja dan menambahkan potongan daging apa saja. Sehingga olahan ini menghasilkan rasa segar gurih dan sangat lezat. Olahan ini sangat disukai semau kalangan.
 
 ## Mulai memasak
 

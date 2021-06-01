@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/bakso-urat/index.md",
+            "file": "resep/pecel-sayur/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/bakso-urat/index.md",
+                "file": "resep/pecel-sayur/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/bakso-urat/index.md",
-    "resep/opor-ayam/index.md",
+    "resep/pecel-sayur/index.md",
+    "resep/cap-cay-goreng/index.md",
+    "resep/cah-kangkung/index.md",
+    "resep/sambal-hijau/index.md",
+    "resep/tumis-tahu-kecap/index.md",
+    "resep/tumis-sayur-warna-warni/index.md",
+    "resep/tumis-tahu-kecap/banner.png",
+    "resep/kuah-bakso/index.md",
     "resep/pangsit-rebus-udang-ayam/index.md",
-    "resep/pentol-bakso-ayam/index.md",
-    "resep/pentol-bakso-sapi-halus/index.md",
-    "resep/bakso-urat-ati-ampela/index.md",
-    "resep/ayam-popcorn/index.md",
-    "resep/ayam-rica-rica/index.md",
-    "resep/badeng-bakar-cabut-duri/index.md",
-    "resep/tempe-mendoan/index.md"
+    "resep/pecel-sayur/banner.png"
   ]
 }

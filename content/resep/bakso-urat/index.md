@@ -49,7 +49,7 @@ Untuk menggiling bakso urat ini gunakan blender daging yang besar. Jika hanya ad
 
 ### Bahan
 
--   500 gr sengkel kembang
+-   500 gr urat sengkel
 -   50 gr tepung tapioka
 -   1 btr telur
 -   1/2 sdt baking powder
@@ -90,5 +90,9 @@ Untuk menggiling bakso urat ini gunakan blender daging yang besar. Jika hanya ad
 -   Didihkan lagi sisa air membentuk bulatan bakso tadi, tambahkan bumbu kuah. Masak hingga bumbu matang dan kuah harum, masukan pentol masak hingga pentol matang. Tes rasa, angkat.
 - Hidangkan bakso urat bersama saus, sambal, seledri dan bawang goreng selagi hangat.
 {{< /steps>}}
+
+{{< blockquote>}}
+Gunakan daging sengkel kembang, urat sengkel atau tetelan untuk membuat bakso urat.
+{{< /blockquote>}}
 
 Hasil pentol bakso urat yang di bentuk bulat ukuran sedang sekitar 45-50. Untuk hasil pentol bakso urat ukuran kecil berlaku kelipatannya.
