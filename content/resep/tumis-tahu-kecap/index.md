@@ -76,4 +76,4 @@ Berikut simak resep selengkapnya cara membuat tumis tahu kecap di bawah ini.
 -   Masukan bumbu iris dan daun jeruk, aduk-aduk, tumis hingga harum.
 -   Masukan tahu, kecap manis, kaldu jamur, garam, lada bubuk dan air. Aduk rata, masak sampai air menyusut, tes rasa, angkat.
 -   Hidangkan tumis tahu kecap yang lezat selagi hangat.
--   {{< /steps>}}
+{{< /steps>}}

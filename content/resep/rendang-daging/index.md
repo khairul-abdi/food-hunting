@@ -81,7 +81,7 @@ Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. 
 - Masukan santan dan kaldu sapi. Aduk-aduk masak sampai mendidih dan kuah menyusut. Kecilkan api.
 - Masukan garam, gula dan kaldu jamur. Tes rasa, angkat.
 - Hidangkan daging rendang ketika masih hangat.
-{{< /post-info>}}
+{{< /steps>}}
 
 {{< blockquote>}}
 Jika menggunakan daging biasa, tambahkan air masak hingga daging empuk.

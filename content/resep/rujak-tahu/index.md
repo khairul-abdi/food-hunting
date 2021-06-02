@@ -70,7 +70,7 @@ Cara membuat rujak tahu ini tergolong mudah dan cepat. Bahanya mudah didapatkan 
 -   Jika semua sudah di ulek rata, tambahkan asam jawa dan air, tes rasa.
 -   Potong-tahu, masukan tahu dan timun kedalam bumbu rujak. Aduk-aduk hingga tercampur rata.
 -   Rujak tahu yang pedas dan lezat siap untuk dinikmati.
-{{< /post-info>}}
+{{< /steps>}}
 
 {{< blockquote>}}
 Tambahkan kacang tanah goreng jika ingin rasa yang lebih gurih. Kurangi cabe rawit jika tidak suka rasa yang terlalu pedas.

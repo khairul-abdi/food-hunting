@@ -78,7 +78,7 @@ Cara membuat rujak mangga muda ini tergolong mudah. Bahannya minim dan ramah di 
 - Haluskan bumbu rujak dalam cobek, tambahkan  air, tes rasa.
 - Sandingkan mangga muda dengan bumbu rujak dalam cobek.
 - Rujak mangga muda yang asin,asam manis gurih siap untuk dinikmati.
-{{< /post-info>}}
+{{< /steps>}}
 
 {{< blockquote>}}
 Bisa menambahkan buah timun, nanas, bengkoang, jambu, jambu, jambu air dll.
