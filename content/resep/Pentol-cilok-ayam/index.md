@@ -47,8 +47,8 @@ Cara membuat pentol cilok ayam ini tergolong mudah. Hanya saja untuk membentuk b
 ### Bahan
 
 -   400 gr dada ayam fillet tanpa kulit
--   350 gr tepung tapioka
--   350 gr tepung terigu
+-   500 gr tepung tapioka
+-   100 gr tepung terigu
 -   Air panas secukupnya untuk menguleni
 -   Air secukupnya untuk merebus
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/rujak-manis/index.md",
+            "file": "resep/ampela-kecap-bumbu-iris/index.md",
             "mode": "source"
           }
         }
@@ -39,17 +39,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rujak ",
-                "matchingCase": false,
+                "query": "pentol cilok ayam",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/rujak-manis/index.md",
+                "file": "resep/ampela-kecap-bumbu-iris/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
+    "resep/ampela-kecap-bumbu-iris/index.md",
+    "resep/sosis-bakar-teflon/index.md",
+    "resep/sosis-bakar-teflon/banner.png",
+    "resep/ampela-kecap-bumbu-iris/banner.png",
+    "resep/ampela-goreng-ungkep/index.md",
+    "resep/sup-ikan-dori/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/Pentol-cilok-ayam/index.md",
     "resep/rujak-manis/index.md",
-    "resep/tahu-crispy/index.md",
-    "resep/tahu-crispy/banner.png",
-    "resep/rujak-manis/banner.png",
-    "resep/rawon/index.md",
-    "resep/rempah-singkong/index.md",
-    "resep/rempeyek-kacang/index.md",
-    "resep/rendang-daging/index.md",
-    "resep/salad-ayam-sayur/index.md",
-    "resep/salad-alpukat-sayur/index.md"
+    "resep/tahu-crispy/index.md"
   ]
 }

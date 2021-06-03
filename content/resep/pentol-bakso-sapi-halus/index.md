@@ -47,7 +47,7 @@ Penyajian pentol bakso sapi halus pada umumnya disajikan bersama kuah. Ditambahk
 ## Tips membuat pentol bakso sapi halus
 
 - Giling daging sapi hingga benar-benar halus merata agar hasil pentol halus sempurna.
-- Gunakan 100 gr tepung tapioka untuk 1 kg daging sapi jika ingin rasa pentol yang kress.
+- Gunakan 100 gr tepung tapioka/sagu untuk 1 kg daging sapi jika ingin rasa pentol yang kress.
 - Gunakan murni putih telur jika tersedia, jika tidak gunakan butiran telur.
 - Jangan memasukan bulatan pentol dalam air mendidih karena resiko gagalnya tinggi.
 - Menggunakan tepung sagu membuat warna pentol lebih gelap. Menggunakan tepung tapioka membuat warna pentol lebih terang dan pucat. Soal rasa tepung sagu dan tepung tapioka sama-sama kenyal, terbaik untuk membuat bakso.
@@ -66,7 +66,7 @@ Berikut simak resep membuat pentol bakso sapi halus selengkapnya di bawah ini.
 -   1 kg daging sapi murni tanpa serat dan tanpa lemak
 -   200 gr tepung tapioka
 -   500 gr es batu (secukupnya)
--   Putih telur
+-   2 butir telur
 -   1 sdt baking powder
 -   Secukupnya air untuk merebus
 -   Secukupnya air es untuk merendam
