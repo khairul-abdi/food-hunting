@@ -74,7 +74,7 @@ Berikut simak resep membuat pentol bakso sapi halus selengkapnya di bawah ini.
 ### Bumbu
 
 -   8 siung bawang putih
--   4 sdm bawang goreng
+-   4 sdm bawang merah goreng
 -   4 sdt lada bubuk
 -   2 sdm kaldu jamur
 -   1 sdm garam (sesuai selera)
@@ -93,3 +93,5 @@ Berikut simak resep membuat pentol bakso sapi halus selengkapnya di bawah ini.
 {{< /steps>}}
 
 Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan disandingkan es teh, es jeruk, es coklat atau es susu menurut saya semuanya cocok :D
+
+Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)

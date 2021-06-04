@@ -65,6 +65,7 @@ Berikut simak resep proses pembuatan pentol bakso ayam anti gagal di bawah ini.
 ### Bumbu
 
 -   4 siung bawang putih
+-   1 sdm bawang merah goreng
 -   2 sdt lada bubuk
 -   3 sdt kaldu jamur
 -   1 sdt garam
@@ -88,3 +89,5 @@ Jangan merebus pentol waktu di bentuk bulat agar bulatan pentol tidak rusak.
 {{< /blockquote>}}
 
 Hasil pentol yang di bentuk bulat ukuran sedang menghasilkan 40-45 buah pentol. Hasil pentol yang dibentuk bulatan kecil menghasilkan 80-90 buah pentol.
+
+Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)

@@ -33,7 +33,7 @@ time: "20 menit"
 # serving
 serving: 4
 ---
-Tumis zucchini masakan rumahan yang sehat dan bergizi. Zucchini atau disebut juga timun jepang ini makanan sangat lezat dan lembut di mulut.
+Tumis zucchini masakan rumahan yang sehat dan bergizi. Zucchini atau disebut juga timun jepang ini, makanan sangat lezat dan lembut di mulut.
 
 ## Apa itu tumis zucchini?
 

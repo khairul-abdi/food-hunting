@@ -80,3 +80,5 @@ Pentol cilok ayam yang disimpan dalam freezer bisa bertahan sekitar 2-3 bulan.
 {{< /blockquote>}}
 -   Daging bisa digiling menggunakan blender, food processor atau mesin penggilingan lainnya.
 -   Hasil pentol cilok ayam  antara 150-170 butir, tergantung besar kecilnya bulatan.
+
+Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)

@@ -44,7 +44,7 @@ Sosis bakar biasanya disandingkan dengan saus sambal atau mayones. Semua selera 
 ## Tips membuat sosis bakar teflon
 
 -   Gunakan api kecil ketika membakar sosis yang sudah diolesi bumbu saus bakar. Agar sosis matang dengan sempurna dan menjaga sosis tidak berwarna hitam/gosong.
--   Bersihkan teflon dengan tisu ketika sudah selesai membakar sosis. Hal ini membantu membersihkan sisa saus bakar yang menempel di telfon. Sehingga ketika memasukan sosis yang baru, sosisnya tidak kelihatan hitam gosong.
+-   Bersihkan teflon dengan tisu ketika sudah selesai membakar sosis. Hal ini membantu membersihkan sisa saus bakar yang menempel di telfon. Sehingga ketika memasukan sosis yang baru, sosisnya tidak kelihatan hitam/gosong.
 -   Jangan menambahkan garam atau penyedap rasa lainnya. Cukup gunakan yang ada di resep saja karena rasa sosis sudah sedikit asin dan gurih. Jika ditambahkan penyedap rasa nanti sosisnya jadi keasinan dan tidak enak untuk dimakan.
 
 ## Mulai memasak
@@ -64,6 +64,7 @@ Di resep ini saya menggunakan sosis ukuran sedang bukan yang besar. Jika ingin m
 ### Saus bakar
 
 -   1 sdm kecap manis
+-   1 sdt madu
 -   1/2 sdm saus tiram
 -   1/2 sdt kecap asin
 -   1/2 sdt minyak wijen

@@ -73,4 +73,6 @@ Cara membuat pentol mercon ini tergolong mudah dan tidak memakan waktu yang lama
 Bisa menambahkan cabe keriting atau cabe merah agar warna pentol lebih merah.
 {{< /blockquote>}}
 
+Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini -->[pentolbakso](/categories/masak-pentol/)
+
 

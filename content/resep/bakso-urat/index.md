@@ -59,7 +59,7 @@ Untuk menggiling bakso urat ini gunakan blender daging yang besar. Jika hanya ad
 ### Bumbu bakso
 
 -   4 siung bawang putih
--   2 sdm bawang goreng
+-   2 sdm bawang merah goreng
 -   3 sdt kaldu jamur
 -   2 sdt garam
 -   2 sdt lada bubuk
@@ -96,3 +96,5 @@ Gunakan daging sengkel kembang, urat sengkel atau tetelan untuk membuat bakso ur
 {{< /blockquote>}}
 
 Hasil pentol bakso urat yang di bentuk bulat ukuran sedang sekitar 45-50. Untuk hasil pentol bakso urat ukuran kecil berlaku kelipatannya.
+
+Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)

@@ -74,7 +74,6 @@ Cara membuat rawon diet keto menggunakan daging sandung lamur. Jika ada lemak ya
 - 1 siung bawang putih
 - Sejumput garam
 - Tauge pendek
-
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}

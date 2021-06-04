@@ -105,3 +105,5 @@ Berikut simak resep selengkapnya di bawah ini.
 {{< /steps>}}
 
 Hasil dari pembuatan pentol ini sekitar 90-100 butir pentol ukuran sedang. Untuk bulatan pentol ukuran kecil menghasilkan kelipatannya.
+
+Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)

@@ -45,7 +45,7 @@ Ampela kecap bumbu iris adalah olahan berbahan dari ampela ayam. Ampela direbus 
 -   Menyehatkan pencernaan dan otak
 -   Mencegah lelah
 
-Meskipun ampela ayam banyak manfaatnya, tetap jangan memakan ampela ayam berlebihan ya... Apalagi untuk penderita kolesterol tinggi, jangan terlalu banyak konsumsi ampela ayam. Agar kolesterolnya tidak kumat dan bertambah parah.
+Meskipun ampela ayam banyak manfaatnya, tetapi jangan memakan ampela ayam berlebihan ya... Apalagi untuk penderita kolesterol tinggi, jangan terlalu banyak konsumsi ampela ayam. Agar kolesterolnya tidak kumat dan bertambah parah.
 
 ## Tips memasak ampela kecap bumbu iris
 

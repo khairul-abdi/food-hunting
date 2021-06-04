@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/ampela-kecap-bumbu-iris/index.md",
+            "file": "resep/Pentol-cilok-ayam/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/ampela-kecap-bumbu-iris/index.md",
+                "file": "resep/Pentol-cilok-ayam/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/ampela-kecap-bumbu-iris/index.md",
-    "resep/sosis-bakar-teflon/index.md",
-    "resep/sosis-bakar-teflon/banner.png",
-    "resep/ampela-kecap-bumbu-iris/banner.png",
-    "resep/ampela-goreng-ungkep/index.md",
-    "resep/sup-ikan-dori/index.md",
-    "resep/pentol-bakso-sapi-halus/index.md",
     "resep/Pentol-cilok-ayam/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/pentol-bakso-ayam/index.md",
+    "resep/pentol-bakso-ayam/banner.png",
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/bakso-urat/index.md",
+    "resep/sosis-bakar-teflon/index.md",
+    "resep/tumis-zucchini/index.md",
     "resep/rujak-manis/index.md",
-    "resep/tahu-crispy/index.md"
+    "resep/ampela-kecap-bumbu-iris/index.md"
   ]
 }
