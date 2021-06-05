@@ -36,11 +36,17 @@ Udang goreng gurih merupakan salah satu masakan kreasi udang. Masakan rumahan in
 
 ## Apa itu udang goreng gurih?
 
+{{< img src="udang.png" alt="Udang" >}}
+
 Udang goreng gurih adalah olahan yang berbahan dasar udang. Udang dibumbui, digoreng dimasak dengan bawang bombay dan bawang putih. Cita rasa udang goreng gurih ini asin gurih sangat menggugah selera.
 
 ## Mulai memasak
 
-Cara membuat udang goreng gurih yang mudah dan simpel. Menu hidangan ini sangat sehat dan bergizi.
+{{< img src="udang-merah.png" alt="Udang" >}}
+
+Cara membuat udang goreng gurih yang mudah dan simpel. Menu hidangan ini sangat sehat dan bergizi. Rekomen untuk menjadi lauk pendamping nasi dan dikonsumsi sehari-hari.
+
+Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="3">}}
 

@@ -1,4 +1,3 @@
-
 ---
 title: "Pentol Cilok Ayam"
 date: 2021-05-22T06:24:03+02:00
@@ -36,9 +35,13 @@ Pentol cilok ayam masakan rumahan yang gurih dan lezat. Pentol cilok ini saya bu
 
 ## Apa itu pentol cilok ayam?
 
+{{< img src="hasil-pentol-cilok-ayam.png" alt="Hasil Pentol Cilok Ayam" >}}
+
 Pentol cilok ayam adalah olahan dari berbahan dasar ayam dan tepung. Olahan ini menggunakan tepung tapioka dan tepung terigu. Ayam digiling bersama bumbu lalu dicampur dengan tepung. Di bentuk adonan bulat dengan sendok lalu dimasukan panci air panas.
 
 ## Mulai memasak
+
+{{< img src="pentol-cilok-ayam-direndam-air-dingin.png" alt="Pentol Cilok Ayam Yang di Rendam Air Dingin" >}}
 
 Cara membuat pentol cilok ayam ini tergolong mudah. Hanya saja untuk membentuk bulatan cilok membutuhkan keterampilan. Membentuk bulatan pentol ciloknya sama seperti dengan membuat pentol bakso.
 

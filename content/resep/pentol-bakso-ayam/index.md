@@ -40,11 +40,15 @@ Hasil pentol bakso ayam ini menyenangkan karena murmer, padat dan kenyal. Waktu 
 
 ## Apa itu pentol bakso ayam?
 
+{{< img src="hasil-membentuk-bulatan-pentol.png" alt="Bulatan Pentol Bakso Ayam Dalam Panci Air Panas" >}}
+
 Pentol bakso ayam adalah sejenis jajanan yang bisa di temukan di Indonesia. Terbuat dari dada ayam fillet yang digiling ditambahkan bumbu, tepung, telur dan pengenyal. Bumbunya yakni bawang putih, bawang goreng, lada dan penyedap rasa. Cita rasa pentol bakso ayam ini kenyal, asin dan gurih.
 
 Pentol banyak dijumpai terutama di Jawa Timur dan Jawa Tengah Indonesia. Membuat pentol ini simpel, resepnya ditulis sedetail mungkin agar mudah untuk di mengerti. Pentol ayam ini yang terbuat dari daging ayam ini berwarna pucat. Jika ingin pentol yang berwarna merah bisa menambahkan ati ayam ketika menggiling adonannya.
 
 ## Mulai membuat
+
+{{< img src="hasil-pentol-setelah-disiram-air-es.png" alt="Pentol Bakso Ayam Setelah di Siram Air Es" >}}
 
 Cara membuat pentol bakso ayam yang padat dan kenyal. Bahannya simple dan ramah dikantong. Hanya saja memerlukan keterampilan tangan dan sendok untuk membuat bulatan pentol. Tapi tidak usah khawatir, jika sering membentuk bulatan pentol lama-lama tangan semakin lihai :D
 

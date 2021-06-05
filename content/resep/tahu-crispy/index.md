@@ -38,6 +38,8 @@ Tahu putih yang di goreng kering dengan tepung ini cemilan sempurna buat saya. S
 
 ## Apa itu tahu crispy?
 
+{{< img src="tahu-crispy.png" alt="Hasil Tahu Crispy" >}}
+
 Tahu crispy adalah olahan varian dari tahu yang di goreng tepung. Tahu putih dipotong bentuk dadu kecil, digoreng dalam minyak panas yang banyak. Disiram dengan adonan tepung dalam minyak panas ketika menggoreng. Sehingga menghasilkan rasa kriuk, gurih, renyah yang menggugah selera.
 
 ## Mulai memasak

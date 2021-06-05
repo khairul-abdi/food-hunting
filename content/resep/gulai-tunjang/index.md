@@ -30,15 +30,17 @@ time: "1 jam 30 menit"
 # serving
 serving: 5
 ---
-Masakan gulai tunjang biasa kita jumpai di rumah makan Padang. Rasanya sangat gurih dan kenyal sangat menggoda selera.
+Masakan gulai tunjang biasa kita jumpai di rumah makan Padang. Rasanya sangat gurih dan kenyal sangat menggoda selera. Masakan rumahan ini lebih ramah di kantong jika kita membuatnya sendiri dirumah :D
+
+Memasak gulai tunjang di rumah adalah ide yang bagus. Selain kita bisa memasaknya sendiri sesuai dengan selera kita. Tapi kita juga bisa berbagi dengan semua keluarga yang ada dirumah.
 
 ## Apa itu gulai tunjang?
 
-Gulai tunjang adalah jenis makanan berkuah yang lezat. Lauk ini terbuat dari kaki/kikil sapi yang dimasak dengan bumbu gulai.
+Gulai tunjang adalah jenis makanan berkuah santan berwarna kuning yang lezat. Olahan ini terbuat dari kaki/kikil sapi yang dimasak dengan bumbu gulai. Bumbunya yakni aneka rempah, bawang merah, bawang putih, cabe merah dan penyedap rasa. Cita rasa gulai tunjang ini asin, beraroma harum dan gurih.
 
 ## Mulai memasak
 
-Cara membuat gulai tunjang ini membutuhkan ketelatenan. Tapi hasilnya sangat enak dan maximal.
+Cara membuat gulai tunjang ini membutuhkan ketelatenan dan kesabaran. Tapi hasilnya sangat enak dan maximal. Kuahnya yang gurih dan rasa kikill sapinya yang kenyal. Terasa sangat special, sangat layak menjadi lauk pendamping nasi maupun lontong.
 
 {{< post-info prep="30 menit" cook="60 menit" total="1 jam 30 menit" serving="5">}}
 

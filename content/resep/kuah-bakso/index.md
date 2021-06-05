@@ -38,15 +38,21 @@ Pecinta kuliner bakso pasti tak hanya ingin menikmati pentol baksonya yang enak.
 
 ## Apa itu kuah bakso?
 
+{{< img src="kaldu-kuah-bakso.png" alt="Hasil Kaldu Kuah Bakso" >}}
+
 Kuah bakso adalah olahan kuah berbahan dasar dari tulang sapi dan air. Tulang sapi dimasak dengan air dan bumbu hingga mengeluarkan kaldu. Bumbu tersebut antara lain bawang putih, kemiri, lada, kaldu jamur, pala, ketumbar dan garam.
 
 ## Tips membuat kuah bakso
+
+{{< img src="daging-beserta-tulangnya.png" alt="Daging Sapi Beserta Tulangnya" >}}
 
 -   Merebus kuah kaldu dengan api kecil sangat dianjurkan. Proses ini untuk mendapatkan hasil kaldu kaldu yang enak dan maximal.
 -   Membuat kuah bakso membutuhkan tulang betis, iga, leher, buntut dan tetelan sapi.
 -   Jika menggunakan 1 kg tulang sapi bisa menggunakan 6-7 liter air.
 
 ## Mulai memasak
+
+{{< img src="hasil-kuah-bakso.png" alt="Hasil Kuah Bakso" >}}
 
 Cara membuat kuah bakso enak ini sangat mudah dan simpel. Hanya saja waktu yang di butuhkan untuk membuat kuah bakso yang enak ini tidak begitu cepat. Perlu kesabaran untuk menunggu ketika perut sudah lapar. Pastikan perut sudah terisi ya sebelum membuat kuah baksonya.
 

@@ -36,11 +36,15 @@ Membuat es buah yang segar ini, saya menggunakan buah seadanya yang ada di dapur
 
 ## Apa itu es buah?
 
+{{< img src="semangka.png" alt="Buah Semangka" >}}
+
 Es buah adalah minuman segar yang berbahan dari buah-buahan, susu dan air. Buah yang biasa digunakan adalah melon, semangka, alpukat, nanas, anggur, kelapa muda dll. Buah di potong-potong dan di campur dengan air gula dan susu dan ditambahkan es batu. Cita rasa dari es buah ini sangat segar dan manis cocok diteguk disiang hari.
 
 Membuat es buah yang segar dan enak ini saya menggunakan air kelapa. Air kelapa saya beli ketika saya menemukannya di orang jualan kelapa parut di pasar. Dari sini saya mempunyai ide membuat es buah air kelapa, hm... hasilnya sangat segar dan enak sekali :D
 
 ## Mulai membuat
+
+{{< img src="alpukat.png" alt="Buah Alpukat" >}}
 
 Cara membuat resep es buah dari saya ini sangat mudah dan cepat. Bahannya juga simpel dan ramah di kantong. Rasanya sangat enak dan segar, sangat cocok di teguk di kala teriknya sinar matahari.
 

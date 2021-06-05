@@ -49,6 +49,8 @@ Meskipun ampela ayam banyak manfaatnya, tetapi jangan memakan ampela ayam berleb
 
 ## Tips memasak ampela kecap bumbu iris
 
+{{< img src="ampela-kecap.png" alt="Hasil Ampela Kecap Bumbu Iris" >}}
+
 -   Pastikan mencuci bersih ati ampela dan menyingkir lemak yang menempel pada ampela. Agar baunya sedap, sehat dan rasanya enak.
 -   Lumuri ampela ayam dengan air jeruk nipis selama 10-15 menit ketika mencuci. Hal ini membantu menghilangkan bau amis pada ampela ayam.
 -   Rebus ampela ayam dengan rempah-rempah seperti jahe, serai, laos, daun salam, daun jeruk. Hal ini membantu mengurangi bau tak sedap pada ampela. Sehingga ketika ampela dimasak lagi dengan bumbu, baunya menjadi harum.

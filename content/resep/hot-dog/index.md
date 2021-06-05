@@ -1,4 +1,3 @@
-
 ---
 title: "Hot Dog"
 date: 2021-05-24T06:28:43+02:00
@@ -33,13 +32,21 @@ serving: 4
 ---
 Hot dog ala masakan rumahan yang gurih dan lezat. Sangat cocok dijadikan bekal atau menu cepat saji ketika tidak ingin ribet memasak.
 
+Makanan hot dog ini kerap saya buat untuk bekal anak saya ke sekolah. Kadang juga untuk suami saya ketika pergi ke kantor. Hot dog ini saya pilih untuk bekal karena cara membuatnya mudah dan praktis. Sangat cocok menjadi bekal untuk bergian dan juga untuk piknik :D
+
 ## Apa itu hot dog?
+
+{{< img src="hot-dog-mantap.png" alt="Hot Dog" >}}
 
 Hot dog adalah makanan yang terbuat dari sosis panggang yang disajikan di atas roti. Roti diiris ditengahnya, disisipkan sosis panggang dan ditambahkan sayuran. Cita rasa hot dog ini asin, gurih lezat sangat menggugah selera.
 
+Hot dog sangat di gemari di berbagai kalangan. Hot dog bukan berasal dari anjing ya... Yang membuat hot dog ini adalah orang Jerman dan dia berimgrasi ke Amerika. Pada tahun 1860 hot dog ini menjadi populer di Amerika :D
+
 ## Mulai memasak
 
-Cara membuat hot dog hidangan cepat saji yang mudah. Bahannya mudah di dapat, hidangan yang layak untuk sehari-hari.
+{{< img src="hot-dog.png" alt="Hot Dog" >}}
+
+Cara membuat hot dog hidangan cepat saji yang mudah. Bahannya mudah di dapat, hidangan yang layak untuk sehari-hari. Berikut simak resep selengkapnya cara membuat hot dog yang simpel dan enak di bawah ini.
 
 {{< post-info prep="5 menit" cook="15 menit" total="20 menit" serving="4">}}
 
@@ -68,3 +75,5 @@ Cara membuat hot dog hidangan cepat saji yang mudah. Bahannya mudah di dapat, hi
 {{< blockquote>}}
 Bisa menggunakan saus sambal atau mayones sesuai selera. Tambahkan selada atau irisan timun yang tipis jika suka.
 {{< /blockquote>}}
+
+Jika ingin membuat ciloknya sendiri bisa membaca resepnya disini —> \[pentolcilok\](/resep/pentol-cilok-ayam/)

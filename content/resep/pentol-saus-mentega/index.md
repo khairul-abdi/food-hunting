@@ -34,9 +34,9 @@ Pentol saus mentega merupakan kreasi masakan rumahan yang mudah dan lezat. Jika 
 
 ## Apa itu pentol saus mentega?
 
-Pentol saus mentega adalah olahan berbahan pentol dan mentega. Pentol di goreng dengan mentega dibumbui dengan bawang. Ditambahkan saus sambal kecap, lada hitam dll.
+Pentol saus mentega adalah olahan berbahan pentol dan mentega. Pentol di goreng dengan mentega dibumbui dengan bawang. Ditambahkan saus sambal kecap, lada hitam dll. Sehingga menghasilkan aroma yang harum dan rasa yang sedap.
 
-### Mulai memasak
+## Mulai memasak
 
 Cara membuat pentol saus mentega ini sangat mudah dan cepat. Bahannya mudah didapatkan dan sangat layak dihidangkan sehari-hari.
 

@@ -45,6 +45,8 @@ Kaldu tulang adalah olahan dari berbahan tulang yang di rebus dengan air. Proses
 
 ## Manfaat kaldu tulang sapi
 
+{{< img src="kaldu-tulang.png" alt="Kaldu Tulang Sapi" >}}
+
 - Menu diet yang sehat
 - Memperkuat persendian.
 - Melawan penyakit flu.
@@ -69,6 +71,8 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan tulang sendi di kaki
 
 ## Bagaimana cara mengkonsumsi kaldu tulang?
 
+{{< img src="kaldu.png" alt="Kaldu Tulang Sapi" >}}
+
 - Meminumnya langsung
 - Untuk membuat pasta
 - Untuk membuat semur
@@ -81,7 +85,7 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan tulang sendi di kaki
 - Untuk menumis sayur
 - Untuk membuat kuah bakso
 - Untuk memasak mie, dll.
-- 
+
 ## Tips memasak kaldu tulang sapi
 
 - Merebus tulang ayam atau tulang ukuran kecil lainnya membutuhkan waktu yang sedikit sekitar 2-3 jam.
@@ -89,6 +93,8 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan tulang sendi di kaki
 - Rebus kaldu tulang dengan api kecil. Untuk mendapatkan hasil kaldu yang jernih dan enak dan juga tidak terlalu berminyak.
 
 ## Mulai Memasak
+
+{{< img src="masakan.png" alt="Contoh Masakan yang Menggunkan Kaldu Tulang Sapi" >}}
 
 Cara membuat kaldu tulang sapi ini sangat mudah. kamu bisa memasak menggunakan panci elektrik, rice cooker atau diatas kompor. Hanya saja waktu yang dibutuhkan sangat lama sehingga harus bersabar.
 

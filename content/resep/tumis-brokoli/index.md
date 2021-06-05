@@ -38,9 +38,13 @@ Tumis brokoli masakan rumahan pendamping nasi yang sangat rekomen. Brokoli memil
 
 ## Apa itu tumis brokoli?
 
+{{< img src="brokoli.png" alt="Brokoli" >}}
+
 Tumis brokoli adalah olahan dari berbahan sayur brokoli. Brokoli ditumis dengan bumbu bawang putih cabe dan lada. Di tambahkan penyedap garam, gula dan kaldu jamur. Sehingga olahan ini sangat lezat, segar dan sehat.
 
 ## Mulai memasak
+
+{{< img src="potongan-brokoli.png" alt="Potongan Brokoli" >}}
 
 Cara membuat tumis brokoli ini sangat mudah. Bahanya minim dan sangat sehat dikonsumsi setiap hari. Yuk simak resep tumis brokoli yang kaya akan vitamin dan nutrisi.
 

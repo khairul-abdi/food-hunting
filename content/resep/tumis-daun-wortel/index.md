@@ -1,4 +1,3 @@
-
 ---
 title: "Tumis Daun Wortel"
 date: 2021-05-25T06:31:16+02:00
@@ -38,9 +37,13 @@ Tumis daun wortel masakan rumahan yang lezat dan bergizi. Bagi kamu yang suka ma
 
 ## Apa itu tumis daun wortel?
 
+{{< img src="hasil-tumis-daun-wortel.png" alt="Hasil Tumis Daun Wortel" >}}
+
 Tumis daun wortel adalah olahan berbahan dasar daun wortel. Daun wortel disiangi di ambil yang mudah saja. Lalu ditumis bersama bawang, cabe dan minyak wijen. Sehingga membuat hidangan ini terasa asin, gurih, sedap sangat menggugah selera.
 
 ## Manfaat daun wortel
+
+{{< img src="wortel-dan-daunnya.png" alt="Wortel dan Daunnya" >}}
 
 -   Cegah penyakit jantung
 -   Stabilkan tekanan darah
@@ -57,10 +60,11 @@ Tumis daun wortel adalah olahan berbahan dasar daun wortel. Daun wortel disiangi
 
 ## Mulai memasak
 
-Cara membuat tumis daun wortel ini sangat mudah. Rasanya sangat enak, segar dan kaya akan nutrisi.
+{{< img src="memotong-daun-wortel.png" alt="Memotong Daun Wortel" >}}
+
+Cara membuat tumis daun wortel ini sangat mudah. Rasanya sangat enak, segar dan kaya akan nutrisi. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="2">}}
-
 
 ### Bahan
 

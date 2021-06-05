@@ -37,17 +37,23 @@ Saya sendiri suka membuat sosis bakar teflon ini dan menikmatinya di sore hari. 
 
 ## Apa itu sosis bakar teflon?
 
+{{< img src="hasil-sosis-bakar-teflon.png" alt="Hasil Sosis Bakar Dalam Teflon" >}}
+
 Sosis bakar teflon adalah olahan dari berbahan sosis yang dibakar dengan teflon. Sosis dikerat diolesi saus agar bumbu merasuk ketika di bakar dengan teflon. Bumbu sausnya yakni kecap manis, saus tiram, kecap asin, minyak wijen dan lada hitam.
 
 Sosis bakar biasanya disandingkan dengan saus sambal atau mayones. Semua selera lidah masing-masing ya.. ingin menggunakan saus yang mana. Cita rasa sosis bakar ini asin, gurih dan manis sangat menggugah selera.
 
 ## Tips membuat sosis bakar teflon
 
+{{< img src="Hasil-sosis-bakar.png" alt="Hasil Sosis Bakar Dalam Piring" >}}
+
 -   Gunakan api kecil ketika membakar sosis yang sudah diolesi bumbu saus bakar. Agar sosis matang dengan sempurna dan menjaga sosis tidak berwarna hitam/gosong.
 -   Bersihkan teflon dengan tisu ketika sudah selesai membakar sosis. Hal ini membantu membersihkan sisa saus bakar yang menempel di telfon. Sehingga ketika memasukan sosis yang baru, sosisnya tidak kelihatan hitam/gosong.
 -   Jangan menambahkan garam atau penyedap rasa lainnya. Cukup gunakan yang ada di resep saja karena rasa sosis sudah sedikit asin dan gurih. Jika ditambahkan penyedap rasa nanti sosisnya jadi keasinan dan tidak enak untuk dimakan.
 
 ## Mulai memasak
+
+{{< img src="sosis-sebelum-dibakar.png" alt="Sosis Sebelum Dibakar" >}}
 
 Cara membuat sosis bakar teflon ini tergolong mudah dan praktis. Untuk membuat sosis bakar ini bebas menggunakan jenis sosis daging. Semua sesuai selera lidah masing-masing ya...
 

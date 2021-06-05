@@ -40,15 +40,21 @@ Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/bumbu kacang. Bi
 
 ## Daging ayam bagian apa yang dibutuhkan untuk membuat bakso urat ini?
 
+{{< img src="daging-ayam.png" alt="Daging Dada Ayam Fillet" >}}
+
 Yang dibutuhkan untuk membuat pentol bakso urat ini adalah dada/paha ayam fillet. Kali ini saya membuat pentol menggunakan dada, hati dan ampela ayam. Rasanya sangat enak dan kenyal, rasa urat dari ampela membuat bakso urat ini jadi spesial.
 
 Saya mencampurkan hati ayam di adonan ini karena pentol menjadi tidak terlihat pucat. Bagian dalam pentol menjadi berwarna kemerahan, jadi tambah makin menarik.
 
 ## Apa itu bakso urat ati ampela?
 
+{{< img src="bakso-urat-ati-ampela.png" alt="Bakso Urat Ati Ampela Sebelum di Rebus" >}}
+
 Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama telur ayam. Sedangkan ampela sendiri digiling kasar/dicincang kasar. Semua bahan dan bumbu dicampur menjadi satu. Jadilah adonan pentol dan di bentuk bulat, di masukan ke dalam air panas. Sehingga menghasilkan proses pembuatan pentol yang sempurna.
 
 ## Tips membuat bakso urat ati ampela
+
+{{< img src="adonan.png" alt="Hasil Adonan Bakso Urat Ati Ampela" >}}
 
 - Mencincang kasar ampela menghasilkan pentol urat yang lebih baik. Setelah di cincang langsung masukan ke adonan, tidak perlu diblender lagi.
 - Menggunakan blender kering untuk daging sangat rekomen untuk membuat bakso urat ini. Hasilnya bisa maximal, pentol semakin padat dan kenyal.
@@ -57,6 +63,8 @@ Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama
 - Melumuri dada ayam, hati dan ampela dengan jeruk nipis sangat dianjurkan. Hal ini dapat membantu menghilangkan bau amis pada bagian ayam.
 
 ## Mulai memasak
+
+{{< img src="hasil-pentol-bakso-urat.png" alt="Hasil Pentol Bakso Urat Ati Ampela" >}}
 
 Cara membuat pentol urat ati ampela ini susah-susah gampang ya. Membuat bulatan pentol dari sendok membutuhkan keterampilan. Tapi jika sering berlatih membuat pentol, rasanya tangan ini semakin pandai.
 

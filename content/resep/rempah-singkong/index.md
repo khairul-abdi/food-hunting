@@ -1,4 +1,3 @@
-
 ---
 title: "Rempah Singkong"
 date: 2021-05-27T08:54:28+02:00
@@ -38,9 +37,13 @@ Sekarang saya ingin membuat rempah singkong yang enak. Dengan hasil rempah singk
 
 ## Apa itu rempah singkong?
 
+{{< img src="hasil-rempah-singkong.png" alt="Hasil Rempah Singkong" >}}
+
 Rempah singkong adalah olahan berbahan singkong dan kelapa. Singkong dan kelapa di parut lalu diberikan bumbu dicampur menjadi satu. Bumbunya antara lain bawang merah, bawang putih, ketumbar, merica dan penyedap rasa.
 
 ## Mulai memasak
+
+{{< img src="rempah.png" alt="Rempah Singkong" >}}
 
 Cara membuat rempah singkong ini membutuhkan ketekunan untuk memarut. Jika punya mesin parutan sih gampang tapi kalo memarut manual capek juga haha...
 
@@ -71,6 +74,7 @@ Membuat rempah singkong ini juga membutuhkan keterampilan membentuk bulatan lonj
 -   Masukan kelapa parut dan bumbu halus ke dalam wadah singkong.
 -   Aduk-aduk sampai tercampur rata lalu tes rasanya.
 -   Bentuk bulatan lonjong adonan rempah lalu taruh di atas loyang.
+-   Jika adonan terasa lembek, bisa sedikit memeras singkong tapi jangan terlalu kering.
 -   Ulangi membentuk adonan sampai adonan habis.
 -   Siapkan wajan panaskan minyak. Masukan rempah satu persatu kedalam minyak panas.
 -   Goreng rempah dengan api sedang hingga berwarna keemasan/kecoklatan. Angkat tiriskan.

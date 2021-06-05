@@ -39,11 +39,15 @@ Mendol atau menjeng ini adalah hidangan favorit saya sejak kecil. Setiap mau pul
 
 ## Apa itu mendol tempe?
 
+{{< img src="kepalan-mendol.png" alt="Adonan Mendol Sebelum di Goreng" >}}
+
 Mendol tempe adalah olahan berbahan dari tempe. Tempe biasanya di kukus dulu lalu di hancurkan dan dicampur dengan bumbu. Bumbu yakni bawang putih, bawang merah, kencur, laos, daun jeruk dan penyedap rasa. Cita rasa dari mendol tempe ini adalah asin dan gurih.
 
 Mendol tempe merupakan makanan khas dari kota Malang Jawa Timur. Tempe Malang ini dikenal sangat gurih dan enak untuk di buat mendol. Saya suka membuat mendol tempe dari tempe yang segar, menurut saya rasanya enak. Saya tidak suka membuat mendol dari tempe busuk, menurut saya rasanya kurang enak.
 
 ## Mulai memasak
+
+{{< img src="tempe-parut.png" alt="Hasil Tempe yang Sudah di Parut" >}}
 
 Cara membuat mendol ini tergolong susah-susah gampang. Membentuk bulatan mendol membutuhkan keterampilan. Juga menggorengnya harus lebih berhati-hati ketika membaliknya. Karena adonan mendol yang di goreng ini sangat rapuh.
 

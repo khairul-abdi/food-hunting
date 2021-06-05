@@ -38,6 +38,8 @@ Pentol mercon adalah pentol yang diolah dibumbui dengan banyak cabe rawit dan ba
 
 ## Mulai memasak
 
+{{< img src="pentol-mercon.png" alt="Memasak Pentol Mercon" >}}
+
 Cara membuat pentol mercon ini tergolong mudah dan tidak memakan waktu yang lama. Bahannya simple dan hasilnya maximal.
 
 {{< post-info prep="15 menit" cook="10 menti" total="25 menit" serving="4">}}

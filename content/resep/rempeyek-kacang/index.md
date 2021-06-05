@@ -34,13 +34,21 @@ serving: 5
 ---
 Rempeyek/peyek kacang sangat cocok dijadikan camilan maupun menjadi pelengkap makanan. Banyak sekali jenis rempeyek, ada rempeyek kacang, teri, kacang hijau dan udang rebon.
 
+Jenis masakan rumahan yang satu ini kerap saya buat dirumah. Biasanya saya membuatnya banyak dan juga untuk stok. Saya menyimpannya di stoples sehingga bertahan lama.
+
 ## Apa itu rempeyek kacang?
+
+{{< img src="peyek-kacang.png" alt="Hasil Rempeyek Kacang" >}}
 
 Rempeyek/peyek kacang adalah makanan pelengkap dari kelompok gorengan. Rempeyek terbuat dari tepung yang di campur dengan air dan dibumbui. Dibuat menjadi adonan agak kental dan di goreng dengan taburan kacang tanah.
 
 ## Mulai memasak
 
-Cara membuat rempeyek kacang ini tergolong mudah dan ramah di kantong. Kamu bisa memilih topping nya sesuai seleramu.
+{{< img src="peyek.png" alt="Rempeyek Kacang" >}}
+
+Cara membuat rempeyek kacang ini tergolong mudah dan ramah di kantong. Toppingnya bisa di pilih sesuai selera masing-masing ya...
+
+Di resep ini yang saya buat ini, saya menggunakan kacang tanah. Rasanya enak banget, gurih, renyah ada rasa daun jeruknya. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="30 menit" total="50 menit" serving="5">}}
 

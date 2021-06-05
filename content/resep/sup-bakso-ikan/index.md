@@ -1,6 +1,6 @@
 ---
 title: "Sup Bakso Ikan"
-date: 2021-06-03T04:31:19+02:00
+date: 2021-06-04T04:31:19+02:00
 draft: false
 
 # post thumb
@@ -37,9 +37,13 @@ Saya sering membuat sup bakso ikan ini karena menu ini sangat enak dan bikin lid
 
 ## Apa itu sup bakso ikan?
 
+{{< img src="hasil-bakso-ikan.png" alt="Hasil Bakso Ikan" >}}
+
 Sup bakso ikan adalah Olahan bola-bola daging yang berbahan dari ikan dan tepung. Bakso ikan di masak dengan kuah kaldu yang gurih dan lezat. Sehingga menghasilkan sup bakso ikan yang segar dan enak. Bumbu kuah kaldunya sangat simpel yakni bawang putih, lada, dan penyedap rasa.
 
 ## Tips membuat sup bakso ikan
+
+{{< img src="jenis-ikan.png" alt="Jenis Ikan" >}}
 
 -   Semua jenis daging ikan berwarna putih bisa digunakan membuat bakso ikan. Tidak harus menggunakan daging ikan tenggiri.
 -   Tepung yang digunakan untuk membuat bakso ikan adalah tepung sagu dan tapioka. Tepung ini mengikat air dalam adonan, membuat tekstur bakso menjadi padat dan kenyal. Pilih salah satu jenis tepungnya ya :D
@@ -51,6 +55,8 @@ Sup bakso ikan adalah Olahan bola-bola daging yang berbahan dari ikan dan tepung
 -   Memasak kuah kaldu dengan api kecil agar menghasilkan kaldu yang jernih dan gurih.
 
 ## Mulai memasak
+
+{{< img src="adonan.png" alt=" Adonan Tepung dan Telur" >}}
 
 Cara membuat sup bakso ikan ini sangat membutuhkan keterampilan. Membentuk bulatan pentol bakso secara manual menggunakan tangan tidak begitu mudah. Pastikan membentuk bulatan pentolnya rata dan mulus agar hasilnya bagus.
 
