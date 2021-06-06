@@ -28,18 +28,23 @@ recipe: true
 time: "1 jam"
 
 # serving
-serving: 4
+serving: 5
 ---
 Bandeng bakar cabut duri adalah masakan rumahan yang terkenal di kota Sidoarjo. Menu hidangan ini biasanya dihidangkan dengan nasi hangat, sambal dan lalapan.
 
 Di hari minggu kebiasaan saya memancing bandeng dengan kakak saya. Saya kerap mendapatkan tangkapan bandeng yang besar dan gemuk. Rasanya senang sekali dengan hasil susah payah bersabar dalam memancing. Sebelum pulang ke rumah bandengnya dicabut dulu durinya di tukang bandeng cabut duri.
 
 ## Apa itu bandeng bakar bakar cabut duri?
+
+{{< img src="ikan-bandeng.png" alt="Ikan Segar" >}}
+
 Bandeng bakar cabut duri adalah makanan khas dari kota Sidoarjo Jawa Timur Indonesia. Sesuai dengan namanya ikan bandeng dicabut durinya terlebih dahulu baru diolah. Dibumbui dengan aneka rempah dan di bakar sampai matang. Citarasa hidangan ini manis, gurih dan sedap, sangat menggugah selera.
 
 Mengolah bandeng bakar ini saya sarankan banyak menggunakan rempah-rempah. Seperti jahe, kunyit, ketumbar dll, karena rempah ini membuat aroma bandeng makin sedap. Tak hanya aromanya saja, rasanya juga semakin mantap! membuat nafsu makan bertambah :D
 
 ## Mulai memasak
+
+{{< img src="bandeng.png" alt="Ikan Bandeng Sebelum Dibakar" >}}
 
 Cara membuat bandeng bakar cabut duri ala rumahan ini begitu mudah dan simple. Bahannya ramah di dapur dan mudah didapatkan di pasar. 
 
@@ -49,7 +54,7 @@ Bandeng bakar cabut duri juga sangat hemat dibuat sendiri di rumah. Tinggal beli
 
 ### Bahan
 
--   4 ekor bandeng cabut duri (ukuran sedang)
+-   5 ekor bandeng cabut duri (ukuran sedang)
 -   1 buah jeruk nipis (peras ambil airnya)
 -   1 buah timun kupas iris
 -   10 sdm kecap manis (secukupnya)
@@ -58,21 +63,21 @@ Bandeng bakar cabut duri juga sangat hemat dibuat sendiri di rumah. Tinggal beli
 
 ### Bumbu halus
 
--   4 siung bawang putih
--   2 butir kemiri
+-   5 siung bawang putih
+-   3 butir kemiri
 -   1 ruas jahe kupas
 -   1 ruas kunyit kupas
 -   1 sdt butir lada
 -   1 sdt butir ketumbar
 -   1 sdm kaldu jamur
--   2 sdm gula merah sisir
+-   3 sdm gula merah sisir
 -   1 sdm garam (sesuai selera)
 -   100 ml air (secukupnya)
 
 ### Sambal
 
--   4 siung bawang putih
--   6 siung bawang merah
+-   6 siung bawang putih
+-   8 siung bawang merah
 -   8 cabai merah keriting
 -   10 cabe rawit (sesuai selera)
 -   1 buah tomat

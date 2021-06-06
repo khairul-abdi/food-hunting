@@ -43,7 +43,7 @@ Tumis daun wortel adalah olahan berbahan dasar daun wortel. Daun wortel disiangi
 
 ## Manfaat daun wortel
 
-{{< img src="wortel-dan-daunnya.png" alt="Wortel dan Daunnya" >}}
+{{< img src="daun-wortel.png" alt="Daun Wortel" >}}
 
 -   Cegah penyakit jantung
 -   Stabilkan tekanan darah

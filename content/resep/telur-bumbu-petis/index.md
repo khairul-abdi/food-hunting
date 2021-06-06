@@ -44,7 +44,7 @@ Telur bumbu petis adalah masakan khas orang Jawa dan berasal dari Jawa Timur. Bi
 
 ### Tips memasak telur bumbu petis
 
-{{< img src="petis-telur.png" alt="Memasak Telur Bumbu Petis" >}}
+{{< img src="telur-ayam.png" alt="Telur Ayam" >}}
 
 -   Jenis petis yang digunakan akan mempengaruhi rasa untuk membuat telur bumbu petis. Pilihlah jenis petis udang yang enak, biasanya petisnya berwarna hitam pekat.
 -   Rebus telur dengan air mendidih dan jangan di tutup pancinya, biarkan terbuka. Lalu rendam dengan air dingin/air es, hal ini agar ketika mengupas telur jadi lebih mudah.
@@ -53,7 +53,7 @@ Telur bumbu petis adalah masakan khas orang Jawa dan berasal dari Jawa Timur. Bi
 
 ## Mulai memasak
 
-{{< img src="petis.png" alt="Memasak Telur Bumbu Petis" >}}
+{{< img src="petis-telur.png" alt="Memasak Telur Bumbu Petis" >}}
 
 Cara membuat telur bumbu petis ini tergolong mudah dan simpel. Bahannya sangat mudah untuk di dapatkan di pasar. Untuk menghaluskan bumbunya lebih baik gunakan blender agar lebih mudah. Sehingga pekerjaan menjadi lebih cepat selesai :D
 
