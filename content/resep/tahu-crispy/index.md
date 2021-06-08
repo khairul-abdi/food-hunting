@@ -44,6 +44,8 @@ Tahu crispy adalah olahan varian dari tahu yang di goreng tepung. Tahu putih dip
 
 ## Mulai memasak
 
+{{< img src="tahu.png" alt="Tahu Putih" >}}
+
 Cara membuat tahu crispy ini susah-susah gampang. Jika hanya asal menggoreng tekstur tahu jadi lembek dan tidak crispy. Tapi jangan khawatir ya, saya punya tips untuk membuat tahunya renyah dan crispy.
 
 Berikut simak selengkapnya cara membuat tahu crispy yang enak.
@@ -80,5 +82,5 @@ Berikut simak selengkapnya cara membuat tahu crispy yang enak.
 {{< /steps>}}
 
 {{< blockquote>}}
-Sebelum menyiram adonan tepung ke minyak panas. Pastikan tahu sudah kering dengan sempurna, agar tekstur tahu dan tepungnya sama-sama cripsy.
+Sebelum menyiram adonan tepung ke minyak panas. Pastikan tahu sudah kering dengan sempurna, agar tekstur tahu dan tepungnya sama-sama crispy.
 {{< /blockquote>}}

@@ -1,4 +1,3 @@
-
 ---
 title: "Kaldu Tulang Sapi"
 date: 2021-04-20T09:17:59+02:00
@@ -24,8 +23,6 @@ tags:
 # post type
 type: "post"
 
-
-
 # prep time
 time: "8 jam 10 menit"
 
@@ -34,14 +31,18 @@ serving: 10
 ---
 Kaldu tulang sapi yang mengandung kaya akan protein sehat dan bergizi tinggi. Masakan rumahan kaldu tulang sapi ini mempunyai aroma gurih dan rasa yang lezat. Sangat rekomen menyimpan kaldu tulang sapi di dalam kulkas sebagai stok.
 
+Menyesap secangkir kaldu tulang yang hangat setiap hari adalah kebiasaan yang baik. Sebelum menyesap bisa ditambahkan sedikit garam ke dalam cangkir lalu diaduk. Sangat baik diminum di pagi hari menemani menu hidangan sarapan.
+
 ## Apa itu kaldu tulang?
 
 Kaldu tulang adalah olahan dari berbahan tulang yang di rebus dengan air. Proses membuat tulang kaldu sapi ini merebus tulang dengan waktu yang lama. Merebus tulang dengan api kecil agar menghasilkan cairan kaldu yang terbaik. Biasanya tulang direbus dengan bumbu, rempah-rempah dan bahan asam seperti cuka apel.
 
+Rasa dari kaldu tulang ini sangat gurih dan lezat. Sedangkan aromanya pun juga khas harum dan sedap. Sangat sehat dan rekomen untuk membuat kaldu tulang sapi dirumah :)
+
 ## Apa perbedaan antara kaldu instan dan kaldu tulang?
 
-- Kaldu instan terbuat dari rebusan daging sekitar 30 menit dan rasanya sangat ringan.
-- Kaldu tulang terbuat dari rebusan tulang dalam waktu lebih lama sekitar 8-12 jam. Hasil rasa dari kaldu tulang lebih gurih dan lezat
+- Kaldu instan terbuat dari daging yang direbus dengan waktu yang lebih singkat. Merebusnya membutuhkan waktu sekitar 30 menitan dan rasanya sangat ringan.
+- Kaldu tulang terbuat dari rebusan tulang dalam waktu lebih lama sekitar 8-12 jam. Hasil rasa dari kaldu tulang terasa lebih gurih dan lezat
 
 ## Manfaat kaldu tulang sapi
 
@@ -53,6 +54,9 @@ Kaldu tulang adalah olahan dari berbahan tulang yang di rebus dengan air. Proses
 - Melancarkan pencernaan.
 - Menyehatkan kulit.
 - Menambah energi.
+- Mengatasi masalah tidur
+
+Meskipun banyak manfaatnya tapi tentang kesehatan tetap harus di perhatikan. Jangan mengkonsumsi kaldu tulang sapi berlebihan. Karena sesuatu yang berlebihan itu tidak baik :D
 
 ## Tulang jenis apa saja yang dibutuhkan untuk membuat kaldu?
 
@@ -86,17 +90,29 @@ Untuk membuat kaldu babi membutuhkan tulang leher, kaki dan tulang sendi di kaki
 - Untuk membuat kuah bakso
 - Untuk memasak mie, dll.
 
+Banyak sekali jenis masakan yang menggunakan kaldu tulang sapi. Karena kaldu tulang ini menjadikan makanan menjadi begitu gurih dan lezat.
+
+## Peralatan yang di butuhkan untuk membuat kaldu tulang sapi
+
+- Siapkan microwave oven japitan dan loyang untuk memanggang. Tulang yang di panggang terlebih dahulu akan menghasilkan aroma dan rasa yang terbaik. Lebih gurih, lebih sedap, lebih enak dan warna cairan kaldunya lebih gelap.
+- Siapkan talenan dan pisau untuk mengupas bumbu.
+- Siapkan panci berukuran besar dan sendok atau centong. Untuk memasak dan mengambil buih-buih yang naik ke permukaan air kaldu ketika direbus.
+- Siapkan saringan atau sarangan halus dan stoples kaca. Untuk menyaring kaldu tulang dan menyimpan hasil cairan kaldu tulangnya.
+
 ## Tips memasak kaldu tulang sapi
 
-- Merebus tulang ayam atau tulang ukuran kecil lainnya membutuhkan waktu yang sedikit sekitar 2-3 jam.
-- Merebus tulang sapi ukuran besar membutuhkan waktu yang lebih lama sekitar 8-12 jam.
+- Merebus tulang ayam atau tulang berukuran kecil lainnya. Membutuhkan waktu yang lebih sedikit, sekitar 2-3 jam.
+- Merebus tulang sapi atau tulang yang berukuran besar. Membutuhkan waktu yang lebih lama sekitar 8-12 jam.
 - Rebus kaldu tulang dengan api kecil. Untuk mendapatkan hasil kaldu yang jernih dan enak dan juga tidak terlalu berminyak.
+- Sebelum mengkonsumsi kaldu, ambil gumpalan kaldu yang muncul di permukaan terlebih dahulu. Agar hasil kaldu tetap jernih.
 
 ## Mulai Memasak
 
-{{< img src="masakan.png" alt="Contoh Masakan yang Menggunkan Kaldu Tulang Sapi" >}}
+{{< img src="masakan.png" alt="Contoh Masakan yang Menggunakan Kaldu Tulang Sapi" >}}
 
 Cara membuat kaldu tulang sapi ini sangat mudah. kamu bisa memasak menggunakan panci elektrik, rice cooker atau diatas kompor. Hanya saja waktu yang dibutuhkan sangat lama sehingga harus bersabar.
+
+Membuat kaldu tulang yang jernih dan terbaik ini harus bersabar dan telaten. Harus rajin menyendok buih-buih yang naik ke atas setiap per 30 menitnya. Karena kaldu terbaik adalah kaldu yang lebih jernih dan tidak terlalu banyak gel. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="10 menit" cook="8 jam" total="8 jam 10 menit" serving="10 (2,5L)">}}
 
@@ -126,9 +142,5 @@ Cara membuat kaldu tulang sapi ini sangat mudah. kamu bisa memasak menggunakan p
 - Saring kaldu dengan saringan halus ke dalam stoples kaca. Bila ada buih yang muncul di permukaan ambil dengan sendok.
 - Hidangkan secangkir kaldu sapi ketika masih hangat. Atau juga bisa dijadikan bahan dasar masakan yang lainnya.
 {{< /steps>}}
-
-{{< blockquote>}}
-Sebelum mengkonsumsi kaldu, ambil gumpalan kaldu yang muncul di permukaan terlebih dahulu.
-{{< /blockquote>}}
 
 Kaldu bisa di simpan di dalam kulkas dan bisa bertahan sampai 3-6 bulan. Dengan cara tuang kaldu ke dalam stoples kaca dan biarkan dingin. Sebelum ditutup berikan ruang minimal 2 inci.

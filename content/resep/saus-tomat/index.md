@@ -11,7 +11,7 @@ description: "Resep membuat saus tomat ala rumahan yang aman dan lezat. Pelajari
 
 # taxonomies
 categories:
-  - "Sambal"
+  - "Minyak dan Saus"
 
 # post tags
 tags:

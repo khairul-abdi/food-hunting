@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/sambal-goreng-kentang-ati/index.md",
+            "file": "resep/kaldu-tulang-sapi/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/sambal-goreng-kentang-ati/index.md",
+                "file": "resep/kaldu-tulang-sapi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
+    "resep/kaldu-tulang-sapi/index.md",
+    "resep/minyak-mie-ayam/index.md",
+    "resep/nasi-goreng-daging/index.md",
     "resep/sambal-goreng-kentang-ati/index.md",
+    "resep/saus-tomat/index.md",
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/tahu-crispy/banner.png",
+    "resep/tahu-crispy/index.md",
     "resep/tumis-aspargus/index.md",
-    "resep/sambal-hijau/index.md",
-    "resep/badeng-bakar-cabut-duri/index.md",
-    "resep/cilok-kuah-pedas/index.md",
-    "resep/balado-terong-teri/index.md",
-    "resep/cap-cay-goreng/index.md",
-    "resep/cilok-kuah-pedas/cilok.png",
-    "resep/terong-penyet-sambal-santan/index.md",
-    "resep/tumis-daun-wortel/index.md"
+    "resep/sambal-hijau/index.md"
   ]
 }
