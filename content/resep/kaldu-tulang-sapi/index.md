@@ -27,7 +27,7 @@ type: "post"
 time: "8 jam 10 menit"
 
 # serving
-serving: 10
+serving: 12,5L/10
 ---
 Kaldu tulang sapi yang mengandung kaya akan protein sehat dan bergizi tinggi. Masakan rumahan kaldu tulang sapi ini mempunyai aroma gurih dan rasa yang lezat. Sangat rekomen menyimpan kaldu tulang sapi di dalam kulkas sebagai stok.
 
@@ -114,7 +114,7 @@ Cara membuat kaldu tulang sapi ini sangat mudah. kamu bisa memasak menggunakan p
 
 Membuat kaldu tulang yang jernih dan terbaik ini harus bersabar dan telaten. Harus rajin menyendok buih-buih yang naik ke atas setiap per 30 menitnya. Karena kaldu terbaik adalah kaldu yang lebih jernih dan tidak terlalu banyak gel. Berikut simak resep selengkapnya di bawah ini.
 
-{{< post-info prep="10 menit" cook="8 jam" total="8 jam 10 menit" serving="10 (2,5L)">}}
+{{< post-info prep="10 menit" cook="8 jam" total="8 jam 10 menit" serving="12,5L/10">}}
 
 ### Bahan
 

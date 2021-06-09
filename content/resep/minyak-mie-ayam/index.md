@@ -30,7 +30,7 @@ recipe: true
 time: "30"
 
 # serving
-serving: 50
+serving: 400 ml/50
 ---
 Minyak mie ayam yang biasanya digunakan oleh bapak- bapak penjual mie ayam. Minyak topping ini rasanya sangat gurih dan aromanya wangi. Masakan rumahan ini cocok untuk di buat stok sendiri dirumah.
 
@@ -42,7 +42,7 @@ Biasanya saya penasaran waktu membeli mie ayam. Minyak apa yang digunakan Bapak 
 
 Minyak mie ayam adalah olahan berbahan minyak dan bumbu yang dimasak bersama. Bumbunya yakni bawang merah, bawang putih, lada, ketumbar, kemiri dan aneka rempah. Olahan ini di saring di pisahkan antara minyak dan bumbunya. Sehingga menghasilkan minyak topping untuk mie ayam yang gurih dan sedap.
 
-Cara menyajikan minyak mie ayam ini sangat sederhana. Cukup ambil beberapa tetes dan masukan ke dalam mangkuk mie ayam. Lalu aduk hingga rata bersama mie ayamnya. Jadilah mie ayam yang sedap dan wangi :D
+Cara menyajikan minyak mie ayam ini sangat sederhana. Cukup ambil 1-2 sendok teh minyak dan masukan ke dalam mangkuk mie ayam. Lalu aduk hingga rata bersama mie ayamnya. Jadilah mie ayam yang sedap dan wangi :D
 
 ## Tips memasak minyak mie ayam
 
@@ -73,7 +73,7 @@ Cara membuat minyak topping untuk mie ayam ini tidak sulit. Menurut saya cara me
 
 Saya menggunakan serai ukuran kecil dan saya Ambil putihnya saja. Setelah menggoreng bumbunya dan menyaring minyaknya, bumbunya jangan di buang. Bumbunya bisa digunakan untuk memasak ayam untuk topping mie ayamnya. Jadi dalam satu proses, bumbunya bisa untuk dua masakan :D
 
-{{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="50">}}
+{{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="400 ml/50">}}
 
 ### Bahan
 
