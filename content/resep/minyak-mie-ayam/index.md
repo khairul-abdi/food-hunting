@@ -27,7 +27,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "30"
+time: "30 menit"
 
 # serving
 serving: 400 ml/50

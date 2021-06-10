@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/kaldu-tulang-sapi/index.md",
+            "file": "resep/resep-siomay-goreng/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/kaldu-tulang-sapi/index.md",
+                "file": "resep/resep-siomay-goreng/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/kaldu-tulang-sapi/index.md",
+    "resep/resep-siomay-goreng/index.md",
+    "resep/resep-sayur-pare-kuah-santan/index.md",
+    "resep/resep-siomay-goreng/banner.png",
+    "resep/resep-siomay-goreng/tips.png",
+    "resep/resep-siomay-goreng/mulai.png",
+    "resep/resep-siomay-goreng/alat.png",
+    "resep/resep-siomay-goreng/apa.png",
+    "resep/rendang-daging/index.md",
     "resep/minyak-mie-ayam/index.md",
-    "resep/kecap-asin/index.md",
-    "resep/mie-ayam/index.md",
-    "resep/kecap-asin/banner.png",
-    "resep/mendol/index.md",
-    "resep/tahu-crispy/index.md",
-    "resep/topping-mie-ayam/index.md",
-    "resep/rawon/index.md",
-    "resep/terong-penyet-sambal-santan/index.md"
+    "resep/resep-sayur-pare-kuah-santan/banner.png"
   ]
 }

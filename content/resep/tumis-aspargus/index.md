@@ -25,7 +25,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "20"
+time: "20 menitp"
 
 # serving
 serving: 4
