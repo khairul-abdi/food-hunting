@@ -11,7 +11,7 @@ description: "Cara membuat resep siomay goreng viral yang enak, lezat dan simpel
 
 # taxonomies
 categories:
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

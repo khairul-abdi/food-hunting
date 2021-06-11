@@ -94,7 +94,7 @@ Berikut simak resep selengkapnya di bawah ini.
 -  1 sdm garam
 {{< /post-info>}}
 
-{{< steps>}}
+{{< steps title="Cara membuat">}}
 -   Buang lemak yang menempel pada ampela, cuci bersih, lumuri dengan 2 sdm air jeruk nipis. Diamkan selamat 10 menit, bilas hingga bersih, iris-iris lalu sisihkan.
 -   Cuci bersih dada ayam dan hati, lumuri dengan perasan air jeruk. Diamkan selama 10 menit lalu bilas hingga bersih.
 -   Potong-potong dada ayam dan hati ayam, persiapan untuk di blender. 

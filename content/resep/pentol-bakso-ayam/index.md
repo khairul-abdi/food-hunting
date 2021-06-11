@@ -80,7 +80,7 @@ Berikut simak resep proses pembuatan pentol bakso ayam anti gagal di bawah ini.
 {{< steps title="Cara membuat">}}
 -   Cuci bersih dada ayam, potong dadu masukan ke dalam blender daging.
 -   Tambahkan telur dan bumbu, blender hingga benar-benar halus.
--   Masukan daging ayam yang sudah di giling ke dalam wadah. Tambahkan tepung tapioka, uleni hingga rata. Bisa menambahkan sedikit air es jika adonan terasa berat dan lengket, tes rasa.
+-   Masukan daging ayam yang sudah di giling ke dalam wadah. Tambahkan tepung tapioka dan baking powder, uleni hingga rata. Bisa menambahkan sedikit air es jika adonan terasa berat dan lengket, tes rasa.
 -   Rebus air dalam panci hingga mendidih, matikan api.
 -   Bentuk bulatan pentol masukan ke dalam panci air panas. Teruskan membentuk bulatan pentol hingga adonan habis.
 -   Diamkan pentol dalam air panas selama 15-30 menit (jangan nyalakan api).
