@@ -40,6 +40,8 @@ Cumi pedas manis adalah olahan berbahan dasar cumi-cumi. Cumi diolah dibumbui, d
 
 Cara membuat cumi pedas manis ini begitu mudah. Olahan ini dimasak hingga kering dan bumbunya meresap.
 
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="4">}}
 
 ### Bahan

@@ -57,6 +57,8 @@ Penyajian pentol bakso sapi halus pada umumnya disajikan bersama kuah. Ditambahk
 
 Cara membuat pentol bakso ini tergolong susah-susah gampang. Membutuhkan keterampilan tangan untuk membentuk bulatan pentolnya. Pada umumnya membentuk bulatan pentol ini menggunakan sendok.
 
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
+
 Berikut simak resep membuat pentol bakso sapi halus selengkapnya di bawah ini.
 
 {{< post-info prep="1 jam" cook="30 menit" total="90 menit" serving="12-16">}}
@@ -94,4 +96,4 @@ Berikut simak resep membuat pentol bakso sapi halus selengkapnya di bawah ini.
 
 Menu hidangan ini sangat cocok di sajikan di sore maupun di malam hari. Dengan disandingkan es teh, es jeruk, es coklat atau es susu menurut saya semuanya cocok :D
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)

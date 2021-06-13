@@ -50,7 +50,9 @@ Ikan salmon panggang adalah ikan salmon fillet diberi bumbu marinasi lalu dipang
 
 ## Mulai Memasak 
 
-Cara membuat hidangan ini begitu mudah dan siap dinikmati dalam hitungan menit. ?Bahannya minimal dan hasilnya maximal. 
+Cara membuat hidangan ini begitu mudah dan siap dinikmati dalam hitungan menit. ?Bahannya minimal dan hasilnya maximal.
+
+Saya memotong daging ikan salmon menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 
@@ -72,7 +74,7 @@ Cara membuat hidangan ini begitu mudah dan siap dinikmati dalam hitungan menit. 
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
-- Cuci asparagus,tiriskan.
+- Cuci asparagus, tiriskan.
 - Rebus air dalam panci hingga mendidih.
 - Masukan asparagus, rebus selama 3 menit lalu angkat tiriskan.
 - Cuci bersih ikan salmon, potong menjadi 2,  lumuri dengan perasan air jeruk nipis. Diamkan 5 menit dan bilas hingga bersih.

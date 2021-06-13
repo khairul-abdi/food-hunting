@@ -85,3 +85,5 @@ Aduk terus ketika memasak santan agar tidak pecah. Sehingga menghasilkan rasa gu
 
 Jika ingin membuat lodeh diet keto, jangan gunakan tahu/tempe. Gunakan bahan sayuran yang lainnya. Contohnya seperti kacang panjang, daun melinjo, atau labu siam.
 
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/petis-ikan-madura/index.md",
+            "file": "resep/tumis-zucchini/index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pentol cilok ayam",
+                "query": "s.click",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/petis-ikan-madura/index.md",
+                "file": "resep/tumis-zucchini/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/petis-ikan-madura/index.md",
-    "resep/bakso-urat-jantung-ayam/index.md",
-    "resep/bakso-urat-jantung-ayam/alat.png",
-    "resep/bakso-urat-jantung-ayam/tips.png",
-    "resep/bakso-urat-jantung-ayam/apa.png",
-    "resep/bakso-urat-jantung-ayam/mulai.png",
-    "resep/petis-ikan-madura/alat.png",
-    "resep/petis-ikan-madura/apa.png",
-    "resep/mie-ayam/index.md",
-    "resep/petis-ikan-madura/banner.png"
+    "resep/tumis-zucchini/index.md",
+    "resep/resep-soto-ayam-sederhana/index.md",
+    "resep/tahu-isi-sayur/index.md",
+    "resep/_index.md",
+    "resep/index.md",
+    "resep/salad-semangka/index.md",
+    "resep/salad-semangka/mulai.png",
+    "resep/sambal-hijau/index.md",
+    "resep/salad-semangka/banner.png",
+    "resep/salad-buah/banner.png"
   ]
 }

@@ -90,3 +90,5 @@ Kekentalan bumbu pecel bisa diatur sesuai selera ya. Jangan terlalu banyak memas
 {{< /blockquote>}}
 
 Jika membuat bumbu pecel untuk stok 1 kg, bisa digiling kan ke penggilingan bumbu di pasar. Bahan semua bumbunya jangan lupa di goreng dulu yah biar awet dan tahan lama. Masukan bumbu pecel dalam plastik, masukan ke dalam tupperware. Masukan ke dalam kulkas, cara ini bisa membuat bumbu pecel awet tahan lama.
+
+Jika Anda suka resep masakan sambal atau bumbu pecel yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/) 

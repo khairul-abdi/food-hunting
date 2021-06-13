@@ -44,6 +44,8 @@ Siomay ayam udang/dimsum adalah makanan Tiongkok yang cukup populer di Indonesia
 
 Cara membuat siomay ayam udang ini begitu mudah. Bahannya simpel dan hasilnya maximal.
 
+Saya memotong daging ayam dan udang menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="50 menit" cook="40menit" total="1 jam 30 menit" serving="14">}}
 
 ### Bahan

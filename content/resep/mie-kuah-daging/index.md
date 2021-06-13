@@ -40,6 +40,8 @@ Mie kuah daging adalah olahan berbahan dari mie dan daging. Mie direbus lalu dag
 
 Cara membuat mie kuah daging yang enak dan mudah. Bahannya mudah untuk didapatkan dan ramah di dapur kita.
 
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="15 menit" cook="30 menit" total="45 menit" serving="4">}}
 
 ### Bahan

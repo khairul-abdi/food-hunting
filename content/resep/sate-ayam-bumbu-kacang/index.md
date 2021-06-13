@@ -51,6 +51,9 @@ Sate ayam adalah olahan dada ayam dipotong dadu dan di marinasi. Ditusuk sate da
 
 Cara membuat menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
 
+
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 
 ### Bahan
@@ -103,3 +106,5 @@ Untuk membakar ayam bisa dipanggang di atas kompor yang sudah dipasang alat pang
 {{< /blockquote>}}
 
 Menu hidangan ini sangat cocok di dihidangkan di sore hari. Dengan di sandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
+
+Jika Anda suka resep masakan sambal atau bumbu kacang yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/)

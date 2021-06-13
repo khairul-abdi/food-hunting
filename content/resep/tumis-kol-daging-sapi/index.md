@@ -52,6 +52,8 @@ Tumis kol daging sapi adalah olahan berbahan dan daging sapi. Di tumis di tambah
 
 Cara membuat tumis kol daging sapi yang mudah dan cepat. Bahannya minim tapi hasilnya maximal.
 
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="5 menit" total="15 menit" serving="4">}}
 
 ### Bahan
@@ -85,3 +87,4 @@ Daging sapi bisa diganti dengan dada ayam fillet tanpa kulit.
 
 Menu hidangan ini sangat baik dihidangkan di siang maupun malam hari. Dengan disandingkan teh hijau bebas gula.
 
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

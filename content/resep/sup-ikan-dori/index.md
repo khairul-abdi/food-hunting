@@ -39,6 +39,8 @@ Sup ikan dori adalah olahan dari ikan dori fillet yang di potong-potong dibumbui
 
 Cara membuat sup ikan ini bisa menggunakan jenis ikan yang dagingnya berwarna putih. Mari simak resepnya di bawah ini.
 
+Saya memotong ikan dori menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 
 ### Bahan

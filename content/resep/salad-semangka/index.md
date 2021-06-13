@@ -35,9 +35,13 @@ Salad semangka yang ditambahkan buah alpukat yang segar. Salad ala masakan rumah
 
 ## Apa itu salad semangka?
 
+{{< img src="apa.png" alt="Hasil salad semangka" >}}
+
 Salad semangka adalah hidangan yang terdiri dari buah semangka dan alpukat. Buah di potong-potong, dicampur dengan susu kental manis dan mayones. Salad buah dapat disajikan sebagai hidangan pembuka, pendamping maupun penutup.
 
 ## 11 Manfaat buah semangka
+
+{{< img src="manfaat.png" alt="Buah semangka" >}}
 
 -   Menjaga tubuh terhidrasi
 -   Mengurangi resiko penyakit kanker
@@ -52,6 +56,8 @@ Salad semangka adalah hidangan yang terdiri dari buah semangka dan alpukat. Buah
 -   Menjaga kesehatan kulit dan rambut
 
 ## Mulai membuat
+
+{{< img src="mulai.png" alt="Buah alpukat" >}}
 
 Cara membuat salad semangka, hidangan yang mudah dan cepat saji. Bahannya minim ramah dikantong dan hasilnya maximal.
 

@@ -51,6 +51,8 @@ Daging sapi bumbu bali adalah olahan berbahan dasar dari daging sapi. Dibumbui a
 
 Cara membuat resep daging sapi bumbu bali yang lezat dan sehat dikonsumsi untuk diet keto. 
 
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 Yuk simak resep cara membuat daging bumbu bali ala diet keto di bawah ini.
 
 {{< post-info prep="15 menit" cook="30 menit" total="45 menit" serving="4">}}

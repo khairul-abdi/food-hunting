@@ -88,3 +88,5 @@ Cara membuat sayur ketupat yang sedap dan lezat. Sayur ketupat ala rumahan ini s
 {{< blockquote>}}
 Bisa menggunakan sayur nangka, tempe dan tahu sesuai selera. Jika tidak suka warna merah kurangi cabe merahnya.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

@@ -43,6 +43,9 @@ Salmon bayam creamy adalah olahan dari berbahan dasar ikan salmon dan bayam. Sal
 
 Cara membuat salmon bayam creamy ini tergolong mudah dan cepat. Menu hidangan yang sehat dan cepat saji cocok dijadikan menu hidangan sehari-hari.
 
+
+Saya memotong daging ikan salmon menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="2">}}
 
 ### Bahan
@@ -81,3 +84,5 @@ Cara membuat salmon bayam creamy ini tergolong mudah dan cepat. Menu hidangan ya
 {{< blockquote>}}
 Goreng ikan salmon dengan api sedang. Tambahkan garam sesuai selera jika suka rasa yang lebih tajam.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

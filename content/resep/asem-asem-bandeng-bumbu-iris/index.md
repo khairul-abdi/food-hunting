@@ -46,6 +46,8 @@ Cara membuat asem-asem bandeng bumbu iris ini tergolong mudah. Jika tidak ingin 
 
 Membuat masakan rumahan ini sangat mudah, simpel dan praktis. Tidak ribet dan tidak lama juga aroma dari rempahnya sangat harum dan terasa. Berikut simak resepnya yang enak dibawah ini.
 
+Saya memotong ikan bandeng menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="4">}}
 
 ### Bahan
@@ -78,7 +80,7 @@ Membuat masakan rumahan ini sangat mudah, simpel dan praktis. Tidak ribet dan ti
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Bersihkan ikan bandeng, lumuri dengan air jeruk diamkan selama 5 menit. Bilas hingga bersih, sisihkan.
+-   Bersihkan ikan bandeng, potong-potong, lumuri dengan air jeruk diamkan selama 5 menit. Bilas hingga bersih, sisihkan.
 -   Panaskan wajan masukan minyak goreng. Tumis semua bumbu iris hingga harum kecuali tomat dan belimbing.
 -   Masukan serai, laos, jahe dan daun jeruk aduk rata. Masukan air masak hingga mendidih.
 -   Masukan ikan bandeng dan belimbing sayur, masak hingga ikan bandeng matang.

@@ -12,6 +12,7 @@ description: "Resep membuat kimchi ala lidah orang Indonesia. Cara membuatnya bi
 # taxonomies
 categories:
   - "Masakan Jepang dan Korea"
+  - "Masak Sayur"
 
 # post tags
 tags:
@@ -44,9 +45,13 @@ Hidangan kimchi sayur yang difermentasi asal negara Korea ini sangat segar dan l
 
 ## Mulai membuat
 
+{{< img src="sawi.png" alt="Sawi putih" >}}
+
 Cara membuat kimchi ini tidak begitu sulit. Bisa menggunakan sayuran seperti sawi putih, wortel, lobak putih untuk membuat kimchi. Gunakan dan pilih bumbu untuk membuat kimchi sesuai selera ya.
 
 Saya sudah ketagihan rasanya sejak pertama kali makan kimchi. Saya sering membuat kimchi dirumah, karena saya suka makan kimchi yang segar. Dari pengalaman ini saya ingin membagi resepnya, boleh di coba hehe.. Berikut simak resep membuat kimchi yang segar di bawah ini.
+
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
 
 {{< post-info prep="30 menit" cook="1 jam" total="1 jam 30" serving="6">}}
 
@@ -87,3 +92,5 @@ Jika suka rasa asam pada kimchi. Fermentasi kimchi dalam kulkas sekitar 3 hari s
 {{< /blockquote>}}
 
 Hidangan kimchi sangat lezat disandingkan dengan nasi shirataki maupun dimasak bersama mie shirataki. Untuk yang tidak diet keto bebas ya mau pake mie apa saja hehe...
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

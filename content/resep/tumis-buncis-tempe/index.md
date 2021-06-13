@@ -42,6 +42,8 @@ Tumis buncis tempe adalah olahan dari berbahan buncis dan tempe yang dimasak ber
 
 Cara membuat tumis buncis tempe ini tergolong mudah dan ramah di kantong. Hidangan ini sangat sehat dan bergizi, membantu tubuh merasa segar bertenaga.
 
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="4">}}
 
 ### Bahan
@@ -77,3 +79,5 @@ Cara membuat tumis buncis tempe ini tergolong mudah dan ramah di kantong. Hidang
 {{< blockquote>}}
 Rebus buncis dalam air mendidih yang sudah dikasih garam selama 2 menit. Angkat siram dengan air dingin untuk menghasilkan warna buncis yang hijau.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

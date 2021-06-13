@@ -41,6 +41,8 @@ Cumi goreng tepung adalah olahan dari berbahan cumi yang di balurkan tepung. Dig
 
 Cara membuat cumi goreng tepung yang sehat, mudah dan praktis. Pelajari selengkapnya di bawah ini.
 
+Saya memotong cumi-cumi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="25 menit" cook="10 menit" total="35 menit" serving="4">}}
 
 ### Bahan

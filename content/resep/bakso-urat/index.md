@@ -47,7 +47,9 @@ Bakso urat adalah olahan pentol bakso yang berbahan dari urat daging sapi. Dicam
 
 Cara membuat bakso urat ini tergolong susah-susah gampang. Cara membentuk bulatan pentol sama seperti membentuk bulatan pentol biasanya. Apalagi waktu membentuk bulatan pentol, sudah bisa melihat calon bakso urat yang kenyal. Gak sabar deh, agar segera selesai dan langsung makan! :D
 
-Untuk menggiling bakso urat ini gunakan blender daging yang besar. Jika hanya ada blender yang kecil, bisa blender dagingnya secara bertahap. Berikut simak resep selengkapnya di bawah ini.
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r) 
+
+Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="30 menit" cook="60 menit" total="90 menit" serving="8">}}
 
@@ -101,4 +103,4 @@ Gunakan daging sengkel kembang, urat sengkel atau tetelan untuk membuat bakso ur
 
 Hasil pentol bakso urat yang di bentuk bulat ukuran sedang sekitar 45-50. Untuk hasil pentol bakso urat ukuran kecil berlaku kelipatannya.
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)

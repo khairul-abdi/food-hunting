@@ -45,6 +45,8 @@ Pentol cilok ayam adalah olahan dari berbahan dasar ayam dan tepung. Olahan ini 
 
 Cara membuat pentol cilok ayam ini tergolong mudah. Hanya saja untuk membentuk bulatan cilok membutuhkan keterampilan. Membentuk bulatan pentol ciloknya sama seperti dengan membuat pentol bakso.
 
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
+
 {{< post-info prep="15 menit" cook="45 menit" total="1 jam" serving="10">}}
 
 ### Bahan
@@ -84,4 +86,4 @@ Pentol cilok ayam yang disimpan dalam freezer bisa bertahan sekitar 2-3 bulan.
 -   Daging bisa digiling menggunakan blender, food processor atau mesin penggilingan lainnya.
 -   Hasil pentol cilok ayam  antara 150-170 butir, tergantung besar kecilnya bulatan.
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)

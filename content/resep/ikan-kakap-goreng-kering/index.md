@@ -42,11 +42,13 @@ Ikan kakap goreng kering adalah olahan berbahan dasar ikan kakap. Ikan kakap di 
 
 Cara membuat ikan goreng kering yang mudah dan simpel. Bahannya minim dan mudah didapatkan di pasar.
 
+Saya memotong ikan kakap menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 
 ### Bahan
 
--   1 kg ikan kakap putih (potong-potong ketika membeli)
+-   1 kg ikan kakap putih
 -   1 buah jeruk nipis ambil airnya
 -   Minyak kelapa (sampai ikan tenggelam)
 
@@ -61,7 +63,7 @@ Cara membuat ikan goreng kering yang mudah dan simpel. Bahannya minim dan mudah 
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih ikan, lumuri dengan air jeruk nipis, diamkan selama 10 menit. Bilas hingga bersih.
+-   Potong-potong ikan lalu cuci bersih ikan, lumuri dengan air jeruk nipis. Diamkan selama 10 menit, bilas hingga bersih.
 -   Siapkan wadah, masukan ayam dan bumbu halus, aduk hingga tercampur rata. Diamkan selama 15 menit.
 -   Siapkan wajan panaskan minyak, goreng ikan hingga kering, angkat tiriskan.
 -   Ulangi menggoreng sampai ikan habis.

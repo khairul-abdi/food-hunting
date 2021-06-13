@@ -52,9 +52,9 @@ Pentol banyak dijumpai terutama di Jawa Timur dan Jawa Tengah Indonesia. Membuat
 
 Cara membuat pentol bakso ayam yang padat dan kenyal. Bahannya simple dan ramah dikantong. Hanya saja memerlukan keterampilan tangan dan sendok untuk membuat bulatan pentol. Tapi tidak usah khawatir, jika sering membentuk bulatan pentol lama-lama tangan semakin lihai :D
 
-Resep yang saya buat ini menggunakan blender khusus daging tapi ukurannya kecil. Jika dirumah ada tempat penggilingan pentol, daging bisa di gilingkan ke tempat penggilingan. Atau dirumah ada mesin yang mendukung langsung mencampurkan semua bahan, lebih bagus. Pekerjaan jadi lebih terbantu, mudah dan cepat selesai :D
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
 
-Berikut simak resep proses pembuatan pentol bakso ayam anti gagal di bawah ini.
+Pekerjaan jadi lebih terbantu, mudah dan cepat selesai :D Berikut simak resep proses pembuatan pentol bakso ayam anti gagal di bawah ini.
 
 {{< post-info prep="30 menit" cook="30 menit" total="1 jam" serving="8">}}
 
@@ -95,4 +95,4 @@ Jangan merebus pentol waktu di bentuk bulat agar bulatan pentol tidak rusak.
 
 Hasil pentol yang di bentuk bulat ukuran sedang menghasilkan 40-45 buah pentol. Hasil pentol yang dibentuk bulatan kecil menghasilkan 80-90 buah pentol.
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)

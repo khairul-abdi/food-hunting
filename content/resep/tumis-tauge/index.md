@@ -93,3 +93,5 @@ Cara membuat tumis tauge ini sangat mudah dan praktis. Tidak membutuhkan keteram
 {{< blockquote>}}
 Memasak tauge lebih lama membuat tauge menjadi kusut. Jangan memasak tauge lebih dari 1 menit agar tauge tidak kusut.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

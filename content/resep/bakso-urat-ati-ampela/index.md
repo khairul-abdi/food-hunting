@@ -69,7 +69,8 @@ Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama
 Cara membuat pentol urat ati ampela ini susah-susah gampang ya. Membuat bulatan pentol dari sendok membutuhkan keterampilan. Tapi jika sering berlatih membuat pentol, rasanya tangan ini semakin pandai.
 
 Hasil pentolnya mengembang loh kalo di rebus atau dikukus lagi. Saya senang sekali dengan hasilnya, pentol kecil direbus jadi mengembang dan besar.
-Berikut simak resep selengkapnya di bawah ini.
+
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
 
 {{< post-info prep="60 menit" cook="30 menit" total="90 menit" serving="10">}}
 
@@ -114,4 +115,4 @@ Berikut simak resep selengkapnya di bawah ini.
 
 Hasil dari pembuatan pentol ini sekitar 90-100 butir pentol ukuran sedang. Untuk bulatan pentol ukuran kecil menghasilkan kelipatannya.
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)

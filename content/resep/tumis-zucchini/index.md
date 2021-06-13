@@ -56,6 +56,8 @@ Tumis zucchini adalah olahan dari berbahan zucchini yang di tumis dengan bumbu k
 
 Cara membuat tumis zucchini ini tergolong mudah dan cepat. Makanan bergizi yang sehat layak menjadi menu hidangan sehari-hari.
 
+Saya memotong zucchini menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="4">}}
 
 ### Bahan
@@ -89,3 +91,5 @@ Jangan terlalu lama memasak zucchini karena zucchini mudah empuk.
 {{< /blockquote>}}
 
 Menu hidangan ini sangat cocok disandingkan dengan nasi shirataki dan lauk lainya.
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

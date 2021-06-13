@@ -42,6 +42,8 @@ Sayur tempe adalah olahan yang berbahan dari tempe. Tempe dimasak, dibumbui, di 
 
 Cara membuat sayur tempe ini tergolong mudah dan tidak memakan waktu yang lama. Bahanya sangat minim dan hasilnya maximal.
 
+Saya memotong tempe menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="5">}}
 
 ### Bahan
@@ -79,3 +81,5 @@ Jangan berhenti mengaduk santan agar santan tidak pecah dan rasa tetap enak.
 {{< /blockquote>}}
 
 Bisa menambahkan tahu atau sayur seperti kacang panjang, manisa atau daun melinjo dll.
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

@@ -82,6 +82,8 @@ Cara membuat pare kuah santan pedas yang enak, gurih dan lezat ini sangat mudah 
 
 Pare kuah santan ini hidangan favorit saya. Saya suka menambahkan cabai rawit hijau agar sedikit pedas. Untuk memasak sayur pare, saya tidak suka jika tidak pahit atau terlalu pahit. Saya suka pare yang sedikit pahit, namanya juga pare, kalo tidak pahit bukan pare namanya :D
 
+Saya memotong sayur pare menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="5">}}
 
 ## Bahan
@@ -121,3 +123,5 @@ Pare kuah santan ini hidangan favorit saya. Saya suka menambahkan cabai rawit hi
 -   Setelah mendidih masukan pare, masak sambil diaduk selama 3 menit, tes rasa angkat.
 -   Tuang pare kuah santan ke dalam mangkuk dan sajikan selagi hangat.
 {{< /steps>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

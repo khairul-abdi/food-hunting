@@ -46,6 +46,8 @@ Cara membuat ayam bakar madu ini membutuhkan kesabaran dan ketelatenan. Tapi has
 
 Nah, sudah siap untuk mencoba membuat ayam bakar mandu ini?... Kalo begitu ayo disimak resepnya yang lezat dibawah ini.
 
+Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="20 menit" cook="60 menit" total="1 jam 20 menit" serving="8">}}
 
 ### Bahan

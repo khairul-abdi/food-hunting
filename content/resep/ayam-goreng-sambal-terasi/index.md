@@ -47,6 +47,8 @@ Cara membuat ayam goreng sambal terasi ini sangat simpel dan enak. Bahannya rama
 
 Saya sangat rekomen menambahkan tumis sayur atau sayur rebus untuk pendamping menu ini. Karena perpaduannya akan sangat pas dan sehat untuk tubuh. Boleh juga menambahkan lalapan,sepertinya yang satu ini wajib ya :D
 
+Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="60 menit" total="1 jam 10 menit" serving="4">}}
 
 ### Bahan
@@ -92,3 +94,5 @@ Saya sangat rekomen menambahkan tumis sayur atau sayur rebus untuk pendamping me
 {{< blockquote>}}
 Jika sambal habis, bisa membuat sambal lagi dengan resep yang sama.
 {{< /blockquote>}}
+
+Jika Anda suka resep masakan sambal yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/)

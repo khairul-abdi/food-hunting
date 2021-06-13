@@ -94,3 +94,5 @@ Jangan goreng tahu dengan api besar agar tidak gosong.
 {{< /blockquote>}}
 
 Tahu isi sayur bisa dihidangkan bersama cabe rawit sebagai lalapan. juga bisa disandingkan bersama saus petis dan saus sambal sesuai selera.
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

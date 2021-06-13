@@ -79,3 +79,4 @@ Tambahkan santan jika ingin rasa yang lebih gurih di bumbu kacang ketika memasak
 
 Gado-gado ini bisa dihidangkan dengan keadaan suhu ruang. Sehingga gado-gado ini sangat praktis dibawa bepergian.
 
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

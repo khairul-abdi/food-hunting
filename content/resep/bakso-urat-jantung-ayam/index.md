@@ -72,7 +72,9 @@ Cita rasa bakso urat jantung ayam ini padat, kenyal gurih dan enak. Rasanya mema
 
 Cara membuat pentol bakso urat dari jantung ayam yang padat dan kenyal ini sangat mudah. Bahannya mudah di dapatkan di pasar, praktis dan ekonomis. Hasil pentolnya juga tidak begitu banyak, sangat ekonomis untuk dibuat dan disajikan. Sangat layak menjadi hidangan terbaik untuk seluruh keluarga.
 
-Resep bakso urat jantung ayam yang saya buat ini, saya hidangkan bersama kuah bakso. Kuahnya sangat simpel dan pedas, jika ingin lebih gurih bisa menambahkan sedikit tetelan. Berikut simak resep selengkapnya di bawah ini.
+Resep bakso urat jantung ayam yang saya buat ini, saya hidangkan bersama kuah bakso. Kuahnya sangat simpel dan pedas, jika ingin lebih gurih bisa menambahkan sedikit tetelan.
+
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
 
 {{< post-info prep="30 menit" cook="30 menit" total="1 jam" serving="8">}}
 
@@ -130,4 +132,4 @@ Resep bakso urat jantung ayam yang saya buat ini, saya hidangkan bersama kuah ba
 
 Hasil pentol bulatan sedang menghasilkan 40 butir bakso urat jantung ayam. Untuk ukuran pentol bulatan kecil berlaku kelipatannya.
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)

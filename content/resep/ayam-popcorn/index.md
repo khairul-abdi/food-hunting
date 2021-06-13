@@ -51,6 +51,8 @@ Ayam popcorn bisa di buat dari daging ayam bagian paha dan dada. Saya rekomen ba
 
 Cara membuat ayam popcorn ini tergolong mudah. Tinggal ke pasar beli daging ayam atau paha ayam sudah di dapat. Lebih mudah lagi ketika membeli, beli ayam yang sudah di fillet :D
 
+Saya memotong dada ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 Menu ayam popcorn ini sangat cocok dihidangkan sehari-hari sebagai cemilan/lauk. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="35 menit" cook="15 menit" total="50 menit" serving="3">}}

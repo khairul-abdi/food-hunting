@@ -41,6 +41,8 @@ Nasi goreng daging adalah olahan berbahan daging sapi dan nasi. Nasi digoreng di
 
 Cara membuat nasi goreng daging ini tergolong mudah dan cepat. Bahannya simple dan mudah didapatkan di pasar.
 
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="15 menit" cook="15 menit" total="30 menit" serving="5">}}
 
 ### Bahan

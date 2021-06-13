@@ -73,3 +73,7 @@ Cara membuat terong penyet sambal santan yang mudah. Bahan sangat simpel, makana
 {{< blockquote>}}
 Bakar terong jika ingin rasa yang lebih gurih dan lebih mantap. Sambal santan juga enak disandingkan dengan tahu dan tempe.
 {{< /blockquote>}}
+
+Jika Anda suka resep masakan sambal yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/)
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

@@ -39,6 +39,8 @@ Rawon berasal dari kuliner khas Jawa Timur negara Indonesia. Rawon adalah olahan
 
 Cara membuat rawon diet keto menggunakan daging sandung lamur. Jika ada lemak yang menempel di daging bisa di ambil dan di buang. 
 
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="20 menit" cook="35 menit" total="55 menit" serving="4">}}
 
 ### Bahan Rawon

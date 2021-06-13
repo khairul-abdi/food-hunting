@@ -62,7 +62,7 @@ Cara membuat sup bakso ikan ini sangat membutuhkan keterampilan. Membentuk bulat
 
 Resep kuah kaldu tulang ayam yang saya buat ini bening ya. Karena saya tidak suka kuah kaldu yang keruh dan agak kental. Jika suka kuah kaldu yang keruh dan agak kental. Kuah kaldunya langsung direbus dan dibumbui, tidak usah di ganti airnya.
 
-Berikut simak selengkapnya cara membuat sup bakso ikan yang enak.
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
 
 {{< post-info prep="30 menit" cook="60 menit" total="90 menit" serving="8">}}
 
@@ -98,7 +98,7 @@ Berikut simak selengkapnya cara membuat sup bakso ikan yang enak.
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
--   Cuci bersih daging ikan, potong-potong persiapan untuk di giling.
+-   Cuci bersih daging ikan, potong-potong persiapan untuk di blender.
 -   Masukan ikan tenggiri, putih telur, es batu dan bumbu ke dalam blender daging. Giling daging ikan hingga benar-benar halus.
 -   Masukan adonan yang sudah di giling halus ke dalam wadah. Tambahkan tepung sagu sedikit demi sedikit, uleni hingga kalis dan adonannya licin.
 -   Ambil baskom, masukan 2 liter air es+es batu.

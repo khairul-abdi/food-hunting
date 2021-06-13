@@ -48,6 +48,8 @@ Tumis brokoli adalah olahan dari berbahan sayur brokoli. Brokoli ditumis dengan 
 
 Cara membuat tumis brokoli ini sangat mudah. Bahanya minim dan sangat sehat dikonsumsi setiap hari. Yuk simak resep tumis brokoli yang kaya akan vitamin dan nutrisi.
 
+Saya memotong brokoli menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="3">}}
 
 ### Bahan
@@ -78,3 +80,5 @@ Cara membuat tumis brokoli ini sangat mudah. Bahanya minim dan sangat sehat diko
 {{< blockquote>}}
 Merebus brokoli terlebih dahulu agar brokoli matang merata. Tumis brokoli selama 1-2 menit agar tidak kematangan dan nutrisinya tetap terjaga.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

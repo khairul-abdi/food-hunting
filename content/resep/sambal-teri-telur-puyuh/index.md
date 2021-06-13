@@ -77,3 +77,5 @@ Cara membuat sambal teri telur puyuh ini tergolong mudah. Bahannya mudah didapat
 {{< blockquote>}}
 Agar telur puyuh matang merata. Rebus telur puyuh selama 3 menit dengan api besar. Lalu kecilkan api masak selama 3 menit, angkat.
 {{< /blockquote>}}
+
+Jika Anda suka resep masakan sambal yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/)

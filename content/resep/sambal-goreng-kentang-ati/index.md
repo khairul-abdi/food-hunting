@@ -52,6 +52,9 @@ Cara membuat sambal goreng kentang ati ini tidaklah sulit. Hasilnya juga sangat 
 
 Untuk memasak sambal goreng kentang ati yang pedas bisa tambahkan 3-6 cabai rawit. Kalo terlalu pedas menurut saya kurang cocok dengan rasa khasnya. Tapi semua itu selera masing-masing ya... Berikut simak resep selengkapnya di bawah ini.
 
+
+Saya memotong kentang dan ati ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="5">}}
 
 ### Bahan
@@ -98,3 +101,5 @@ Untuk memasak sambal goreng kentang ati yang pedas bisa tambahkan 3-6 cabai rawi
 {{< blockquote>}}
 Bisa menggoreng ati ayam juga untuk hasil yang kering dan tidak mudah hancur.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

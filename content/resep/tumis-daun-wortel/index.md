@@ -93,3 +93,5 @@ Cara membuat tumis daun wortel ini sangat mudah. Rasanya sangat enak, segar dan 
 {{< blockquote>}}
 Rebus daun wortel bersama 1 sdt garam selama 2 menit. Agar warna daun wortel tetap hijau dan agak empuk.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

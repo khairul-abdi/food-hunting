@@ -45,6 +45,7 @@ Rendang daging ini sangat populer di seluruh Indonesia maupun di seluruh dunia. 
  Carar membuat hidangan rendang daging yang empuk pilihlah daging khas dalam. 
  Berikut simak resep dan cara membuat rendang sapi ala diet keto yang lezat dan simple.
 
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
 {{< post-info prep="10 menit" cook="50 menit" total="1 jam" serving="4">}}
 
 ### Bahan

@@ -79,3 +79,5 @@ Jika tidak ada kaldu tulang sapi, gunakan tetelan sapi, rasanya jauh lebih manta
 
 Menu hidangan ini sangat pas di hidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
 
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)
+

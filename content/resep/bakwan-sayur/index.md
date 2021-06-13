@@ -46,6 +46,8 @@ Bakwan sayur merupakan salah satu jajanan kaki lima yang terkenal di Indonesia. 
 
 Cara membuat bakwan sayur ini tergolong sangat mudah. Bahannya simple dan mudah didapat. Hanya saja membentuk bakwan sayur yang cantik memang membutuhkan keterampilan. Tapi meskipun gak cantik-cantik banget tidak apa-apa ya... yang penting rasanya enak :D
 
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 Berikut pelajari resep selengkapnya di bawah ini.
 
 {{< post-info prep="20 menit" cook="20 menit" total="40 menit" serving="5">}}
@@ -86,4 +88,6 @@ Berikut pelajari resep selengkapnya di bawah ini.
 {{< blockquote>}}
 Goreng bakwan dengan minyak banyak dan api sedang. Agar bakwan mudah di balik dan tidak saling menempel.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)
 

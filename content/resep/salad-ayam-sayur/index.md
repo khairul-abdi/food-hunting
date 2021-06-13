@@ -43,6 +43,8 @@ Salad ayam sayur adalah olahan berbahan dari dada ayam fillet dan sayur. Daging 
 
 Cara membuat salad ayam sayur ini begitu mudah dan praktis. Bahannya mudah didapatkan dan hasilnya sangat lezat. Berikut simak resepnya di bawah ini.
 
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="2">}}
 
 ### Bahan

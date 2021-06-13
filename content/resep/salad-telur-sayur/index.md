@@ -13,6 +13,7 @@ feature: "banner.png"
 categories:
   - "Masak Telur"
   - "Salad"
+  - "Masak Sayur"
   
 # post tags
 tags:
@@ -76,3 +77,5 @@ Keju feta bisa diganti dengan keju lainnya, tapi tambahkan sejumput garam himala
 Menu hidangan ini sangat lezat di mulut. Perpaduan dari rasa kol ungu dan buncis yang segar. Ditambah keju feta dan telur yang gurih sangat menggugah selera.
 
 Menu hidangan ini sangat cocok di hidangkan di pagi maupun malam hari. Dengan disandingkan secangkir kaldu sapi.
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

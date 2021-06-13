@@ -12,6 +12,7 @@ description: "Resep balado teri jengkol masakan rumahan yang gurih dan pedas. Pe
 # taxonomies
 categories:
   - "Masak Ikan"
+  - "Masak Sayur"
 
 # post tags
 tags:
@@ -86,3 +87,5 @@ Sebelum memasak jangan lupa ikuti salah satu tipsnya ya agar olahan jengkolnya l
 - Masukan teri, tes rasa angkat. Pastikan bumbu benar-benar kering ketika memasukan teri agar teri selalu renyah. 
 - Hidangkan balado jengkol teri yang gurih dan pedas ini selagi hangat.
 {{< /steps>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

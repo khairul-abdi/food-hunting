@@ -74,3 +74,4 @@ Pastikan airnya sudah benar-benar menyusut dan kering ketika memasak sambal. Aga
 
 Hidangan sambal ini sangat cocok di sandingkan dengan nasi shirataki. Dengan disandingkan secangkir teh hijau bebas gula.
 
+Jika Anda suka resep masakan sambal yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/)

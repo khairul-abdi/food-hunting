@@ -71,6 +71,8 @@ Cara membuat siomay goreng yang lezat ini sangat mudah. Bahannya simpel juga mud
 
 Untuk isiannya siomay bisa menggunakan isian daging ayam, udang, sapi sesuai selera. Saya suka menambahkan kulit ayam karena rasanya jadi makin gurih. Untuk kulit pangsitnya saya menggunakan kulit pangsit khusus untuk siomay goreng. Jika kulit pangsit khusus siomay goreng tidak tersedia, bisa menggunakan kulit pangsit biasa.
 
+Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bisa di check disini --> [blenderdaging](https://s.click.aliexpress.com/e/_Arlt0r)
+
 {{< post-info prep="20 menit" cook="40 menit" total="1 jam" serving="50 biji/5">}}
 
 ### Bahan

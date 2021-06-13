@@ -85,3 +85,5 @@ Cara membuat sop kaki sapi ini sangat mudah simpel. Caranya mudah dipelajari dan
 {{< blockquote>}}
 Bisa menggunakan metode 5-30-7 untuk merebus kaki sapi jika tidak ada presto.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

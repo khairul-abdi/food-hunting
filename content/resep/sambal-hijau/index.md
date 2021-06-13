@@ -43,6 +43,8 @@ Sambal hijau adalah olahan sambal yang berasal dari kota Padang. Sambal hijau in
 
 ## Mulai memasak
 
+{{< img src="cabe.png" alt="Cabai hijau" >}}
+
 Cara membuat sambal hijau yang mudah dan gampang untuk dipelajari. Sambal ini rasanya enak sangat cocok menjadi pendamping menu hidangan sehari-hari. Berikut simak resepnya di bawah ini cara membuat sambal hijau simpel dan praktis.
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="6">}}
@@ -69,3 +71,5 @@ Cara membuat sambal hijau yang mudah dan gampang untuk dipelajari. Sambal ini ra
 {{< blockquote>}}
 Masak sambal dengan api sedang sambil terus diaduk hingga matang. Kurangi cabe rawit dan tambahkan cabe hijau besar, jika tidak suka rasa yang pedas.
 {{< /blockquote>}}
+
+Jika Anda suka resep masakan sambal yang saya buat. Temukan juga resep sambal lainnya disini [sambal](/categories/sambal/)

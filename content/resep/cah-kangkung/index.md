@@ -83,3 +83,5 @@ Jangan memasak cah kangkung lebih dari 3 menit.
 {{< /blockquote>}}
 
 Menu hidangan ini sangat cocok di hidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan seiris buah melon.
+
+Jika Anda suka dengan resep masakan sayur saya buat. Temukan juga resep masakan sayur yang lainnya disini. [masaksayur](/categories/masak-sayur/)

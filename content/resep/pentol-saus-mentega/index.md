@@ -72,4 +72,4 @@ Cara membuat pentol saus mentega ini sangat mudah dan cepat. Bahannya mudah dida
 Tambahkan cabe rawit jika suka rasa yang pedas. Masak pentol dengan api kecil jika air mulai menyusut.
 {{< /blockquote>}}
 
-Jika kamu suka dengan resep pentol bakso saya buat. Kamu bisa membaca resep pentol bakso yang lainnya disini --> [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)
