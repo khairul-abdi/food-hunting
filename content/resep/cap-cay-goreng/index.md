@@ -47,7 +47,7 @@ Cap cay kuah atau cap cay kering ini banyak sekali kreasinya. Bisa menggunakan s
 
 Cara membuat capcay gurih lezat yang mudah dan praktis. Kreasi masakan capcay bisa menggunakan sosis, daging ayam, kekian dll.
 
-Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="4">}}
 

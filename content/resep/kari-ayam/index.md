@@ -42,7 +42,7 @@ Kari ayam adalah olahan dari berbahan ayam dan dibumbui aneka rempah. Terutama k
 
 Cara membuat kari ayam ala diet keto ini tergolong mudah. Rasanya begitu lezat dan bahannya mudah untuk didapatkan.
 
-Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="4">}}
 

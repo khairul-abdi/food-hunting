@@ -44,7 +44,7 @@ Salmon saus kari adalah olahan berbahan salmon. Salmon dibumbui dengan bubuk kar
 Cara membuat salmon saus kari ini tergolong mudah dan praktis. Bahannya minim tapi hasilnya maximal.
 
 
-Saya memotong daging ikan salmon menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong daging ikan salmon menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="5 menit" cook="15 menit" total="20 menit" serving="2">}}
 ### Bahan

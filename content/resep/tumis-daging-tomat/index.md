@@ -40,7 +40,7 @@ Tumis daging sapi adalah olahan berbahan dari daging sapi. Daging sapi dimasak d
 
 Cara membuat tumis daging tomat ini tergolong mudah. Bahannya simpel dan mudah didapatkan di pasar.
 
-Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong daging sapi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="10 menit" cook="50 menit" total="1 jam" serving="4">}}
 

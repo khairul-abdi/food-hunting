@@ -68,7 +68,7 @@ Cara membuat tumis asparagus tergolong mudah dan cepat. Sayur asparagus yang ena
 
 Memasak asparagus ini juga harus menggunakan perasaan dan tebakan. Jika dirasa asparagus belum matang sempurna bisa menambahkan sedikit air. Karena cara memasak setiap orang berbeda-beda dan jangan sampai kematangan atau kurang matang. Berikut simak resep selengkapnya di bawah ini.
 
-Saya memotong asparagus menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong asparagus menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="10 menit" cook="10 menit" total="20 menit" serving="4">}}
 

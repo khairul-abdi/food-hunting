@@ -59,7 +59,7 @@ Cara membuat balado terong ini sangat mudah dan simpel. Bahannya mudah di dapatk
 
 Jika suka dengan variasi lainnya, bisa menambahkan pete, telur puyuh, tahu dan tempe. Semua tergantung selera lidah masing-masing ya... Saya sih lagi mood masak yang simpel :) Kalo begitu ayuk simak selengkapnya resepnya di bawah ini.
 
-Saya memotong terong menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong terong menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="10 menit" cook="20 menit" total="30 menit" serving="4">}}
 

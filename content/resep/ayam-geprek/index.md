@@ -44,7 +44,7 @@ Menu hidangan ayam geprek ini berasal dari kota Yogyakarta di Jawa. Menu ini san
 
 Cara membuat ayam geprek membutuhkan ketelatenan dan sedikit pengetahuan agar tepungnya renyah. Tapi tidak usah khawatir untuk gagal karena saya berbagi caranya disini. Berikut simak resep selengkapnya di bawah ini.
 
-Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="40 menit" cook="20 menit" total="60 menit" serving="4">}}
 

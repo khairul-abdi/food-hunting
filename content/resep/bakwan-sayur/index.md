@@ -46,7 +46,7 @@ Bakwan sayur merupakan salah satu jajanan kaki lima yang terkenal di Indonesia. 
 
 Cara membuat bakwan sayur ini tergolong sangat mudah. Bahannya simple dan mudah didapat. Hanya saja membentuk bakwan sayur yang cantik memang membutuhkan keterampilan. Tapi meskipun gak cantik-cantik banget tidak apa-apa ya... yang penting rasanya enak :D
 
-Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 Berikut pelajari resep selengkapnya di bawah ini.
 

@@ -44,7 +44,7 @@ Tumis sayur warna warni adalah olahan dari berbagai macam sayuran. Sesuai dengan
 
 Cara membuat tumis sayur warna warni ini begitu mudah. Bahannya simpel dan mudah di dapatkan di pasar. Sangat cocok dijadikan menu pendamping nasi maupun bekal untuk makanan.
 
-Saya memotong sayuran menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong sayuran menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="15 menit" cook="15 menit" total="30 menit" serving="4">}}
 

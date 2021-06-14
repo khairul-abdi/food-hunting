@@ -54,7 +54,7 @@ Sayur brokoli sangat banyak manfaatnya untuk kesehatan tubuh. Hanya saja cara me
 
 Cara membuat cah brokoli daging sapi ini sangat mudah. Olahan ini menggunakan bahan yang aman dan sehat. Rekomen banget untuk di konsumsi setiap hari.
 
-Saya memotong sayur dan daging menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong sayur dan daging menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr)
 
 Yuk simak resep selengkapnya di bawah ini :)
 

@@ -52,7 +52,7 @@ Ikan salmon panggang adalah ikan salmon fillet diberi bumbu marinasi lalu dipang
 
 Cara membuat hidangan ini begitu mudah dan siap dinikmati dalam hitungan menit. ?Bahannya minimal dan hasilnya maximal.
 
-Saya memotong daging ikan salmon menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong daging ikan salmon menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="20 menit" cook="10 menit" total="30 menit" serving="2">}}
 

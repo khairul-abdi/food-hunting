@@ -31,6 +31,9 @@ time: "25 menit"
 
 # serving
 serving: 5
+
+# is trending
+trending: true
 ---
 Tempe mendoan masakan rumahan yang sangat disukai masyarakat Indonesia. Hidangan tempe di goreng tepung yang sangat gurih dan enak, ramah untuk vegetarian. Saya pun juga doyan banget sama hidangan yang satu ini, gak bisa nolak deh kalo ada di meja :D
 
@@ -62,7 +65,7 @@ Cara membuat tempe mendoan yang lezat ini sangat mudah dan simpel. Bahannya mini
 
 Menggoreng tempe mendoan ini hanya cukup setengah matang ya. Ketika berwarna kuning setengah kering bisa di balik lalu diangkat. Itulah ciri khas tempe mendoan yang berasal dari Banyumas. Berikut simak selengkapnya di bawah ini.
 
-Saya memotong tempe menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong tempe menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="10 menit" cook="15 menit" total="25 menit" serving="5">}}
 
@@ -102,6 +105,6 @@ Saya memotong tempe menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk
 Jangan goreng lembaran tempe hingga kering dan berwarna coklat. Karena itu bukan khas tempe mendoan melainkan tempe goreng crispy.
 {{< /blockquote>}}
 
-Saya rekomen menyandingkan petis ikan madura sebagai petis cocolan tempe mendoan ini. Rasanya sangat gurih enak, resepnya bisa di check disini. [petisikanmadura](https://neztra.com/resep/petis-ikan-madura/)
+Saya rekomen menyandingkan petis ikan madura sebagai petis cocolan tempe mendoan ini. Rasanya sangat gurih enak, bisa klik resep [petis ikan madura](https://neztra.com/resep/petis-ikan-madura/).
 
 Kita sekarang sudah mengenal apa itu bedanya tempe mendoan dan tempe crispy. Jelas dua-duanya berbahan tempe tapi proses memasak dan bumbunya sedikit berbeda.

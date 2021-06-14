@@ -32,7 +32,7 @@ serving: 8
 ---
 Resep soto ayam kuah bening yang sangat disukai orang Indonesia. Masakan rumahan soto ayam ini sudah sangat umum dan sering kita jumpai dimanapun. Kadang kita jumpai di rumah, di warung pinggir jalan atau di kantin tempat kita bekerja.
 
-Membuat resep soto ayam kuning ini saya menggunakan ayam kampung yang muda. Saya suka rasa daging ayam kampung, tekstur dagingnya kenyal dan rasanya lebih sedap. Tapi jika tidak ada ayam kampung, tentu saja bisa menggunakan ayam negri :D
+Membuat resep soto ayam kuning ini saya menggunakan ayam kampung yang muda. Saya suka rasa daging ayam kampung, tekstur dagingnya kenyal dan rasanya lebih sedap. Tapi jika tidak ada ayam kampung, tentu saja bisa menggunakan ayam negeri :D
 
 ## Apa itu soto ayam sederhana?
 
@@ -40,7 +40,7 @@ Membuat resep soto ayam kuning ini saya menggunakan ayam kampung yang muda. Saya
 
 Soto ayam adalah olahan berbahan dari ayam yang di masak dengan bumbu dan aneka rempah. Bumbu resep soto ayam, bawang merah, bawang putih, kemiri, kunyit, lada, ketumbar dan pala. Ditambahkan aneka rempah serai, laos, jahe dan daun jeruk. Sehingga menghasilkan masakan berkuah berwarna kuning dengan rasa dan aroma yang khas.
 
-Soto ayam ini biasanya disajikan dengan nasi putih, sambal, kecap manis dan kecap asin. Ditambahkan juga taburan seledri atau daun bawang dan irisan tipis sayur kol kubis. Cita rasa dari soto ayam sederhana ini asin, sedap dan sangat gurih.
+Soto ayam ini biasanya disajikan dengan nasi putih, sambal, kecap manis, dan kecap asin. Toppingnya seledri atau daun bawang, irisan tipis kubis dan perasan air jeruk nipis. Cita rasa dari soto ayam sederhana ini asin, sedap, segar dan sangat gurih.
 
 ## Manfaat daging ayam kampung bagi kesehatan
 
@@ -82,7 +82,7 @@ Bikin resep soto ayam Jawa Timur yang enak ini sangatlah mudah. Hanya saja waktu
 
 Saya membuat soto ayam ini tidak menumis bumbunya terlebih dahulu. Karena bumbunya sudah di rebus bersama ayam dengan waktu yang lama. Jadi tidak perlu di tumis lagi.
 
-Saya memotong ayam kampung menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong ayam kampung menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 Berikut simak resep selengkapnya di bawah ini.
 

@@ -7,7 +7,7 @@ draft: false
 feature: "banner.png"
 
 # meta description
-description: "Resep membuat kimchi ala lidah orang Indonesia. Cara membuatnya bisa disesuaikan dengan selera masing-masing."
+description: "Resep kimchi rumahan ala lidah orang Indonesia. Cara membuatnya bisa disesuaikan dengan selera masing-masing."
 
 # taxonomies
 categories:
@@ -39,19 +39,25 @@ Akhirnya suatu hari saya pergi ke restaurant Korea dan saya menemukan menu kimch
 
 ## Apa itu kimchi?
 
-Kimchi adalah makanan pokok tradisional dalam masakan Korea. Kimchi dibuat dari sayuran sawi putih, lobak, wortel dan daun bawang. Dicampur dengan bumbu pilihan dan sangat bervariasi termasuk jahe, bawang putih gochugaru dll.
+{{< img src="apa.png" alt="Hasil kimchi" >}}
 
-Hidangan kimchi sayur yang difermentasi asal negara Korea ini sangat segar dan lezat. Citarasa kimchi ada asin, asam, hangat jahe, pedas dan manis semua terasa dari campuran bumbu. Sangat rekomen dicoba kalo kamu pecinta makanan salad dan lalapan karena pasti suka.
+Kimchi adalah makanan pokok tradisional dalam masakan Korea. Resep kimchi mudah dibuat dari sayuran sawi putih, lobak, wortel dan daun bawang. Dicampur dengan bumbu pilihan dan sangat bervariasi termasuk jahe, bawang putih gochugaru dll.
+
+{{< img src="sawiasin.png" alt="Sawi putih yang dilumuri garam" >}}
+
+Resep kimchi sederhana yang difermentasi asal negara Korea ini sangat segar dan lezat. Citarasa kimchi ada asin, asam, hangat jahe, pedas dan manis semua terasa dari campuran bumbu. Sangat rekomen dicoba kalo kamu pecinta makanan salad dan lalapan karena pasti suka.
 
 ## Mulai membuat
 
 {{< img src="sawi.png" alt="Sawi putih" >}}
 
-Cara membuat kimchi ini tidak begitu sulit. Bisa menggunakan sayuran seperti sawi putih, wortel, lobak putih untuk membuat kimchi. Gunakan dan pilih bumbu untuk membuat kimchi sesuai selera ya.
+Cara membuat resep kimchi halal ini tidak begitu sulit. Bisa menggunakan sayuran seperti sawi putih, wortel, lobak putih untuk membuat kimchi. Gunakan dan pilih bumbu untuk membuat kimchi sesuai selera ya.
+
+{{< img src="belah.png" alt="Sawi putih yang sudah dibelah" >}}
 
 Saya sudah ketagihan rasanya sejak pertama kali makan kimchi. Saya sering membuat kimchi dirumah, karena saya suka makan kimchi yang segar. Dari pengalaman ini saya ingin membagi resepnya, boleh di coba hehe.. Berikut simak resep membuat kimchi yang segar di bawah ini.
 
-Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="30 menit" cook="1 jam" total="1 jam 30" serving="6">}}
 
@@ -59,9 +65,11 @@ Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk
 
 -   3 buah sawi putih ukuran sedang
 -   2 batang daun bawang
+-   3 buah wortel iris korek api
 -   3 sdm kecap ikan
+-   1 sdt kaldu jamur
 -   5 sdm bubuk cabai (gochugaru bubuk kasar)
--   2 sdm garam (secukupnya) untuk membalur sawi
+-   3 sdm garam (secukupnya) untuk membalur sawi
 
 ### Saus
 
@@ -72,7 +80,9 @@ Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk
 ### Bumbu halus
 
 -   5 siung bawang putih
+-   1 buah bawang bombay cincang kasar
 -   3 ruas jahe kupas (sesuai selera)
+-   1 sdm ebi di rendam dulu
 {{< /post-info>}}
 
 {{< steps title="Cara membuat">}}
@@ -80,11 +90,11 @@ Saya memotong sayur menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk
 -   Balur semua sawi dengan garam di setiap lembarnya. Diamkan kurang lebih 1 jam sambil diperiksa di bolak balik.
 -   Potong-potong daun bawang 3 cm, cuci bersih
 -   Masukan bahan saus aduk rata dalam teflon. Nyalakan api, aduk-aduk masak sampai mengental, angkat biarkan dingin.
--   Siapkan wadah, masukan bumbu halus, saus, kecap ikan, bubuk cabai dan daun bawang. Aduk hingga rata, tes rasa.
--   jika sudah 1 jam, cuci bersih sawi putih dengan air mengalir sambil di peras.
+-   Siapkan wadahuntuk saus bumbu kimchi. Masukan bumbu halus, saus, kaldu jamur, kecap ikan, bubuk cabai, wortel dan daun bawang. Aduk hingga rata, tes rasa.
+-   Jika sudah 1 jam, cuci bersih sawi putih dengan air mengalir sambil di peras.
 -   Balurkan saus bumbu kimchi disetiap lembar sawi hingga rata. Tata ke dalam tupperware masukan ke dalam kulkas.
 -   Kimchi juga bisa langsung dikonsumsi, potong-potong kimchi terlebih dahulu.
--   Ambil kimchi ke dalam piring, hidangkan dengan suhu ruang.
+-   Ambil kimchi masukan kedalam piring, hidangkan dengan suhu ruang.
 {{< /steps>}}
 
 {{< blockquote>}}

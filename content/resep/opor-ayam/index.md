@@ -40,7 +40,7 @@ Opor ayam adalah masakan khas Indonesia dari Jawa Tengah. Opor ayam terbuat dari
 
 Cara membuat opor ayam ini membutuhkan ketelatenan. Hasil dari memasak opor ayam ayam ini sangat lezat. Berikut simak resepnya dibawah ini.
 
-Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="30 menit" cook="60 menit" total="90 menit" serving="8">}}
 

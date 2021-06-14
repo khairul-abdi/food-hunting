@@ -42,7 +42,7 @@ Ikan kakap goreng kering adalah olahan berbahan dasar ikan kakap. Ikan kakap di 
 
 Cara membuat ikan goreng kering yang mudah dan simpel. Bahannya minim dan mudah didapatkan di pasar.
 
-Saya memotong ikan kakap menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong ikan kakap menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 

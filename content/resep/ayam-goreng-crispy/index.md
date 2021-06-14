@@ -52,7 +52,7 @@ Cara membuat ayam goreng crispy ala diet keto ini tergolong mudah. Bahan-bahanny
 
 Bagi orang yang sehat, saya rekomen untuk mencoba resep ini. Karena resepnya sehat jadi kesehatan kita akan tetap terjaga. Ingat sehat itu mahal tapi sakit akan lebih mahal. Yuk! simak resepnya di bawah ini.
 
-Saya memotong dada ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong dada ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="15 menit" cook="10 menit" total="25 menit" serving="4">}}
 

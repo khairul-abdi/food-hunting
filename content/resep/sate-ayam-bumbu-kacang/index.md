@@ -52,7 +52,7 @@ Sate ayam adalah olahan dada ayam dipotong dadu dan di marinasi. Ditusuk sate da
 Cara membuat menu hidangan ini menggunakan bahan-bahan yang sehat. Sehingga menghasilkan rasa yang lezat dan juga sehat. 
 
 
-Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="30 menit" cook="20 menit" total="50 menit" serving="4">}}
 

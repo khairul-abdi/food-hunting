@@ -43,6 +43,8 @@ Burger ayam renyah adalah olahan dari berbahan roti dan ayam. Ayam di marinasi l
 
 Cara membuat burger ini tergolong mudah dan bahannya simple. Bisa menggunakan topping sayuran seperti tomat, selada, jalapeno, bawang merah dll. Semuanya bisa di pilih sesuai selera, atau mungkin tanpa sayur? ya, tentu saja bisa! kenapa tidak :D
 
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
+
 Berikut simak resepnya yang mudah dan simpel di bawah ini.
 
 {{< post-info prep="35 menit" cook="15 menit" total="50 menit" serving="4">}}

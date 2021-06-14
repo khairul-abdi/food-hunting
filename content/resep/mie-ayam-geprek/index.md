@@ -41,7 +41,7 @@ Mie ayam geprek adalah masakan kekinian yang mempunyai rasa gurih dan pedas. Ter
 
 Cara membuat ayam geprek ini tergolong mudah dan bahannya mudah didapat. Masakan rumahan ini lebih hemat dibuat sendiri dirumah.
 
-Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="15 menit" cook="15 menit" total="30 menit" serving="2">}}
 

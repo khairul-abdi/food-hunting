@@ -29,8 +29,6 @@ time: "35 menit"
 # serving
 serving: 4
 
-# is trending
-trending: true
 ---
 Menu hidangan ikan goreng crispy ala diet keto ini sangat menggugah selera. Rasanya begitu renyah di luar dan gurih didalam
 

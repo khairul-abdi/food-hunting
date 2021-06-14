@@ -56,7 +56,7 @@ Ayam goreng mentega yang khas dengan mentega ini berasal dari negara Belanda. Ba
 
 Cara membuat ayam goreng mentega ala diet keto ini sangat mudah. Bahanya simple dan rasanya sangat maximal. Cocok sekali menjadi menu hidangan sehat untuk sehari-hari.
 
-Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 Berikut simak resep yang lezat selengkapnya di bawah ini.
 

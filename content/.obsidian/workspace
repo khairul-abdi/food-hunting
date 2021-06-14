@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/tumis-zucchini/index.md",
+            "file": "resep/kimchi/index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s.click",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/tumis-zucchini/index.md",
+                "file": "resep/kimchi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/tumis-zucchini/index.md",
+    "resep/kimchi/index.md",
+    "resep/kimchi/sawi.png",
+    "resep/kimchi/apa.png",
+    "resep/kimchi/banner.png",
+    "resep/perkedel-kentang-simpel/index.md",
     "resep/resep-soto-ayam-sederhana/index.md",
-    "resep/tahu-isi-sayur/index.md",
-    "resep/_index.md",
-    "resep/index.md",
-    "resep/salad-semangka/index.md",
-    "resep/salad-semangka/mulai.png",
-    "resep/sambal-hijau/index.md",
-    "resep/salad-semangka/banner.png",
-    "resep/salad-buah/banner.png"
+    "resep/pentol-saus-mentega/index.md",
+    "resep/sayur-ketupat/index.md",
+    "resep/pecel-sayur/index.md",
+    "resep/tempe-mendoan/index.md"
   ]
 }

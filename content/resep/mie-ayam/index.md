@@ -59,7 +59,9 @@ Topping mie ayam sudah selayaknya dihidangkan dengan mie ayam. Mie ayam menjadi 
 
 Cara membuat mie ayam yang lezat ini begitu mudah. Hanya saja untuk melalui pembuatan mie ayam ini banyak yang harus dipersiapkan. Seperti minyak mie ayamnya, kecap asin, topping mie ayam, mie rebus dan bumbu di mangkunya. Semua persiapannya dilakukan dengan bertahap dan langkah selanjutnya menjadi lebih mudah :D
 
-Bumbu yang saya pakai membuat topping mie ayam ini adalah bumbu dari membuat minyak mie ayam. Jadi saya tidak membuat bumbu lagi dan bumbunya muat untuk membuat 1 kg dada ayam. Untuk bumbu topping mie ayam yang saya gunakan bisa check disini -->  [minyakmieayam](/resep/minyak-mie-ayam/)
+Bumbu yang saya pakai membuat topping mie ayam ini adalah bumbu dari membuat minyak mie ayam. Jadi saya tidak membuat bumbu lagi dan bumbunya muat untuk membuat 1 kg dada ayam. Untuk bumbu topping mie ayam yang saya gunakan bisa check disini -->  [minyak mie ayam](/resep/minyak-mie-ayam/)
+
+Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 Jika ingin mencampurkan bagian ayam yang lain juga bisa, tidak harus dada ayam. Berikut simak resep selengkapnya di bawah ini.
 

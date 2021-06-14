@@ -45,7 +45,7 @@ Cumi bumbu kuning adalah olahan berbahan cumi. Cumi dibumbui bersama aneka rempa
 
 Cara membuat cumi bumbu kuning yang mudah dan lezat. Berikut simak resepnya di bawah ini.
 
-Saya memotong cumi-cumi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya memotong cumi-cumi menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="25 menit" cook="10 menit" total="35 menit" serving="4">}}
 

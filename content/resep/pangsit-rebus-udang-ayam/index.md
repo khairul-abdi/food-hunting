@@ -40,7 +40,7 @@ Pangsit rebus ayam udang adalah makanan berbahan daging cincang. Daging dicampur
 
 Cara membuat pangsit rebus ini tergolong mudah dan praktis. Bahannya simple juga mudah di dapatkan di pasar atau order online.
 
-Saya mencincang daging ayam dan udang menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ADVYjp).
+Saya mencincang daging ayam dan udang menggunakan pisau yang tajam. Hasilnya bagus dan rapi, untuk pisaunya bisa di [check disini](https://s.click.aliexpress.com/e/_ABJJqr).
 
 {{< post-info prep="30 menit" cook="50 menit" total="80 menit" serving="8">}}
 
