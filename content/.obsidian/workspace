@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/kimchi/index.md",
+            "file": "resep/resep-tahu-tek-telur/index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Resep tahu t",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/kimchi/index.md",
+                "file": "resep/resep-tahu-tek-telur/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
-    "resep/kimchi/index.md",
-    "resep/kimchi/sawi.png",
-    "resep/kimchi/apa.png",
-    "resep/kimchi/banner.png",
-    "resep/perkedel-kentang-simpel/index.md",
+    "resep/resep-tahu-tek-telur/index.md",
+    "resep/tumis-tahu-kecap/index.md",
+    "resep/resep-sayur-sop-bumbu-iris/index.md",
+    "resep/resep-sayur-pare-kuah-santan/index.md",
     "resep/resep-soto-ayam-sederhana/index.md",
-    "resep/pentol-saus-mentega/index.md",
-    "resep/sayur-ketupat/index.md",
-    "resep/pecel-sayur/index.md",
-    "resep/tempe-mendoan/index.md"
+    "resep/resep-soto-ayam-sederhana/banner.png",
+    "resep/rawon/index.md",
+    "resep/perkedel-kentang-simpel/index.md",
+    "resep/petis-ikan-madura/index.md",
+    "resep/perkedel-kentang-simpel/tips.png"
   ]
 }
