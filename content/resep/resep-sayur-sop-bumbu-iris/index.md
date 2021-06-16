@@ -70,7 +70,7 @@ Biasanya memasak sayur sop juga bervariasi seperti menambahkan irisan sosis dan 
 {{< img src="tips.png" alt="Memasak sayur sop" >}}
 
 -   Jangan memasak sayur lebih dari 3 menit, agar nutrisi dan vitaminnya tetap terjaga.
--   Masukan sayuran yang lama proses pematangannya terlebih dahulu. Agar semua sayuran matang merata, tidak ada yang kematangan maupun kurang matang,
+-   Masukan sayuran yang lama proses pematangannya terlebih dahulu. Agar semua sayuran matang merata, tidak ada yang kematangan maupun kurang matang.
 
 ## Mulai memasak
 

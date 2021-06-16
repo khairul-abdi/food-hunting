@@ -15,7 +15,6 @@ categories:
 
 # post tags
 tags:
-  - "vegan"
   - "bebas-susu"
   - "vegetarian"
   - "Kuliner"

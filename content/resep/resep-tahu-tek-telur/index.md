@@ -1,7 +1,7 @@
 ---
 title: "Resep Tahu Tek Telur"
-date: 2021-06-14T18:07:45+02:00
-draft: true
+date: 2021-06-16T04:07:45+02:00
+draft: false
 
 # post thumb
 feature: "banner.png"
@@ -26,17 +26,18 @@ type: "post"
 recipe: true
 
 # prep time
-time: ""
+time: "30 menit"
 
 # serving
-serving: 1
+serving: 2
 ---
-
 Tahu tek telur yang sedap, gurih dan nikmat makanan yang disukai masyarakat Indonesia. Menu hidangan ini sangat mudah untuk dibuat sendiri dirumah dan hasilnya sangat lezat.
 
 Resep sambal kacang tahu tek ini sangat enak dan kaya akan cita rasa. Ada rasa asin, gurih, manis dan pedas jika suka ditambahkan cabe rawit. Membuat tahu tek ini saya hanya menggunakan lontong, timun, tahu, telur dan kerupuk. Jika suka menambahkan kecambah, tentu saja boleh dan rasanya jadi lebih segar.
 
 ## Apa itu tahu tek telur?
+
+{{< img src="apa.png" alt="Hasil tahu tek telur" >}}
 
 Tahu tek telur adalah olahan berbahan dari lontong, tahu, telur goreng dan mentimun. Resep bumbu tahu tek yakni kacang tanah, bawang putih, gula merah, petis dan kecap manis. Ditambahkan terasi bakar, kaldu jamur, cabe rawit dan air. Lontong, tahu, telur, dan timun di potong-potong dan disiram dengan sambal kacang diatasnya.
 
@@ -44,10 +45,14 @@ Tahu tek merupakan makanan tradisional yang terkenal di Surabaya, Jawa Timur. Bi
 
 ## Tips memasak tahu tek telur
 
+{{< img src="tips.png" alt="Potongan lontong, tahu, telur dan timun" >}}
+
 -   Jangan menggoreng tahu sampai kering agar tidak keras dan masih lembut jika digunting.
 -   Dinginkan kacang tanah terlebih dahulu setelah digoreng, agar menumbuk sambal kacangnya lebih mudah.
 
 ## Peralatan yang dibutuhkan untuk membuat tahu tek telur
+
+{{< img src="alat.png" alt="Tahu goreng" >}}
 
 -   Siapkan pisau, talenan dan gunting, untuk memotong tahu, lontong, telur, dan timun.
 -   Siapkan wajan, spatula dan saringan atau serok. Untuk menggoreng tahu dan telur juga untuk meniriskan setelah di goreng.
@@ -56,6 +61,8 @@ Tahu tek merupakan makanan tradisional yang terkenal di Surabaya, Jawa Timur. Bi
 -   Siapkan sendok teh, sendok makan dan timbangan digital. Untuk mengukur banyaknya sambal kacang dan kacang tanah.
 
 ## Mulai memasak
+
+{{< img src="mulai.png" alt="Bumbu kacang tahu tek telur" >}}
 
 cara membuat resep tahu telur yang mudah dan simpel. Bahannya mudah didapatkan di pasar dan rasanya sangat lezat. Sangat cocok dinikmati di sore atau malam hari dengan segelas es teh manis.
 

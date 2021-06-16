@@ -15,7 +15,6 @@ categories:
 
 # post tags
 tags:
-  - "vegan"
   - "vegetarian"
   - "kuliner"
 
