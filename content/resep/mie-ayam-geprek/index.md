@@ -85,3 +85,5 @@ Saya memotong daging ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi,
 {{< blockquote>}}
 Tambahkan topping keju atau mozarella jika ingin rasanya sedikit lebih gurih.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

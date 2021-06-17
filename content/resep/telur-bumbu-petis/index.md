@@ -11,7 +11,7 @@ description: "Resep telur bumbu petis yang gurih, sedap dan sangat menggugah sel
 
 # taxonomies
 categories:
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

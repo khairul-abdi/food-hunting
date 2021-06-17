@@ -11,7 +11,7 @@ description: "Resep cara membuat mie ayam yang sedap, wangi dan lezat. Hidangan 
 
 # taxonomies
 categories:
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:
@@ -120,3 +120,5 @@ Tambahkan sayuran sawi dan timun agar rasanya lebih enak dan segar. Tambahkan sa
 Saya tidak menggunakan micin untuk bumbu di mangkuk karena saya pikir kurang sehat. Sebagai gantinya saya menggunakan kaldu jamur.
 
 Jika ingin membuat porsi yang lebih sedikit juga bisa ya, tidak harus 9 porsi langsung. Jika topping ayamnya masih banyak, simpan dan masukan kedalam kulkas dalam wadah tertutup.
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

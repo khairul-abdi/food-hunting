@@ -76,3 +76,5 @@ Boleh banget dicoba resep ampela goreng ungkep yang enak dan simpel ini. Tambahk
 {{< blockquote>}}
 Jangan menggoreng ampela dengan api besar atau api sedang. Agar ampela tidak meletus dan minyak panasnya nyiprat.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

@@ -88,3 +88,6 @@ Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi,
 Oleskan bumbu sisa memasak ayam ketika sudah hampir selesai membakar/memanggang ayam. Agar ayam tidak terlihat hitam atau gosong.
 {{< /blockquote>}}
 
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).
+
+

@@ -88,3 +88,5 @@ Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi,
 Aduk terus ketika memasak santan agar santan tidak pecah.
 {{< /blockquote>}}
 
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).
+

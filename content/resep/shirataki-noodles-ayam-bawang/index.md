@@ -83,3 +83,4 @@ Gunakan sayuran dan bahan diet keto untuk membuat mie ayam bawang
 
 Menu hidangan ini sangat cocok disajikan di siang atau malam hari. Dengan disandingkan secangkir teh hijau bebas gula.
 
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

@@ -11,7 +11,7 @@ description: "Resep ampela kecap bumbu iris yang lezat dan simpel. Untuk penggem
 
 # taxonomies
 categories:
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:
@@ -99,3 +99,5 @@ Cara memasak ati ampela ini tergolong mudah. Hanya saja untuk membersihkan dan m
 -   Masak ampela hingga air menyusut, tes rasa, angkat.
 -   Ampela kecap bumbu iris yang lezat siap untuk dinikmati selagi hangat.
 {{< /steps>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

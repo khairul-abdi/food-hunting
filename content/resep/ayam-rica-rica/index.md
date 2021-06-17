@@ -85,3 +85,5 @@ Cara membuat ayam rica-rica ini tergolong gampang dan tidaklah sulit. Bumbunya j
 {{< blockquote>}}
 Goreng ayam hingga kering dan berwarna coklat hasilnya lebih bagus.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

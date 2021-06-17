@@ -91,3 +91,5 @@ Saya mencincang daging ayam dan udang menggunakan pisau yang tajam. Hasilnya bag
 {{< blockquote>}}
 Agar kulit wantan bisa merekat, gunakan air atau putih telur sebagai perekat.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

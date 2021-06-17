@@ -82,3 +82,5 @@ Jangan menambahkan terlalu banyak bumbu pada adonan daging, agar rasa daging tid
 {{< /blockquote>}}
 
 Siomay ayam udang sangat lezat di cocol dengan saus sambal. Lebih baik saus sambalnya bikin sendiri ya agar rasanya lebih pas sesuai selera.
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

@@ -84,3 +84,5 @@ Saya memotong dada ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi, u
 {{< blockquote>}}
 Perlu diingat bawah suhu akan menurun ketika memasukan ayam ke dalam minyak. Pastikan untuk menaikan sedikit volume api agar seimbang. Ketika sudah seimbang api bisa dikecilkan.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

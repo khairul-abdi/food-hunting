@@ -12,7 +12,7 @@ description: "Resep sosis bakar teflon yang gurih,sehat dan cepat saji. Cara mem
 # taxonomies
 categories:
   - "Masak Daging"
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:

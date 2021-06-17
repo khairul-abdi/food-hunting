@@ -28,7 +28,7 @@ recipe: true
 time: "40 menit"
 
 # serving
-serving: 8-9
+serving: 8
 
 # is trending
 trending: true
@@ -45,7 +45,7 @@ Ayam kecap adalah olahan berbahan ayam yang dibumbui dengan kecap. Ayam digoreng
 
 Cara membuat ayam kecap ini begitu mudah. Bahannya mudah di dapat dan harganya ramah di kantong. Sangat layak dihidangkan untuk setiap hari. Berikut simak resenya yang mudah dan simpel di bawah ini.
 
-{{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="8-9">}}
+{{< post-info prep="10 menit" cook="30 menit" total="40 menit" serving="8">}}
 
 ### Bahan
 
@@ -81,3 +81,5 @@ Jika air kurang bisa di tambahkan sesuai dengan bkebutuhan. Jika untuk menu diet
 {{< /blockquote>}}
 
 Menu hidangan ini sangat pas dihidangkan di sore hari. Dengan disandingkan semangkuk nasi hangat dan es jeruk nipis.
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

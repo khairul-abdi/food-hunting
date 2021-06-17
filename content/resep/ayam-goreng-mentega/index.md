@@ -94,3 +94,5 @@ Jangan menggoreng daging ayam terlalu lama. Agar tekstur daging ayam tetap empuk
 
 Menu hidangan ini sangat cocok dihidangkan di siang maupun sore hari. Dengan disandingkan semangkuk nasi shirataki dan teh hijau bebas gula.
 
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).
+

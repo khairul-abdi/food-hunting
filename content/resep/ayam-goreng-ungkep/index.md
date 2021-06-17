@@ -87,3 +87,5 @@ Ungkep potongan ayam sedang selama 45 menit. Untuk ayam potongan kecil ungkep se
 {{< /blockquote>}}
 
 Jika dibuat stock, masukan ayam yang sudah dingin setelah diukep ke dalam wadah. Tutup rapat dalam wadah kedap udara, masukan ke dalam kulkas.
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

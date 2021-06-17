@@ -11,7 +11,7 @@ description: "Resep soto sederhana yang enak, sedap dan gurih. Hidangan lezat da
 
 # taxonomies
 categories:
-  - "Masak Ayam"
+  - "Masak Ayam dan Bebek"
 
 # post tags
 tags:
@@ -128,3 +128,5 @@ Berikut simak resep selengkapnya di bawah ini.
 {{< /steps>}}
 
 Membuat soto ayam dari ayam negeri tidak membutuhkan proses yang begitu lama. Cukup rebus ayam selama 30 menit, ayam negeri sudah empuk.
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

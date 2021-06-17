@@ -86,3 +86,5 @@ Saya memotong bagian ayam menggunakan pisau yang tajam. Hasilnya bagus dan rapi,
 {{< blockquote>}}
 Menggoreng bawang putih pada sambal berguna untuk mengurangi bau bawang putih yang tajam. Sehingga terhindar dari rasa mual dan pusing.
 {{< /blockquote>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

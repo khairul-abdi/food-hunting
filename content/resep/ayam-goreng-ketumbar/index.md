@@ -89,3 +89,5 @@ Goreng ayam dengan api sedang sebentar lalu kecilkan api agar ayam matang merata
 {{< /blockquote>}}
 
 Pastikan rasa asin sedap pada bumbu sudah pas ketika memarinasi ayam. Memarinasi ayam dalam kulkas dengan waktu yang lebih lama lebih bagus. 
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).

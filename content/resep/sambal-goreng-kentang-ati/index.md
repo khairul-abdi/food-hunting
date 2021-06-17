@@ -11,7 +11,7 @@ description: "Resep sambal goreng kentang ati yang enak dan lezat. Masakan rumah
 
 # taxonomies
 categories:
-  - "Masak ayam"
+  - "Masak Ayam dan Bebek"
   - "Masak Sayur"
   - "Sambal"
 

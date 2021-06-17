@@ -88,3 +88,5 @@ Menu ayam popcorn ini sangat cocok dihidangkan sehari-hari sebagai cemilan/lauk.
 -   Goreng ayam dengan api sedang lalu api kecil hingga berwarna kecoklatan. Angkat.
 -   Hidangkan ayam popcorn selagi hangat dengan saus sambal.
 {{< /steps>}}
+
+Jika Anda suka dengan resep ayam yang saya buat. Temukan juga resep ayam yang lainnya [disini](/categories/masak-ayam-dan-bebek/).
