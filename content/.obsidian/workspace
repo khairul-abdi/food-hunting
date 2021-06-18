@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/resep-masakan-telur-ceplok-bumbu-bali/index.md",
+            "file": "resep/resep-bakso-ayam-rasa-sapi/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/resep-masakan-telur-ceplok-bumbu-bali/index.md",
+                "file": "resep/resep-bakso-ayam-rasa-sapi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
+    "resep/resep-bakso-ayam-rasa-sapi/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/resep-bakso-ayam-rasa-sapi/alat.png",
+    "resep/pentol-bakso-ayam/index.md",
     "resep/resep-masakan-telur-ceplok-bumbu-bali/index.md",
     "resep/resep-ayam-saus-tiram-sederhana/index.md",
     "resep/sosis-bakar-teflon/index.md",
     "resep/siomay-ayam-udang/index.md",
     "resep/shirataki-noodles-ayam-bawang/index.md",
-    "resep/sate-ayam-bumbu-kacang/index.md",
-    "resep/resep-soto-ayam-sederhana/index.md",
-    "resep/pangsit-rebus-udang-ayam/index.md",
-    "resep/opor-ayam/index.md",
-    "resep/mie-ayam-geprek/index.md"
+    "resep/sate-ayam-bumbu-kacang/index.md"
   ]
 }
