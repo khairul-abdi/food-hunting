@@ -50,14 +50,6 @@ Bumbu balinya yakni bawang merah, bawang putih, cabe merah, tomat, kemiri, jahe 
 -   Sebutir telur ceplok mengandung 97 kalori. 27 kalori berasal dari protein dan 71 berasal dari lemak.
 -   Sebutir telur ceplok mengandung 184 miligram kolesterol, 95 mg sodium & 70 mg sodium.
 
-## Tips membuat telur ceplok bumbu bali
-
-{{< img src="tips.png" alt="Hasil telur ceplok dalam teflon" >}}
-
--   Goreng telur ceplok hingga matang, jangan setengah matang. Agar tekstur telur ceploknya padat dan kokoh.
--   Masak bumbu bali sampai matang sempurna, mungkin akan membutuhkan waktu yang sedikit lama. Agar baunya harum dan rasanya lezat, karena jika bumbunya setengah matang. Rasanya tidak begitu enak dan baunya tidak sedap.
--   Aduk telur ceplok yang sudah dimasukan dalam bumbu bali secara perlahan. Dengan perlahan ratakan bumbu balinya ke telur ceplok secara merata. Agar telur tidak mudah sobek dan tetap utuh.
-
 ## Peralatan yang dibutuhkan untuk membuat telur ceplok bumbu bali
 
 {{< img src="alat.png" alt="Memasak bumbu bali" >}}
@@ -66,6 +58,14 @@ Bumbu balinya yakni bawang merah, bawang putih, cabe merah, tomat, kemiri, jahe 
 -   Siapkan blender bumbu untuk menghaluskan semua bahan bumbu.
 -   Siapkan gelas mengukur untuk mengukur banyaknya ml air dan minyak goreng.
 -   Siapkan sendok teh dan sendok makan untuk mengukur banyaknya bahan dan bumbu.
+
+## Tips membuat telur ceplok bumbu bali
+
+{{< img src="tips.png" alt="Hasil telur ceplok dalam teflon" >}}
+
+-   Goreng telur ceplok hingga matang, jangan setengah matang. Agar tekstur telur ceploknya padat dan kokoh.
+-   Masak bumbu bali sampai matang sempurna, mungkin akan membutuhkan waktu yang sedikit lama. Agar baunya harum dan rasanya lezat, karena jika bumbunya setengah matang. Rasanya tidak begitu enak dan baunya tidak sedap.
+-   Aduk telur ceplok yang sudah dimasukan dalam bumbu bali secara perlahan. Dengan perlahan ratakan bumbu balinya ke telur ceplok secara merata. Agar telur tidak mudah sobek dan tetap utuh.
 
 ## Mulai memasak
 

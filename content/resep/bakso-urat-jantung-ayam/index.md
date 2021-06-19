@@ -44,17 +44,6 @@ Bakso urat jantung ayam olahan pentol yang berbahan dari daging dan jantung ayam
 
 Cita rasa bakso urat jantung ayam ini padat, kenyal gurih dan enak. Rasanya memang lezat tapi tidak segurih pentol bakso sapi. Jika ingin lebih gurih bisa mencampurkan daging sapi dan menggunakan penyedap rasa sapi.
 
-## Tips memasak bakso urat jantung ayam
-
-{{< img src="tips.png" alt="Belahan jantung ayam dalam blender" >}}
-
--   Belah jantung ayam menjadi dua sebelum dicuci bersih adalah hal yang wajib. Karena didalam jantung ayam terdapat darah yang menggumpal. Sehingga jantung ayam tidak bersih maksimal jika tidak dibelah terlebih dahulu.
--   Lumuri dada ayam dan jantung dengan air jeruk nipis, juga hal yang wajib. Hal ini membantu menghilangkan bau amis atau bau tak sedap pada daging dan jantung ayam.
--   Menggunakan telur dan baking powder pada adonan pentol sangat dianjurkan. Hal ini berguna untuk mengembangkan dan mengenyalkan hasil pentol.
--   Tepung sagu, tepung tapioka dan tepung maizena adalah pilihan terbaik untuk membuat pentol. Jenis tepung ini berguna untuk mengikat air dalam adonan pentol. Sehingga pentol bakso urat menjadi padat dan kenyal.
--   Jangan memasukan bulatan pentol yang baru dibentuk dalam air mendidih. Karena suhu yang terlalu panas bisa membuat adonan pentol yang baru dibentuk rusak. Hasilnya pentol menjadi tidak padat atau lembek.
--   Merendam pentol dalam air es setelah diangkat dari panci air panas. Agar menghentikan proses memasak pada pentol, menjaga kepadatan dan kekenyalannya. Jika ingin menyimpan pentol dalam freezer atau tidak langsung memasaknya bisa tahan lama.
-
 ## Peralatan yang diperlukan untuk membuat bakso urat jantung ayam
 
 {{< img src="alat.png" alt="Kuah bakso dan bakso urat jantung ayam dalam panci" >}}
@@ -65,6 +54,18 @@ Cita rasa bakso urat jantung ayam ini padat, kenyal gurih dan enak. Rasanya mema
 -   Siapkan wadah pengukur untuk mengukur banyaknya ml air.
 -   Siapkan timbangan digital untuk mengukur banyaknya gr jantung ayam dan dada ayam.
 -   Siapkan sendok makan dan sendok teh. Untuk menghitung banyaknya bumbu, tepung dan air jeruk nipis.
+
+## Tips memasak bakso urat jantung ayam
+
+{{< img src="tips.png" alt="Belahan jantung ayam dalam blender" >}}
+
+-   Belah jantung ayam menjadi dua sebelum dicuci bersih adalah hal yang wajib. Karena didalam jantung ayam terdapat darah yang menggumpal. Sehingga jantung ayam tidak bersih maksimal jika tidak dibelah terlebih dahulu.
+-   Lumuri dada ayam dan jantung dengan air jeruk nipis, juga hal yang wajib. Hal ini membantu menghilangkan bau amis atau bau tak sedap pada daging dan jantung ayam.
+-   Merebus jantung ayam dengan aneka rempah-rempah terlebih dahulu, juga dianjurkan. Metode ini dapat menghilangkan bau amis pada jantung ayam. Gunakan rempah-rempah jahe, lengkuas, daun salam, daun jeruk dan serai dalam panci rebusan.
+-   Menggunakan telur dan baking powder pada adonan pentol sangat dianjurkan. Hal ini berguna untuk mengembangkan dan mengenyalkan hasil pentol.
+-   Tepung sagu, tepung tapioka dan tepung maizena adalah pilihan terbaik untuk membuat pentol. Jenis tepung ini berguna untuk mengikat air dalam adonan pentol. Sehingga pentol bakso urat menjadi padat dan kenyal.
+-   Jangan memasukan bulatan pentol yang baru dibentuk dalam air mendidih. Karena suhu yang terlalu panas bisa membuat adonan pentol yang baru dibentuk rusak. Hasilnya pentol menjadi tidak padat atau lembek.
+-   Merendam pentol dalam air es setelah diangkat dari panci air panas. Agar menghentikan proses memasak pada pentol, menjaga kepadatan dan kekenyalannya. Jika ingin menyimpan pentol dalam freezer atau tidak langsung memasaknya bisa tahan lama.
 
 ## Mulai memasak
 

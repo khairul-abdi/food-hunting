@@ -58,15 +58,6 @@ Makanan petis ikan ini berasal dari Sumenep, Madura, Jawa Timur, Indonesia. Peti
 
 Kebanyakan ikan laut sangat cocok untuk membuat petis ikan madura ini. Bisa juga menggunakan lorjuk atau kerang bambu untuk membuat petis ini.
 
-## Tips membuat petis ikan
-
-{{< img src="tips.png" alt="Ikan layang dalam panci" >}}
-
--   Pilih jenis ikan yang segar, agar kuah kaldu ikan hasilnya lezat dan gurih. Jangan memilih ikan yang sudah direbus karena kaldunya sudah berkurang atau hilang.
--   Rebus kaldu ikan dengan api besar ketika memulai proses penyusutan air. Jika air sudah menyusut, bumbu dimasukan baru kecilkan api, masak sambil terus diaduk.
--   Untuk bahan pengental bisa menggunakan tepung tapioka atau tepung maizena.
--   Jangan menutup botol ketika baru memasukkan petis ikan yang masih panas. Agar tidak bau tengik dan bisa tahan lama. Untuk menyimpan petis lebih baik disimpan didalam kulkas.
-
 ## Peralatan yang dibutuhkan untuk membuat petis ikan
 
 {{< img src="alat.png" alt="Hasil kaldu ikan" >}}
@@ -77,6 +68,15 @@ Kebanyakan ikan laut sangat cocok untuk membuat petis ikan madura ini. Bisa juga
 -   Siapkan wadah atau pengukur untuk mengukur banyak ml air.
 -   Siapkan sendok teh dan sendok makan untuk mengukur banyaknya bahan yang dibutuhkan.
 -   Siapkan timbangan digital untuk mengukur banyaknya gr gula merah.
+
+## Tips membuat petis ikan
+
+{{< img src="tips.png" alt="Ikan layang dalam panci" >}}
+
+-   Pilih jenis ikan yang segar, agar kuah kaldu ikan hasilnya lezat dan gurih. Jangan memilih ikan yang sudah direbus karena kaldunya sudah berkurang atau hilang.
+-   Rebus kaldu ikan dengan api besar ketika memulai proses penyusutan air. Jika air sudah menyusut, bumbu dimasukan baru kecilkan api, masak sambil terus diaduk.
+-   Untuk bahan pengental bisa menggunakan tepung tapioka atau tepung maizena.
+-   Jangan menutup botol ketika baru memasukkan petis ikan yang masih panas. Agar tidak bau tengik dan bisa tahan lama. Untuk menyimpan petis lebih baik disimpan didalam kulkas.
 
 ## Mulai membuat
 

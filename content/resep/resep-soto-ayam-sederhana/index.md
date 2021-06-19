@@ -40,7 +40,7 @@ Membuat resep soto ayam kuning ini saya menggunakan ayam kampung yang muda. Saya
 
 Soto ayam adalah olahan berbahan dari ayam yang di masak dengan bumbu dan aneka rempah. Bumbu resep soto ayam, bawang merah, bawang putih, kemiri, kunyit, lada, ketumbar dan pala. Ditambahkan aneka rempah serai, laos, jahe dan daun jeruk. Sehingga menghasilkan masakan berkuah berwarna kuning dengan rasa dan aroma yang khas.
 
-Soto ayam ini biasanya disajikan dengan nasi putih, sambal, kecap manis, dan kecap asin. Toppingnya seledri atau daun bawang, irisan tipis kubis dan perasan air jeruk nipis. Cita rasa dari soto ayam sederhana ini asin, sedap, segar dan sangat gurih.
+Soto ayam ini biasanya disajikan dengan nasi putih, sambal, kecap manis, dan kecap asin. Toppingnya seledri atau daun bawang, irisan tipis kubis, koya dan air jeruk nipis. Cita rasa dari soto ayam sederhana ini asin, sedap, segar dan sangat gurih.
 
 ## Manfaat daging ayam kampung bagi kesehatan
 

@@ -43,13 +43,6 @@ Tahu tek telur adalah olahan berbahan dari lontong, tahu, telur goreng dan menti
 
 Tahu tek merupakan makanan tradisional yang terkenal di Surabaya, Jawa Timur. Biasanya sajian ini di tambahkan kecambah dan irisan daun seledri. Cita rasa tahu tek telur ini sedikit asin, gurih dan cenderung manis.
 
-## Tips memasak tahu tek telur
-
-{{< img src="tips.png" alt="Potongan lontong, tahu, telur dan timun" >}}
-
--   Jangan menggoreng tahu sampai kering agar tidak keras dan masih lembut jika digunting.
--   Dinginkan kacang tanah terlebih dahulu setelah digoreng, agar menumbuk sambal kacangnya lebih mudah.
-
 ## Peralatan yang dibutuhkan untuk membuat tahu tek telur
 
 {{< img src="alat.png" alt="Tahu goreng" >}}
@@ -59,6 +52,13 @@ Tahu tek merupakan makanan tradisional yang terkenal di Surabaya, Jawa Timur. Bi
 -   Siapkan wadah pengukur untuk mengukur banyak ml air dan minyak.
 -   Siapkan mangkuk kecil dan sendok untuk mengocok telur.
 -   Siapkan sendok teh, sendok makan dan timbangan digital. Untuk mengukur banyaknya sambal kacang dan kacang tanah.
+
+## Tips memasak tahu tek telur
+
+{{< img src="tips.png" alt="Potongan lontong, tahu, telur dan timun" >}}
+
+-   Jangan menggoreng tahu sampai kering agar tidak keras dan masih lembut jika digunting.
+-   Dinginkan kacang tanah terlebih dahulu setelah digoreng, agar menumbuk sambal kacangnya lebih mudah.
 
 ## Mulai memasak
 

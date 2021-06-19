@@ -42,15 +42,6 @@ Siomay goreng adalah olahan dari berbahan kulit pangsit, tepung tapioka, daging 
 
 Kulit pangsit di isi dengan adonan daging dan jadilah bentuk siomay yang imut nan cantik. Lalu dikukus sebentar, diangkat dan digoreng dalam minyak panas yang banyak. Sehingga menghasilkan siomay goreng berwarna emas kecoklatan yang renyah. Cita rasa dari hidangan siomay goreng ini asin, gurih, sedap, kriuk dan sangat lezat.
 
-## Tips membuat siomay goreng
-
-{{< img src="tips.png" alt="Hasil membentuk siomay goreng" >}}
-
--   Jangan mengisi adonan daging dalam kulit pangsit terlalu banyak. Agar siomay tidak sulit untuk ditutup bagian tengahnya dan hasilnya rapi. Jika terlalu banyak memasukan adonan daging dalam kulit pangsit. Hasilnya siomay tidak mudah ditutup dan tidak cantik.
--   Olesi kukusan dengan minyak goreng di bagian bawah dan area samping setinggi siomay. Agar siomay tidak lengket di bagian bawah dan samping panci kukusan ketika diangkat.
--   Kukus siomay dengan menjaga jaraknya 1-2 inci. Agar siomay tidak menyatu atau lengket dan rusak ketika diangkat atau dipisahkan.
--   Masukan siomay dalam minyak panas, goreng dengan api sedang terlebih dahulu. Lalu kecilkan api, goreng hingga matang. Jika siomay di goreng dengan api sedang yang lama, siomay bisa cepat hitam atau gosong.
-
 ## Peralatan yang dibutuhkan untuk membuat siomay goreng
 
 {{< img src="alat.png" alt="Menggoreng siomay" >}}
@@ -62,6 +53,15 @@ Kulit pangsit di isi dengan adonan daging dan jadilah bentuk siomay yang imut na
 -   Siapkan mangkuk kecil dan kuas untuk mengoles minyak di panci kukusan.
 -   Siapkan sendok makan dan sendok teh. Untuk mengukur banyaknya tepung, minyak, bumbu dan mengukur adonan daging ke kulit pangsit.
 -   Siapkan loyang atau baki atau talenan. Untuk meletakan siomay yang sudah siap untuk dikukus.
+
+## Tips membuat siomay goreng
+
+{{< img src="tips.png" alt="Hasil membentuk siomay goreng" >}}
+
+-   Jangan mengisi adonan daging dalam kulit pangsit terlalu banyak. Agar siomay tidak sulit untuk ditutup bagian tengahnya dan hasilnya rapi. Jika terlalu banyak memasukan adonan daging dalam kulit pangsit. Hasilnya siomay tidak mudah ditutup dan tidak cantik.
+-   Olesi kukusan dengan minyak goreng di bagian bawah dan area samping setinggi siomay. Agar siomay tidak lengket di bagian bawah dan samping panci kukusan ketika diangkat.
+-   Kukus siomay dengan menjaga jaraknya 1-2 inci. Agar siomay tidak menyatu atau lengket dan rusak ketika diangkat atau dipisahkan.
+-   Masukan siomay dalam minyak panas, goreng dengan api sedang terlebih dahulu. Lalu kecilkan api, goreng hingga matang. Jika siomay di goreng dengan api sedang yang lama, siomay bisa cepat hitam atau gosong.
 
 ## Mulai memasak
 
@@ -108,3 +108,5 @@ Resep yang saya buat ini menggunakan blender khusus daging. Blender dagingnya bi
 {{< /steps>}}
 
 Jika ingin di buat stok dinginkan dulu siomay yang habis di kukus. Lalu simpan dalam wadah kedap udara, masukan kedalam freezer.
+
+Jika Anda suka dengan resep siomay goreng yang saya buat. Baca juga resep siomay ikan goreng [disini](/resep/siomay-ikan-goreng/).

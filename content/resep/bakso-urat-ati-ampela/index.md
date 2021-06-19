@@ -38,6 +38,12 @@ Bakso urat ati ampela atau di sebut juga pentol bakso kasar, salah satu kreasi m
 
 Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/bumbu kacang. Biasanya pentol dimasak dengan kuah bakso, disajikan dengan mie, tahu, gorengan dan lontong. Jangan lupa saus, sambal, taburan daun bawang dan bawang goreng ya.
 
+## Apa itu bakso urat ati ampela?
+
+{{< img src="bakso-urat-ati-ampela.png" alt="Bakso Urat Ati Ampela Sebelum di Rebus" >}}
+
+Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama telur ayam. Sedangkan ampela sendiri digiling kasar/dicincang kasar. Semua bahan dan bumbu dicampur menjadi satu. Jadilah adonan pentol dan di bentuk bulat, di masukan ke dalam air panas. Sehingga menghasilkan proses pembuatan pentol yang sempurna.
+
 ## Daging ayam bagian apa yang dibutuhkan untuk membuat bakso urat ini?
 
 {{< img src="daging-ayam.png" alt="Daging Dada Ayam Fillet" >}}
@@ -45,12 +51,6 @@ Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/bumbu kacang. Bi
 Yang dibutuhkan untuk membuat pentol bakso urat ini adalah dada/paha ayam fillet. Kali ini saya membuat pentol menggunakan dada, hati dan ampela ayam. Rasanya sangat enak dan kenyal, rasa urat dari ampela membuat bakso urat ini jadi spesial.
 
 Saya mencampurkan hati ayam di adonan ini karena pentol menjadi tidak terlihat pucat. Bagian dalam pentol menjadi berwarna kemerahan, jadi tambah makin menarik.
-
-## Apa itu bakso urat ati ampela?
-
-{{< img src="bakso-urat-ati-ampela.png" alt="Bakso Urat Ati Ampela Sebelum di Rebus" >}}
-
-Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama telur ayam. Sedangkan ampela sendiri digiling kasar/dicincang kasar. Semua bahan dan bumbu dicampur menjadi satu. Jadilah adonan pentol dan di bentuk bulat, di masukan ke dalam air panas. Sehingga menghasilkan proses pembuatan pentol yang sempurna.
 
 ## Tips membuat bakso urat ati ampela
 
@@ -61,6 +61,7 @@ Bakso urat ini terbuat dari dada, ati dan ampela ayam dan digiling halus bersama
 - Menggunakan air es/es batu ini wajib dalam membuat pentol. Air es/es batu membantu menjaga suhu tetap rendah ketika daging digiling. Sehingga protein pada daging pentol tetap terjaga.
 - Jangan menggunakan air mendidih ketika memasukan bulatan pentol. Pentol yang baru dibentuk bulat sangat sensitif terhadap suhu tinggi. Akibat dari kesalahan ini pentol bisa rusak, lembek dan tidak enak.
 - Melumuri dada ayam, hati dan ampela dengan jeruk nipis sangat dianjurkan. Hal ini dapat membantu menghilangkan bau amis pada bagian ayam.
+- Merebus ati ampela dengan aneka rempah-rempah terlebih dahulu. Metode ini juga dapat menghilangkan bau amis pada ati ampela. Gunakan rempah-rempah jahe, lengkuas, daun salam, daun jeruk dan serai.
 
 ## Mulai memasak
 
