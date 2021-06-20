@@ -30,9 +30,9 @@ time: "1 jam"
 # serving
 serving: 50 biji/5
 ---
-Resep siomay goreng viral yang gurih, sedap dan renyah. Masakan rumahan yang mudah dibuat dan praktis ini sangat rekomen dibuat sendiri dirumah. Hidangan cemilan favorit untuk seluruh keluarga dan disukai banyak orang.
+Resep [siomay goreng](/resep/siomay-ikan-goreng/) viral yang gurih, sedap dan renyah. Masakan rumahan yang mudah dibuat dan praktis ini sangat rekomen dibuat sendiri dirumah. Hidangan cemilan favorit untuk seluruh keluarga dan disukai banyak orang.
 
-Siomay goreng yang gurih dan lezat ini makanan yang simpel untuk dibuat bekal dan piknik. Meskipun dingin justru siomay goreng ini terasa gurih dan kriuk di mulut. Biasanya saya memakannya dengan dicocol saus sambal yang pedas. Atau biasanya saya makan dengan bakso jika di kulkas masih ada stok pentol bakso :D
+[Siomay](/resep/siomay-ayam-udang/) goreng yang gurih dan lezat ini makanan yang simpel untuk dibuat bekal dan piknik. Meskipun dingin justru siomay goreng ini terasa gurih dan kriuk di mulut. Biasanya saya memakannya dengan dicocol saus sambal yang pedas. Atau biasanya saya makan dengan bakso jika di kulkas masih ada stok pentol bakso :D
 
 ## Apa itu siomay goreng?
 

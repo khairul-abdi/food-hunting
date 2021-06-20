@@ -32,9 +32,9 @@ time: "1 jam"
 # serving
 serving: 8
 ---
-Bakso urat jantung ayam menu kreasi hidangan terbaru dari jantung ayam yang lezat. Cara penyajiannya sederhana, bisa disajikan dengan kuah, digoreng maupun di bakar. Sangat layak untuk menjadi hidangan spesial bersama keluarga dirumah.
+[Bakso urat](/resep/bakso-urat-ati-ampela/) jantung ayam menu kreasi hidangan terbaru dari jantung ayam yang lezat. Cara penyajiannya sederhana, bisa disajikan dengan kuah, digoreng maupun di bakar. Sangat layak untuk menjadi hidangan spesial bersama keluarga dirumah.
 
-Untuk pecinta makanan ayam dan jeroan, boleh banget cobain resep saya yang satu ini. Rasanya enak dan sangat menggugah selera. Saya sangat rekomen membuat bakso urat jantung ayam yang ekonomis disaat pandemi ini. Jika bisa menambahkan sedikit daging sapi kedalam adonan pentol, rasanya lebih mantap :D
+Untuk pecinta makanan ayam dan jeroan, boleh banget cobain resep saya yang satu ini. Rasanya enak dan sangat menggugah selera. Saya sangat rekomen membuat [bakso urat](/resep/bakso-urat/) jantung ayam yang ekonomis disaat pandemi ini. Jika bisa menambahkan sedikit daging sapi kedalam adonan pentol, rasanya lebih mantap :D
 
 ## Apa itu bakso urat jantung ayam?
 

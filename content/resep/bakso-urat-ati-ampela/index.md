@@ -34,9 +34,9 @@ serving: 10
 # is favorite
 favorite: true
 ---
-Bakso urat ati ampela atau di sebut juga pentol bakso kasar, salah satu kreasi masakan ayam. Bakso urat masakan rumahan ini terasa padat dan kenyal, rekomen untuk di coba.
+Bakso urat ati ampela atau di sebut juga pentol bakso kasar, salah satu kreasi masakan ayam. [Bakso urat](/resep/bakso-urat-jantung-ayam/) masakan rumahan ini terasa padat dan kenyal, rekomen untuk di coba.
 
-Bakso urat ati ampela bisa disajikan dengan dicocol saus sambal/bumbu kacang. Biasanya pentol dimasak dengan kuah bakso, disajikan dengan mie, tahu, gorengan dan lontong. Jangan lupa saus, sambal, taburan daun bawang dan bawang goreng ya.
+[Bakso urat](resep/bakso-urat/) ati ampela bisa disajikan dengan dicocol saus sambal/bumbu kacang. Biasanya pentol dimasak dengan kuah bakso, disajikan dengan mie, tahu, gorengan dan lontong. Jangan lupa saus, sambal, taburan daun bawang dan bawang goreng ya.
 
 ## Apa itu bakso urat ati ampela?
 

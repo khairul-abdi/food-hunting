@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/siomay-ikan-goreng/index.md",
+            "file": "resep/masak-jantung-ayam-pedas/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/siomay-ikan-goreng/index.md",
+                "file": "resep/masak-jantung-ayam-pedas/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "bc45331af98f4248",
   "lastOpenFiles": [
+    "resep/masak-jantung-ayam-pedas/index.md",
+    "resep/bakso-urat/index.md",
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/bakso-urat-jantung-ayam/index.md",
+    "resep/bakso-urat-ati-ampela/banner.png",
     "resep/siomay-ikan-goreng/index.md",
     "resep/resep-siomay-goreng/index.md",
-    "resep/sup-ikan-dori/index.md",
+    "resep/siomay-ayam-udang/index.md",
     "resep/resep-bakso-ayam-rasa-sapi/index.md",
-    "resep/resep-siomay-goreng/tips.png",
-    "resep/resep-sayur-pare-kuah-santan/tips.png",
-    "resep/siomay-ikan-goreng/banner.png",
-    "resep/siomay-ikan-goreng/tips.png",
-    "resep/siomay-ikan-goreng/mulai.png",
-    "resep/resep-sayur-pare-kuah-santan/index.md"
+    "resep/pentol-bakso-ayam/index.md"
   ]
 }

@@ -30,11 +30,11 @@ time: "1 jam"
 # serving
 serving: 50 biji/10
 ---
-Cara membuat siomay goreng hidangan yang renyah kriuk di luar dan kenyal didalam. Menu hidangan ini sangat enak dicocol dengan saus sambal maupun dengan bumbu kacang. Camilan yang setia menemani Anda ketika sedang santai atau menonton TV.
+Cara membuat [siomay goreng](/resep/resep-siomay-goreng/) hidangan yang renyah kriuk di luar dan kenyal didalam. Menu hidangan ini sangat enak dicocol dengan saus sambal maupun dengan bumbu kacang. Camilan yang setia menemani Anda ketika sedang santai atau menonton TV.
 
 {{< img src="pembukaan.png" alt="Siomay ikan goreng dalam saus sambal" >}}
 
-Siomay ikan goreng ini sangat nikmat dicocol dengan saus sambal yang pedas manis.  Saus sambalnya lebih enak jika dibuat sendiri. Rasa pedas, manis dan gurihnya, bisa di sesuaikan dengan selera kita masing-masing.
+[Siomay](/resep/siomay-ayam-udang/) ikan goreng ini sangat nikmat dicocol dengan saus sambal yang pedas manis.  Saus sambalnya lebih enak jika dibuat sendiri. Rasa pedas, manis dan gurihnya, bisa di sesuaikan dengan selera kita masing-masing.
 
 ## Apa itu siomay ikan goreng?
 
@@ -50,7 +50,7 @@ Siomay ikan goreng termasuk jenis gorengan yang mudah dibuat dan ekonomis. Cita 
 
 -   Meningkatkan kesehatan jantung
 -   Memperbaiki jaringan dan sel
--   Menjaga kesehatn kulit
+-   Menjaga kesehatan kulit
 -   Menyehatkan tulang
 -   Mencegah inflamasi
 
@@ -84,7 +84,7 @@ Saya rekomen untuk menggunakan blender yang tajam dan bagus. Agar hasil gilingan
 
 -   Jika menggunakan teri yang kering, rendam terlebih dahulu ikan teri. Agar dagingnya lunak dan tidak keras lagi.
 -   Selain ikan teri bisa menggunakan udang geragau atau rebon. Rasanya juga sangat gurih dan ekonomis.
--   Olesi kukusan dengan minyak goreng terlebih dahulu & beri jarak ketika mengukus siomay. Agar siomay tidak lengket di kukusan dan menempel satu sama lainnya.
+-   Olesi kukusan dengan minyak goreng terlebih dahulu & beri jarak ketika mengukus siomay. Agar siomay tidak lengket di kukusan dan tidak menempel satu sama lainnya.
 -   Gunakan api kecil dan minyak panas yang banyak ketika menggoreng siomay. Agar siomay matang merata dan menghasilkan siomay dengan warna yang menarik.
 
 ## Mulai memasak

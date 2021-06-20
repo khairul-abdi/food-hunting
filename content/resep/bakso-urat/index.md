@@ -31,9 +31,9 @@ time: "90 menit"
 # serving
 serving: 8
 ---
-Bakso urat atau dikenal juga pentol kasar merupakan masakan rumahan sangat menggugah selera. Siapa sih yang gak kenal dengan aroma bumbu dan dagingnya yang gurih? Dengan baunya saja sudah enak apalagi rasanya... bikin lidah ketagihan 🤤
+[Bakso urat](/resep/bakso-urat-ati-ampela/) atau dikenal juga pentol kasar merupakan masakan rumahan sangat menggugah selera. Siapa sih yang gak kenal dengan aroma bumbu dan dagingnya yang gurih? Dengan baunya saja sudah enak apalagi rasanya... bikin lidah ketagihan 🤤
 
-Saya adalah tipe orang penggemar pentol bakso yang gurih dan enak. Dari kuah, bakso tahu, pentol halus dan bakso urat, saya hobi memasak semuanya. Yah harap di maklumi, inilah gejala orang jatuh cinta dengan masakan enak :D
+Saya adalah tipe orang penggemar pentol bakso yang gurih dan enak. Dari kuah, bakso tahu, pentol halus dan [bakso urat](/resep/bakso-urat-jantung-ayam/), saya hobi memasak semuanya. Yah harap di maklumi, inilah gejala orang jatuh cinta dengan masakan enak :D
 
 ## Apa itu bakso urat?
 

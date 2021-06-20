@@ -34,7 +34,7 @@ serving: 14
 # is trending
 trending: true
 ---
-Siomay ayam udang atau dikenal dengan simomay dimsum sangat menggugah selera. Menu masakan rumahan ini sangat pas di cocol dengan saus sambal.
+Siomay ayam udang atau dikenal dengan [siomay](/resep/siomay-ikan-goreng/) dimsum sangat menggugah selera. Menu masakan rumahan ini sangat pas di cocol dengan saus sambal.
 
 ## Apa itu siomay ayam udang?
 

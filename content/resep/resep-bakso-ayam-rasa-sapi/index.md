@@ -31,11 +31,11 @@ time: "1 jam"
 # serving
 serving: 12
 ---
-Bakso ayam rasa daging sapi yang lezat dan sangat menggugah selera. Masakan ini merupakan salah satu kreasi dari daging ayam yang wajib untuk dicoba. Menu hidangan ini sangat layak dihidangkan untuk keluarga tercinta.
+[Bakso ayam](/resep/pentol-bakso-ayam/) rasa daging sapi yang lezat dan sangat menggugah selera. Masakan ini merupakan salah satu kreasi dari daging ayam yang wajib untuk dicoba. Menu hidangan ini sangat layak dihidangkan untuk keluarga tercinta.
 
 {{< img src="pembukaan.png" alt="Hasil bakso ayam rasa sapi" >}}
 
-Membuat bakso ayam rasa sapi ini sama seperti membuat pentol bakso biasanya. Hanya saja ada beberapa bahan yang berbeda. Contohnya seperti pengenyal, gula merah dan perasa sapi. Dari perbedaan tersebut, menghasilkan bakso ayam berwarna lebih gelap, kenyal dan berasa sapinya.
+Membuat [bakso](/resep/pentol-mercon/) ayam rasa sapi ini sama seperti membuat pentol bakso biasanya. Hanya saja ada beberapa bahan yang berbeda. Contohnya seperti pengenyal, gula merah dan perasa sapi. Dari perbedaan tersebut, menghasilkan bakso ayam berwarna lebih gelap, kenyal dan berasa sapinya.
 
 ## Apa itu bakso ayam rasa sapi?
 

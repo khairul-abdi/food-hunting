@@ -34,7 +34,7 @@ serving: 8
 # is favorite
 favorite: true
 ---
-Pentol bakso ayam masakan rumahan yang ramah di kantong & rasanya sangat menggugah selera. Menu hidangan ini sangat enak dicocol dengan saus sambal maupun saus kacang. Biasanya pentol ini juga disajikan bersama kuah bakso, seperti sajian bakso biasanya.
+Pentol [bakso ayam](/resep/resep-bakso-ayam-rasa-sapi/) masakan rumahan yang ramah di kantong & rasanya sangat menggugah selera. Menu hidangan ini sangat enak dicocol dengan saus sambal maupun saus kacang. Biasanya [pentol](/resep/pentol-mercon/) ini juga disajikan bersama kuah bakso, seperti sajian bakso biasanya.
 
 Hasil pentol bakso ayam ini menyenangkan karena murmer, padat dan kenyal. Waktu direbus pentolnya mengembang dan enak membuat lidah ketagihan. Pentol ini bisa di buat untuk stok di freezer dan bs di masak lagi dengan kuah bakso. Saya mencoba membuat pentol mercon, dan saya masak bersama jenis masakan lainnya. Hasilnya lezat dan juga pentol buatan rumah ini lebih aman dan sehat. :)
 
