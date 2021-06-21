@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bc45331af98f4248",
+        "id": "19165d8ec87c94c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/masak-jantung-ayam-pedas/index.md",
+            "file": "resep/kerang-hitam-masak-kari/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/masak-jantung-ayam-pedas/index.md",
+                "file": "resep/kerang-hitam-masak-kari/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc45331af98f4248",
+  "active": "19165d8ec87c94c2",
   "lastOpenFiles": [
+    "resep/kerang-hitam-masak-kari/index.md",
     "resep/masak-jantung-ayam-pedas/index.md",
-    "resep/bakso-urat/index.md",
-    "resep/bakso-urat-ati-ampela/index.md",
-    "resep/bakso-urat-jantung-ayam/index.md",
-    "resep/bakso-urat-ati-ampela/banner.png",
-    "resep/siomay-ikan-goreng/index.md",
-    "resep/resep-siomay-goreng/index.md",
-    "resep/siomay-ayam-udang/index.md",
-    "resep/resep-bakso-ayam-rasa-sapi/index.md",
-    "resep/pentol-bakso-ayam/index.md"
+    "resep/kerang-hitam-masak-kari/alat.png",
+    "resep/rawon/index.md",
+    "resep/kecap-asin/index.md",
+    "resep/kerang-hitam-masak-kari/apa2.png",
+    "resep/kerang-hitam-masak-kari/manfaat.png",
+    "resep/kerang-hitam-masak-kari/apa.png",
+    "resep/kecap-asin/banner.png",
+    "resep/bakso-urat/index.md"
   ]
 }
