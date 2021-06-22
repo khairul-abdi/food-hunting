@@ -30,9 +30,9 @@ time: "30 menit"
 # serving
 serving: 4
 ---
-Ayam saus tiram yang mudah dibuat sendiri dirumah dan rasanya sangat lezat. Rasanya gurih, asin dan masin, sangat rekomen dimasak sehari-sehari. Masakan rumahan ini adalah hidangan terbaik untuk disajikan bersama keluarga tercinta.
+Resep ayam saus tiram yang mudah dibuat sendiri dirumah dan rasanya sangat lezat. Rasanya gurih, asin dan masin, sangat rekomen dimasak sehari-sehari. Masakan rumahan ini adalah hidangan terbaik untuk disajikan bersama keluarga tercinta.
 
-Biasanya saya memasak ayam saus tiram saori, tapi tidak harus pake saori. Semua jenis saus tiram bisa dipakai, meski beda merknya tapi rasanya tidak jauh beda. Sebelum memasak persiapkan dulu saus tiramnya. Karena disini saus tiram berperan penting untuk memasak ayam yang lezat ini.
+Biasanya saya memasak ayam saus tiram merk saori, tapi tidak harus pake saori. Semua jenis saus tiram bisa dipakai, meski beda merknya tapi rasanya tidak jauh beda. Sebelum memasak persiapkan dulu saus tiramnya. Karena disini saus tiram berperan penting untuk memasak ayam yang lezat ini.
 
 ## Apa itu ayam saus tiram?
 
@@ -64,7 +64,7 @@ Semua bumbu di iris lalu dimasak bersama kecap manis, saus tiram, lada dan penye
 
 {{< img src="mulai.png" alt="Paha ayam" >}}
 
-Cara membuat resep ayam saus tiram sederhana ini tergolong mudah. Jika ingin membuat ayam saus tiram pedas, tinggal menambahkan cabe rawit sesuai selera.
+Membuat ayam saus tiram sederhana ini tergolong mudah. Jika ingin membuat ayam saus tiram dengan rasa yang pedas. Tinggal menambahkan cabe rawit sesuai selera.
 
 Gunakan pisau dapur yang tajam agar memasak lebih mudah. Untuk pisau dapurnya bisa [check disini](https://s.click.aliexpress.com/e/_AeB8hl).
 

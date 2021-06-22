@@ -117,7 +117,9 @@ Biasanya untuk lada bubuknya saya pake merk ladaku, hasilnya sangat enak. Untuk 
 -   2,5 gr lada bubuk
 -   1 sdm garam
 -   250 ml air es/es batu
+ {{< /post-info>}}
 
+{{< steps title="Cara membuat">}}
 -   Cuci bersih dada ayam dengan air mengalir lalu lumuri dengan perasan air jeruk nipis. Diamkan selama 10 menit, bilas hingga bersih.
 -   Potong-potong dada ayam persiapan untuk di blender. Masukan bahan bumbu, telur, air es dan daging ayam ke dalam blender daging. Blender hingga halus.
 -   Masukan daging ayam ke dalam wadah. Tambahkan tepung tapioka, tepung sagu, perasa daging sapi, baking powder dan pengenyal. Uleni adonan hingga tercampur rata.
@@ -126,5 +128,6 @@ Biasanya untuk lada bubuknya saya pake merk ladaku, hasilnya sangat enak. Untuk 
 -   Pentol yang sudah dingin bisa di buat stok, dimasukan dalam freezer. Cara menyimpannya, masukan pentol dalam wadah kedap udara dan masukan ke dalam freezer.
 -   Pentol yang di makan langsung bisa di masak lagi dengan kuah bakso.
 -   Hidangkan pentol bakso ayam yang kenyal dan lezat selagi hangat.
+{{< /steps>}}
 
 Menggiling daging ayam ke tukang penggilingan di pasar, biasanya minimal 2 kg daging. Jika ingin membuat 2 kg bakso ayam rasa sapi, bumbu dan bahannya berlaku kelipatannya.

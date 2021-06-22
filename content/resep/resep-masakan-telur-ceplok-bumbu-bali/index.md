@@ -11,7 +11,7 @@ description: "Cara memasak telur ceplok bumbu bali yang gurih dan lezat. Masakan
 
 # taxonomies
 categories:
-  - "Masak Ayam dan Bebek"
+  - "Masak Telur"
 
 # post tags
 tags:

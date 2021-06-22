@@ -25,7 +25,7 @@ type: "post"
 recipe: true
 
 # prep time
-time: "45 menit"
+time: "1 jam 15 menit"
 
 # serving
 serving: 4
@@ -90,6 +90,7 @@ Gunakan pisau dapur yang tajam agar memotong bumbu lebih mudah. Untuk pisau dapu
 -   Jangan konsumsi kerang dalam keadaan mentah. Karena efek samping bagi kesehatan sangat besar. Sebaiknya kerang direbus atau dikukus terlebih dahulu.
 -   Jangan memakan kerang yang cangkangnya tidak terbuka setelah dimasak. Hal ini terjadi karena kerang sudah mati sebelum dimasak. kerang yang sudah mati sangat cepat membusuk, jika dimakan rasanya tidak enak.
 -   Buang serabut di kerang hitam terlebih dahulu sebelum dimasak. Agar rasanya enak dan tidak merasa mual ketika dimakan.
+-   Rendam kerang selama 30 menit bersama air jeruk dan garam. Agar pasir dan kotoran dalam kerang keluar dan kerang tidak bau amis.
 -   Waktu yang dibutuhkan untuk merebus kerang hanya 3 menit. Jangan terlalu lama merebus kerang, agar tidak terlalu matang dan terlalu empuk. Setelah direbus, angkat dan siram dengan air dingin. Lalu cek kerang, jika ada kerang cangkangnya tidak terbuka, lebih baik dibuang saja.
 -   Menyiram kerang yang baru diangkat dari rebusan air panas dengan air dingin. Berguna untuk menghentikan proses pematangan pada kerang. Jadi ketika diolah lagi kerang tidak terlalu matang.
 
@@ -103,11 +104,13 @@ Memasak kari kerang hitam ini simpel mudah dan praktis. Jika tidak ada kerang hi
 
 Untuk sadingan kerang hitam masak kari ini saya menggunakan kentang goreng frozen. Untuk merk dan bentuknya bebas apa saja. Saya memilih yang bulat karena terlihat lucu, imut dan lebih crispy. Jika ingin menyandingkan kerang hitam masak kari dengan nasi juga bisa :)
 
-{{< post-info prep="15 menit" cook="30 menit" total="45 menit" serving="4">}}
+{{< post-info prep="45 menit" cook="30 menit" total="75 menit" serving="4">}}
 
 ### Bahan
 
 -   1 kg kerang hitam
+-   1 buah jeruk nipis
+-   1 sdm garam
 -   500 gr kentang goreng
 -   1 sdm mentega
 -   1 sdm bubuk kari
@@ -140,12 +143,12 @@ Untuk sadingan kerang hitam masak kari ini saya menggunakan kentang goreng froze
 
 {{< steps title="Cara membuat">}}
 -   Ambil serabut yang muncul dalam belahan kerang hitam satu persatu hingga selesai.
--   Cuci kerang dengan air di baskom lalu bilas mengalir, tiriskan.
+-   Cuci kerang lalu rendam dengan air. Tambahkan perasan air jeruk nipis dan 1 sdm garam, diamkan selama 30 menit. Bilas hingga bersih dengan air mengalir, tiriskan.
 -   Ambil panci, masukan 1 liter air lalu rebus air hingga mendidih.
 -   Masukan kerang hitam, masak selama 3 menit. Angkat lalu ambil 500 ml air kaldu kerang dan sisihkan. Lalu tiriskan kerang dan siram kerang dengan air dingin
 -   Panaskan wajan, masukan mentega. Tumis bumbu iris dan bubuk kari hingga harum kecuali daun bawang, masak dengan api kecil.
 -   Masukan 500 ml air kaldu kerang, santan, daun jeruk dan penyedap rasa. Aduk-aduk dan masak hingga mendidih dan matang, masak dengan api sedang.
--   Masukan kerang dan daun bawang, aduk bersama kuah kari hingga tercampur rata. Masak selama 1 menit, tes rasa lalu matikan api.
+-   Masukan kerang dan daun bawang, aduk bersama kuah kari hingga tercampur rata. Masak selama 1 menit dengan api kecil, tes rasa lalu matikan api.
 {{< /steps>}}
 
 {{< steps title="Menggoreng kentang">}}

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/kerang-hitam-masak-kari/index.md",
+            "file": "resep/dimsum-daging-sapi/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/kerang-hitam-masak-kari/index.md",
+                "file": "resep/dimsum-daging-sapi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "19165d8ec87c94c2",
   "lastOpenFiles": [
-    "resep/kerang-hitam-masak-kari/index.md",
-    "resep/masak-jantung-ayam-pedas/index.md",
-    "resep/kerang-hitam-masak-kari/alat.png",
-    "resep/rawon/index.md",
-    "resep/kecap-asin/index.md",
-    "resep/kerang-hitam-masak-kari/apa2.png",
-    "resep/kerang-hitam-masak-kari/manfaat.png",
-    "resep/kerang-hitam-masak-kari/apa.png",
-    "resep/kecap-asin/banner.png",
-    "resep/bakso-urat/index.md"
+    "resep/dimsum-daging-sapi/index.md",
+    "resep/daging-sapi-bumbu-bali/index.md",
+    "resep/ayam-cabe-hijau/index.md",
+    "resep/resep-masakan-telur-ceplok-bumbu-bali/index.md",
+    "resep/telur-bumbu-petis/index.md",
+    "resep/ayam-cabai-hijau/index.md",
+    "resep/hot-dog/index.md",
+    "resep/ayam-geprek/index.md",
+    "resep/resep-ayam-saus-tiram-sederhana/index.md",
+    "resep/bakso-urat-jantung-ayam/index.md"
   ]
 }
