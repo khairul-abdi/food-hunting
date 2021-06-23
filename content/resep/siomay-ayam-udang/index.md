@@ -34,11 +34,11 @@ serving: 14
 # is trending
 trending: true
 ---
-Siomay ayam udang atau dikenal dengan [siomay](/resep/siomay-ikan-goreng/) dimsum sangat menggugah selera. Menu masakan rumahan ini sangat pas di cocol dengan saus sambal.
+[Siomay](/resep/siomay-ikan-goreng/) ayam udang atau dikenal dengan [siomay dimsum](/resep/dimsum-daging-sapi/) sangat menggugah selera. Menu masakan rumahan ini sangat pas di cocol dengan saus sambal.
 
 ## Apa itu siomay ayam udang?
 
-Siomay ayam udang/dimsum adalah makanan Tiongkok yang cukup populer di Indonesia. Rasanya sangat lezat, teksturnya empuk dan gurih. Berbahan dasar ayam dan udang dibungkus dengan kulit siomay merupakan ciri khas hidangan ini.
+[Siomay](/resep/resep-siomay-goreng/) ayam udang/dimsum adalah makanan Tiongkok yang cukup populer di Indonesia. Rasanya sangat lezat, teksturnya empuk dan gurih. Berbahan dasar ayam dan udang dibungkus dengan kulit siomay merupakan ciri khas hidangan ini.
 
 ## Mulai membuat
 
