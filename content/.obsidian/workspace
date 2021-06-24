@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/dimsum-daging-sapi/index.md",
+            "file": "resep/rujak-mangga-muda/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/dimsum-daging-sapi/index.md",
+                "file": "resep/rujak-mangga-muda/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "19165d8ec87c94c2",
   "lastOpenFiles": [
+    "resep/rujak-mangga-muda/index.md",
+    "resep/perkedel-tahu/index.md",
+    "resep/telur-bumbu-petis/index.md",
+    "resep/telur-bumbu-petis/petis-telur.png",
+    "artikel/10-tips-membuat-pentol-bakso/index.md",
     "resep/dimsum-daging-sapi/index.md",
-    "resep/siomay-ayam-udang/index.md",
-    "resep/dimsum-daging-sapi/apa2.png",
-    "resep/dimsum-daging-sapi/apa.png",
-    "resep/dimsum-daging-sapi/banner.png",
-    "resep/dimsum-daging-sapi/kandungan.png",
-    "resep/dimsum-daging-sapi/mulai.png",
-    "resep/dimsum-daging-sapi/tips.png",
-    "resep/dimsum-daging-sapi/alat.png",
-    "resep/ayam-cabe-hijau/index.md"
+    "artikel/10-tips-membuat-pentol-bakso/air-panas.png",
+    "artikel/10-tips-membuat-pentol-bakso/daging.png",
+    "resep/resep-bakso-ayam-rasa-sapi/apa.png",
+    "resep/resep-bakso-ayam-rasa-sapi/apa2.png"
   ]
 }

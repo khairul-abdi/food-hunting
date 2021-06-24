@@ -92,7 +92,7 @@ Memasak dimsum daging daging sapi ini dengan cara di kukus. Mengukusnya tidak me
 
 {{< img src="tips.png" alt="Dimsum yang baru dibentuk" >}}
 
--   Menggunakan labu siam atau bengkoang, sangat wajib untuk membuat dimsum. Hal ini berguna untuk membuat tekstur dimsumnya empuk dan lembut, tidak bantat.
+-   Menggunakan labu siam/bengkoang, sangat di sarankan untuk membuat dimsum. Hal ini berguna untuk membuat tekstur dimsumnya empuk dan lembut, tidak bantat.
 -   Isi adonan ke dalam kulit wantan hingga penuh, agar hasil dimsumnya terlihat cantik.
 -   Mengoles minyak dalam kukusan, agar dimsum tidak lengket terhadap panci kukusannya. Jadi ketika dimsum diangkat menjadi sangat mudah, kulitnya tidak lengket maupun robek.
 -   Berikan jarak ketika mengukus dimsum, agar dimsum tidak menempel satu sama lainnya.

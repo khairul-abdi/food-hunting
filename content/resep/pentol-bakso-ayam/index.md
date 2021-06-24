@@ -95,4 +95,4 @@ Jangan merebus pentol waktu di bentuk bulat agar bulatan pentol tidak rusak.
 
 Hasil pentol yang di bentuk bulat ukuran sedang menghasilkan 40-45 buah pentol. Hasil pentol yang dibentuk bulatan kecil menghasilkan 80-90 buah pentol.
 
-Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya disini. [pentolbakso](/categories/masak-pentol/)
+Jika Anda suka dengan resep pentol bakso saya buat. Temukan juga resep pentol bakso yang lainnya [disini]](/categories/masak-pentol/)
