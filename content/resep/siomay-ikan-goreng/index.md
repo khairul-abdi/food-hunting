@@ -48,6 +48,8 @@ Siomay ikan goreng termasuk jenis gorengan yang mudah dibuat dan ekonomis. Cita 
 
 ## Manfaat ikan teri untuk kesehatan tubuh
 
+{{< img src="manfaat.png" alt="Ikan teri" >}}
+
 -   Meningkatkan kesehatan jantung
 -   Memperbaiki jaringan dan sel
 -   Menjaga kesehatan kulit
@@ -55,6 +57,8 @@ Siomay ikan goreng termasuk jenis gorengan yang mudah dibuat dan ekonomis. Cita 
 -   Mencegah inflamasi
 
 ## Kandungan nutrisi ikan teri per 20 gram
+
+{{< img src="gizi.png" alt="Ikan teri" >}}
 
 -   74 mg natrium
 -   3,981 mg vitamin B3

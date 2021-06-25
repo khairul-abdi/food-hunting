@@ -96,7 +96,7 @@ Gunakan pisau dapur yang tajam agar memotong bumbu lebih mudah. Untuk pisau dapu
 
 ## Mulai memasak
 
-{{< img src="mulai.png" alt="Kuah kari dalam panci" >}}
+{{< img src="mulai.png" alt="Merebus kerang hitam" >}}
 
 Memasak kari kerang hitam ini simpel mudah dan praktis. Jika tidak ada kerang hitam bisa menggunakan jenis kerang yang lainnya. Cara memasaknya sama saja seperti tips memasak kerang diatas.
 

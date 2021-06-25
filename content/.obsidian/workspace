@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/rujak-mangga-muda/index.md",
+            "file": "resep/resep-bakso-ayam-rasa-sapi/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/rujak-mangga-muda/index.md",
+                "file": "resep/resep-bakso-ayam-rasa-sapi/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "19165d8ec87c94c2",
   "lastOpenFiles": [
-    "resep/rujak-mangga-muda/index.md",
-    "resep/perkedel-tahu/index.md",
-    "resep/telur-bumbu-petis/index.md",
-    "resep/telur-bumbu-petis/petis-telur.png",
-    "artikel/10-tips-membuat-pentol-bakso/index.md",
-    "resep/dimsum-daging-sapi/index.md",
-    "artikel/10-tips-membuat-pentol-bakso/air-panas.png",
-    "artikel/10-tips-membuat-pentol-bakso/daging.png",
-    "resep/resep-bakso-ayam-rasa-sapi/apa.png",
-    "resep/resep-bakso-ayam-rasa-sapi/apa2.png"
+    "resep/resep-bakso-ayam-rasa-sapi/index.md",
+    "resep/Pentol-cilok-ayam/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/pentol-bakso-ayam/index.md",
+    "resep/bakso-urat-jantung-ayam/index.md",
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/bakso-urat/index.md",
+    "resep/bakso-urat-ati-ampela/hasil-pentol-bakso-urat.png",
+    "resep/gulai-ayam-kampung/index.md",
+    "resep/masak-kerang-lada-hitam/index.md"
   ]
 }

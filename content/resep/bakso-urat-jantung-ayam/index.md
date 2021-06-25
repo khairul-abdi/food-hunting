@@ -67,6 +67,8 @@ Cita rasa bakso urat jantung ayam ini padat, kenyal gurih dan enak. Rasanya mema
 -   Jangan memasukan bulatan pentol yang baru dibentuk dalam air mendidih. Karena suhu yang terlalu panas bisa membuat adonan pentol yang baru dibentuk rusak. Hasilnya pentol menjadi tidak padat atau lembek.
 -   Merendam pentol dalam air es setelah diangkat dari panci air panas. Agar menghentikan proses memasak pada pentol, menjaga kepadatan dan kekenyalannya. Jika ingin menyimpan pentol dalam freezer atau tidak langsung memasaknya bisa tahan lama.
 
+Untuk tips membuat pentol bakso secara rinci dan lengkap, bisa dibaca [disini](/artikel/10-tips-membuat-pentol-bakso/).
+
 ## Mulai memasak
 
 {{< img src="mulai.png" alt="Adonan bakso urat jantung ayam" >}}

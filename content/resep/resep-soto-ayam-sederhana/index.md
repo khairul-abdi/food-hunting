@@ -34,9 +34,9 @@ Resep soto ayam kuah bening yang sangat disukai orang Indonesia. Masakan rumahan
 
 Membuat resep soto ayam kuning ini saya menggunakan ayam kampung yang muda. Saya suka rasa daging ayam kampung, tekstur dagingnya kenyal dan rasanya lebih sedap. Tapi jika tidak ada ayam kampung, tentu saja bisa menggunakan ayam negeri :D
 
-## Apa itu soto ayam sederhana?
+## Apa itu soto ayam?
 
-{{< img src="apa.png" alt="Hasil soto ayam" >}}
+{{< img src="manfaat.png" alt="Hasil soto ayam" >}}
 
 Soto ayam adalah olahan berbahan dari ayam yang di masak dengan bumbu dan aneka rempah. Bumbu resep soto ayam, bawang merah, bawang putih, kemiri, kunyit, lada, ketumbar dan pala. Ditambahkan aneka rempah serai, laos, jahe dan daun jeruk. Sehingga menghasilkan masakan berkuah berwarna kuning dengan rasa dan aroma yang khas.
 
@@ -44,7 +44,7 @@ Soto ayam ini biasanya disajikan dengan nasi putih, sambal, kecap manis, dan kec
 
 ## Manfaat daging ayam kampung bagi kesehatan
 
-{{< img src="manfaat.png" alt="Hasil soto ayam" >}}
+{{< img src="ayam.png" alt="Potongan daging ayam kampung" >}}
 
 -   Memiliki kandungan toksin yang sedikit
 -   Mutu gizi lebih tinggi

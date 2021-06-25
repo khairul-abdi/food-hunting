@@ -63,6 +63,8 @@ Saya mencampurkan hati ayam di adonan ini karena pentol menjadi tidak terlihat p
 - Melumuri dada ayam, hati dan ampela dengan jeruk nipis sangat dianjurkan. Hal ini dapat membantu menghilangkan bau amis pada bagian ayam.
 - Merebus ati ampela dengan aneka rempah-rempah terlebih dahulu. Metode ini juga dapat menghilangkan bau amis pada ati ampela. Gunakan rempah-rempah jahe, lengkuas, daun salam, daun jeruk dan serai.
 
+Untuk tips membuat pentol bakso secara rinci dan lengkap, bisa dibaca [disini](/artikel/10-tips-membuat-pentol-bakso/).
+
 ## Mulai memasak
 
 {{< img src="hasil-pentol-bakso-urat.png" alt="Hasil Pentol Bakso Urat Ati Ampela" >}}

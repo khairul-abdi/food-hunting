@@ -47,6 +47,10 @@ Bakso ayam rasa sapi adalah olahan berbahan dari daging ayam. Membuat pentol bak
 
 Sebagai pecinta makanan bakso, saya suka sekali membuat aneka masakan pentol bakso. Kali ini saya membuat bakso ayam tapi rasanya sapi. Hasilnya pentolnya sangat enak, sangat rekomen untuk di coba. Cita rasa bakso ayam rasa sapi ini gurih, padat dan kenyal, membuat lidah ketagihan.
 
+## Tips membuat bakso ayam rasa sapi
+
+Membuat bakso ayam rasa sapi yang padat dan kenyal. Banyak sekali tahap dan tips yang harus dilakukan. Untuk tips membuat pentol bakso secara rinci dan lengkap, bisa dibaca [disini](/artikel/10-tips-membuat-pentol-bakso/).
+
 ## Manfaat bakso bagi kesehatan
 
 {{< img src="manfaat.png" alt="Bakso ayam dalam panci" >}}

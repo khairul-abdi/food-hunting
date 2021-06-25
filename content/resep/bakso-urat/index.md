@@ -41,6 +41,10 @@ Saya adalah tipe orang penggemar pentol bakso yang gurih dan enak. Dari kuah, ba
 
 Bakso urat adalah olahan pentol bakso yang berbahan dari urat daging sapi. Dicampur dengan tepung sagu/tapioka, telur, bahan pengenyal dan bumbu. Bumbunya yakni bawang putih, lada, bawang goreng dan penyedap rasa. Hanya saja tekstur bakso urat ini lebih kasar tapi rasanya lebih gurih dan sedap.
 
+## Tips membuat bakso urat
+
+Untuk membuat bakso urat yang padat dan kenyal. Banyak sekali tips dan tahap yang harus dilakukan. Saya sudah menulis tentang tipsnya sedetail dan serinci mungkin. Baca disini untuk mengetahui tips selengkapnya, [tips membuat pentol bakso](/artikel/10-tips-membuat-pentol-bakso/).
+
 ## Mulai memasak
 
 {{< img src="bakso-urat.png" alt="Bakso Urat Setelah di Siram Air Es" >}}

@@ -46,6 +46,10 @@ Pentol bakso ayam adalah sejenis jajanan yang bisa di temukan di Indonesia. Terb
 
 Pentol banyak dijumpai terutama di Jawa Timur dan Jawa Tengah Indonesia. Membuat pentol ini simpel, resepnya saya tulis sedetail mungkin agar mudah untuk di mengerti. Pentol ayam yang terbuat dari daging ayam ini berwarna pucat. Jika ingin pentol yang berwarna merah bisa menambahkan ati atau jantung ayam ketika menggiling adonannya.
 
+## Tips membuat pentol bakso ayam
+
+Membuat pentol bakso ayam yang padat dan kenyal. Banyak sekali tahap dan tips yang harus dilakukan. Untuk tips membuat pentol bakso secara rinci dan lengkap, bisa dibaca [disini](/artikel/10-tips-membuat-pentol-bakso/).
+
 ## Mulai membuat
 
 {{< img src="hasil-pentol-setelah-disiram-air-es.png" alt="Pentol Bakso Ayam Setelah di Siram Air Es" >}}

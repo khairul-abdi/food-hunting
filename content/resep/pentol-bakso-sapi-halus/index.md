@@ -53,6 +53,8 @@ Penyajian pentol bakso sapi halus pada umumnya disajikan bersama kuah. Ditambahk
 - Menggunakan tepung sagu membuat warna pentol lebih gelap. Menggunakan tepung tapioka membuat warna pentol lebih terang dan pucat. Soal rasa tepung sagu dan tepung tapioka sama-sama kenyal, terbaik untuk membuat bakso.
 - Menggiling daging bisa menggunakan blender atau food processor. Juga bisa menggunakan mesin penggilingan lainnya yang tersedia.
 
+Untuk tips membuat pentol bakso secara rinci dan lengkap, bisa dibaca [disini](/artikel/10-tips-membuat-pentol-bakso/).
+
 ## Mulai memasak
 
 Cara membuat pentol bakso ini tergolong susah-susah gampang. Membutuhkan keterampilan tangan untuk membentuk bulatan pentolnya. Pada umumnya membentuk bulatan pentol ini menggunakan sendok.
