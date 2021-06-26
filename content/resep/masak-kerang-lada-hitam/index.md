@@ -79,9 +79,9 @@ Kerang hitam banyak manfaatnya untuk kesehatan tubuh. Kerang hitam mengandung ka
 
 -   Saya tidak menyarankan memasak kerang berkulit dalam teflon. Karena kulit kerang dapat menggores teflon dan akhirnya teflon menjadi rusak.
 -   Merendam kerang dengan larutan garam dan air jeruk nipis sangat disarankan. Hal ini berguna untuk membuat kotoran dan pasir keluar dari dalam kerang. Sehingga kerang menjadi bersih, rasanya enak dan tidak bau amis.
--   Pilih jenis kerang yang segar, kerang yang segar ketika direbus cangkangnya akan terbuka. Jika ada cangkang yang tertutup setelah direbus lebih baik dibuang saja. Karena itu ciri-ciri kerang yang sudah mati sebelum direbus. Jika dipaksa dimakan rasanya tidak enak dan bisa menyebabkan sakit perut.
+-   Pilih jenis kerang yang segar, kerang yang segar ketika direbus cangkangnya akan terbuka. Jika ada cangkang yang tertutup setelah direbus lebih baik dibuang saja. Karena itu ciri-ciri kerang yang sudah mati sebelum direbus. Jika dipaksa memakan nya, rasanya tidak enak dan bisa sakit perut.
 -   Buang serabut kerang hitam terlebih dahulu. Agar kerang bersih dan rasanya tidak bikin mual atau pusing. Jika menggunakan kerang yang lainnya tidak perlu melakukan hal ini.
--   Rebus kerang dengan aneka rempah-rempah untuk menghasilkan kerang yang harum.  Anek rempahnya seperti jahe, laos, serai, daun salam dan daun jeruk. Bisa memilih salah satu jenis aneka rempah-rempah ini.
+-   Rebus kerang dengan aneka rempah-rempah untuk menghasilkan kerang yang harum.  Jenis rempah-rempah seperti jahe, laos, serai, daun salam dan daun jeruk. Bisa memilih salah satu jenis aneka rempah-rempah ini.
 
 ## Mulai memasak
 

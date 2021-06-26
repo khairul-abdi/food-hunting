@@ -31,7 +31,7 @@ time: "40 menit"
 serving: 8
 
 # is trending
-trending: true
+trending: false
 ---
 Ayam goreng kecap masakan rumahan yang lezat dan menggugah selera. Menu hidangan ini layak menjadi menu andalan sehari-hari. Saya rekomen banget resep ini buat pecinta masakan ayam yang gurih dan manis.
 

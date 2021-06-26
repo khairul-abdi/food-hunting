@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "resep/tumis-pare-teri/index.md",
+=======
+            "file": "resep/masak-kerang-lada-hitam/index.md",
+>>>>>>> 5a07f59 (updated trending and favorites)
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "resep/tumis-pare-teri/index.md",
+=======
+                "file": "resep/masak-kerang-lada-hitam/index.md",
+>>>>>>> 5a07f59 (updated trending and favorites)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +96,7 @@
   },
   "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "resep/tumis-pare-teri/index.md",
     "resep/tumis-pare-teri/apa.png",
     "resep/tumis-pare-teri/tips.png",
@@ -98,5 +107,17 @@
     "resep/terong-penyet-sambal-santan/index.md",
     "resep/pentol-saus-mentega/banner.png",
     "resep/pentol-saus-mentega/index.md"
+=======
+    "resep/masak-kerang-lada-hitam/index.md",
+    "resep/resep-sayur-pare-kuah-santan/index.md",
+    "artikel/10-tips-membuat-pentol-bakso/index.md",
+    "resep/resep-bakso-ayam-rasa-sapi/index.md",
+    "resep/Pentol-cilok-ayam/index.md",
+    "resep/pentol-bakso-sapi-halus/index.md",
+    "resep/pentol-bakso-ayam/index.md",
+    "resep/bakso-urat-jantung-ayam/index.md",
+    "resep/bakso-urat-ati-ampela/index.md",
+    "resep/bakso-urat/index.md"
+>>>>>>> 5a07f59 (updated trending and favorites)
   ]
 }
