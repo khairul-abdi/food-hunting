@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "19165d8ec87c94c2",
+        "id": "7d9fbe5bda2c70d9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/resep-bakso-ayam-rasa-sapi/index.md",
+            "file": "resep/tumis-pare-teri/index.md",
             "mode": "source"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Resep tahu t",
-                "matchingCase": true,
+                "query": "BANDENG BAKAR CABUT DURI",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331
+    "width": 388
   },
   "right": {
     "id": "c310a4d4ff100904",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/resep-bakso-ayam-rasa-sapi/index.md",
+                "file": "resep/tumis-pare-teri/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19165d8ec87c94c2",
+  "active": "7d9fbe5bda2c70d9",
   "lastOpenFiles": [
-    "resep/resep-bakso-ayam-rasa-sapi/index.md",
-    "resep/Pentol-cilok-ayam/index.md",
-    "resep/pentol-bakso-sapi-halus/index.md",
-    "resep/pentol-bakso-ayam/index.md",
-    "resep/bakso-urat-jantung-ayam/index.md",
-    "resep/bakso-urat-ati-ampela/index.md",
-    "resep/bakso-urat/index.md",
-    "resep/bakso-urat-ati-ampela/hasil-pentol-bakso-urat.png",
-    "resep/gulai-ayam-kampung/index.md",
-    "resep/masak-kerang-lada-hitam/index.md"
+    "resep/tumis-pare-teri/index.md",
+    "resep/tumis-pare-teri/apa.png",
+    "resep/tumis-pare-teri/tips.png",
+    "resep/resep-sayur-sop-bumbu-iris/index.md",
+    "resep/resep-sayur-sop-bumbu-iris/banner.png",
+    "resep/resep-sayur-pare-kuah-santan/index.md",
+    "resep/tumis/index.md",
+    "resep/terong-penyet-sambal-santan/index.md",
+    "resep/pentol-saus-mentega/banner.png",
+    "resep/pentol-saus-mentega/index.md"
   ]
 }
