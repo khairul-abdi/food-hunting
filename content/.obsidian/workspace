@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/resep-lumpia-sayur-telur/index.md",
+            "file": "resep/bakso-urat-jantung-ayam/index.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bakso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/resep-lumpia-sayur-telur/index.md",
+                "file": "resep/bakso-urat-jantung-ayam/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "38be12a03047aacf",
   "lastOpenFiles": [
+    "resep/bakso-urat-jantung-ayam/index.md",
+    "resep/masak-jantung-ayam-pedas/index.md",
     "resep/resep-lumpia-sayur-telur/index.md",
     "resep/resep-masakan-telur-ceplok-bumbu-bali/index.md",
     "resep/rawon/index.md",
