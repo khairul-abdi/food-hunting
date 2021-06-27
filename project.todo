@@ -1,0 +1,12 @@
+# Todo
+[X] Fix search threshold
+[] Replace pagination with infinite scroll
+[] Replace cdn with local hosted modules
+[] Add English language support
+[] Implement PWA + Google Analytics PWA Support
+
+## Resources
+- https://fusejs.io/
+- https://infinite-scroll.com/
+- https://discourse.gohugo.io/t/has-anyone-implemented-infinite-scrolling-on-a-hugo-website/2985/4
+- https://www.zaginteractive.com/insights/january-2020/seo-best-practices-for-multilingual-sites
