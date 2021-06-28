@@ -1,4 +1,4 @@
-baseURL: https://neztra.com
+baseURL: https://food-hunting.com
 languageCode: id-ID
 defaultContentLanguage: id
 title: Neztra
@@ -12,12 +12,12 @@ params:
   subtitle: Resep Masakan Mudah & Praktis
   description: Saya menulis setiap hari tentang masakan rumahan kekinian, yang mudah dibuat dan cocok untuk masakan sehari-hari.
   signature: Demikian artikel resep dari saya semoga bermanfaat dan selamat mencoba. Sampai jumpa di artikel selanjutnya dan jangan lupa like, komen dan share ya :)
-  author: Neztra
-  email: neztra.phun@gmail.com
-  facebook: https://www.facebook.com/neztraa/
-  instagram: https://www.instagram.com/neztraa1/
-  twitter: https://twitter.com/neztraa/
-  twitter_site: '@neztraa'
+  author: Khairul
+  email: kabdi384@gmail.com
+  facebook: https://www.facebook.com/kabdi384/
+  instagram: https://www.instagram.com/khairul_abdi_dongoran/
+  twitter: https://twitter.com/abdi_ongoran
+  twitter_site: '@abdi_ongoran'
   googleAnalytics: G-P0WW95WJ14
   ads: false
   pwa: false
