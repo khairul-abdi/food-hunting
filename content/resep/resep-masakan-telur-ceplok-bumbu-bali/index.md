@@ -36,7 +36,7 @@ Telur bumbu bali ini saya ceplok terlebih dahulu, supaya bumbunya menyerap dan t
 
 ## Apa itu telur ceplok bumbu bali?
 
-{{< img src="apa.png" alt="Hasil telur ceplok bumbu bali" >}}
+{{< img src="apa.png" alt="Telur ceplok bumbu bali" >}}
 
 Telur ceplok bumbu bali adalah olahan dari telur ayam, dimasak dengan bumbu bali. Sebelum dimasak dengan bumbu bali, telur di ceplok terlebih dahulu dan disisihkan. Lalu bumbu bali dimasak hingga matang dan telur ceplok dimasukan. Diaduk hingga semua lapisan telur rata dengan bumbu bali.
 
@@ -44,7 +44,7 @@ Bumbu balinya yakni bawang merah, bawang putih, cabe merah, tomat, kemiri, jahe 
 
 ## Kalori telur ceplok
 
-{{< img src="kalori.png" alt="Hasil telur ceplok" >}}
+{{< img src="kalori.png" alt="Telur ceplok" >}}
 
 
 -   Sebutir telur ceplok mengandung 97 kalori. 27 kalori berasal dari protein dan 71 berasal dari lemak.

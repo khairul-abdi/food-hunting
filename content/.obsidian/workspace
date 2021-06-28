@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resep/bakso-urat-jantung-ayam/index.md",
+            "file": "resep/resep-lumpia-sayur-telur/index.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resep/bakso-urat-jantung-ayam/index.md",
+                "file": "resep/resep-lumpia-sayur-telur/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +88,15 @@
   },
   "active": "38be12a03047aacf",
   "lastOpenFiles": [
-    "resep/bakso-urat-jantung-ayam/index.md",
-    "resep/masak-jantung-ayam-pedas/index.md",
     "resep/resep-lumpia-sayur-telur/index.md",
+    "resep/resep-mie-goreng-jawa-rumahan/index.md",
     "resep/resep-masakan-telur-ceplok-bumbu-bali/index.md",
-    "resep/rawon/index.md",
-    "resep/ampela-goreng-ungkep/index.md"
+    "resep/resep-mie-goreng-jawa-rumahan/alat.png",
+    "resep/resep-mie-goreng-jawa-rumahan/apa.png",
+    "resep/resep-masakan-telur-ceplok-bumbu-bali/alat.png",
+    "resep/shirataki-noodles-ayam-bawang/index.md",
+    "resep/resep-sayur-pare-kuah-santan/index.md",
+    "resep/resp-mie-goreng-jawa-rumahan/index.md",
+    "resep/bakso-urat-jantung-ayam/index.md"
   ]
 }

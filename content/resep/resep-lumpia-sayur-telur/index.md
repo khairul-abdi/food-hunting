@@ -70,7 +70,11 @@ Setelah proses membuat isian lumpia selesai, lalu isian dimasukan ke dalam kulit
 
 {{< img src="mulai.png" alt="Bahan untuk membuat lumpia" >}}
 
-Membuat lumpia isi sayur ini saya menggunakan kulit lumpia spring roll. Jika ingin membuat sendiri kulit lumpianya juga boleh. Berikut simak resep selengkapnya di bawah ini.
+Membuat lumpia isi sayur ini saya menggunakan kulit lumpia spring roll. Jika ingin membuat sendiri kulit lumpianya juga boleh.
+
+{{< img src="mulai2.png" alt="Lumpia isi sayur telur" >}}
+
+Jika ingin menggunakan isian lain seperti buncis, rebung, bihun dll, juga bisa. Memasak itu memang harus kreatif dan mencoba banyak ide. Berikut simak resep selengkapnya di bawah ini.
 
 {{< post-info prep="15" cook="30 menit" total="45 menit" serving="25 biji/5">}}
 
